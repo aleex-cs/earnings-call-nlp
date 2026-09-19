@@ -1,170 +1,103 @@
 # Contributing to Earnings Call NLP Pipeline
 
-¡Gracias por tu interés en contribuir a este proyecto! Aquí tienes algunas guías para hacerlo de manera efectiva.
+Thanks for wanting to contribute. This is how to do it without fighting the existing stack.
 
-## 🤝 Cómo Contribuir
+## Reporting bugs
 
-### Reporting Bugs
+1. Search [existing issues](https://github.com/aleex-cs/earnings-call-nlp/issues) first.
+2. Open a new issue with:
+   - A short, specific title
+   - Steps to reproduce
+   - Expected vs actual behavior
+   - Environment (Python version, OS, CPU vs CUDA)
 
-Antes de reportar un bug, por favor:
+## Feature ideas
 
-1. Busca en los [issues existentes](https://github.com/yourusername/earnings-call-nlp/issues) para ver si ya fue reportado.
-2. Si es un nuevo bug, crea un issue con:
-   - Título descriptivo
-   - Pasos para reproducir el problema
-   - Comportamiento esperado vs actual
-   - Tu entorno (Python version, OS, etc.)
+1. Check issues so we do not duplicate threads.
+2. Describe the feature and a concrete use case.
+3. Say why it belongs in this pipeline (EDGAR 8-Ks, FinBERT, compare, prices).
 
-### Sugerencias de Features
+## Pull requests
 
-Para sugerir nuevas funcionalidades:
+1. Fork the repository.
+2. Create a branch (`git checkout -b feature/short-name`).
+3. Commit with a message that explains *why*.
+4. Push and open a pull request against `main`.
 
-1. Busca en issues existentes para evitar duplicados.
-2. Describe claramente la feature propuesta y su caso de uso.
-3. Explica por qué sería útil para el proyecto.
+## Code style
 
-### Pull Requests
-
-1. **Fork** el repositorio
-2. Crea una **rama** para tu feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un **Pull Request**
-
-## 📝 Estándares de Código
-
-### Code Style
-
-Usamos **Black** para formatear el código:
+Format Python with **Black**:
 
 ```bash
-black src/ tests/
+black src/ tests/ server.py
 ```
 
-### Type Hints
-
-Añade type hints a las funciones nuevas:
+Add type hints on new functions:
 
 ```python
-def analyze_sentiment(text: str) -> Dict[str, float]:
-    """Analyze sentiment of text."""
+def analyze_sentiment(text: str) -> dict[str, float]:
+    """Return FinBERT-style probabilities."""
     return {"score": 0.5}
 ```
 
-### Documentation
+Document public functions with a short docstring (`Args` / `Returns` when it is not obvious).
 
-Documenta las funciones con docstrings:
-
-```python
-def function_name(param1: str, param2: int) -> bool:
-    """
-    Brief description.
-    
-    Args:
-        param1: Description of param1
-        param2: Description of param2
-    
-    Returns:
-        Description of return value
-    """
-    return True
-```
-
-## 🧪 Testing
-
-### Ejecutar Tests
+## Tests
 
 ```bash
-# Todos los tests
 pytest
-
-# Tests con cobertura
 pytest --cov=src --cov-report=html
-
-# Tests específicos
 pytest tests/test_segmenter.py
 ```
 
-### Escribir Tests
+Add tests next to the behavior you change. Do not require a GPU for unit tests.
 
-Añade tests para nuevas funcionalidades:
-
-```python
-def test_new_feature():
-    """Test new feature."""
-    result = new_function()
-    assert result == expected_value
-```
-
-## 🏗️ Estructura del Proyecto
+## Project layout
 
 ```
 earnings-call-nlp/
-├── src/              # Código fuente
-├── tests/            # Tests
-├── data/             # Datos y resultados
-├── docs/             # Documentación
-├── app.py            # Dashboard
-└── pyproject.toml   # Configuración
+├── server.py             # FastAPI app
+├── public/               # Vanilla JS dashboard
+├── src/                  # Pipeline (EDGAR, FinBERT, market join)
+├── tests/
+├── data/analyzed/        # Cached scored filings (demo)
+├── render.yaml           # Render Blueprint
+└── requirements.txt
 ```
 
-## 📋 Checklist para PRs
+The UI is **FastAPI + `public/`**, not Streamlit.
 
-Antes de abrir un PR, verifica:
+## PR checklist
 
-- [ ] Tests pasan (`pytest`)
-- [ ] Código formateado (`black`)
-- [ ] Type hints añadidos
-- [ ] Docstrings completos
-- [ ] No dependencies innecesarias
-- [ ] README actualizado si es necesario
-- [ ] Commits descriptivos
+- [ ] `pytest` passes
+- [ ] `black` / formatting is reasonable
+- [ ] New code has type hints and docstrings where useful
+- [ ] No extra heavy dependencies
+- [ ] README updated if behavior or deploy steps changed
 
-## 🚀 Desarrollo Local
-
-### Setup
+## Local setup
 
 ```bash
-# Clonar repo
-git clone https://github.com/yourusername/earnings-call-nlp.git
+git clone https://github.com/aleex-cs/earnings-call-nlp.git
 cd earnings-call-nlp
-
-# Crear entorno virtual
 python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate  # Windows
-
-# Instalar dependencias
+# Windows: venv\Scripts\activate
+# macOS/Linux: source venv/bin/activate
+pip install -r requirements.txt
 pip install -r requirements-dev.txt
-
-# Instalar en modo desarrollo
-pip install -e .
+python server.py
 ```
 
-### Ejecutar el Dashboard
+Open http://localhost:8085. Optional CUDA: install a CUDA PyTorch wheel, then use **Force Fresh Download** when you want to recompute.
 
-```bash
-streamlit run app.py
-```
+## Communication
 
-## 📖 Recursos
+- **GitHub Issues** — bugs and features
+- **GitHub Discussions** — questions
 
-- [Python Style Guide](https://peps.python.org/pep-0008/)
-- [Black Documentation](https://black.readthedocs.io/)
-- [Pytest Documentation](https://docs.pytest.org/)
+## Useful areas
 
-## 💬 Communication
-
-- **GitHub Issues**: Para bugs y features
-- **GitHub Discussions**: Para preguntas y debates
-- **Email**: Para asuntos privados
-
-## 🎯 Áreas de Contribución Prioritarias
-
-1. **Más APIs financieras**: Integración con Alpha Vantage, IEX Cloud
-2. **Multi-idioma**: Soporte para earnings calls en otros idiomas
-3. **Visualizaciones**: Mejoras al dashboard
-4. **Tests**: Mayor cobertura de tests
-5. **Documentación**: Mejoras a docs y tutoriales
-
-¡Gracias por contribuir! 🙏
+1. Better Exhibit 99.1 extraction (PDFs, messy HTML)
+2. Tests around FinBERT label mapping and cleaners
+3. Dashboard / compare UX
+4. Docs and Render deploy notes
