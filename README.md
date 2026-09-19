@@ -45,7 +45,19 @@ pip install torch --index-url https://download.pytorch.org/whl/cu126
 
 Pick **CUDA** in the sidebar and check **Force Fresh Download** only when you want to recompute (cached JSON does not use the GPU).
 
-## Deploy on Render
+## Deploy on Render (free demo)
+
+The hosted instance is **cache-only**: click AAPL / MSFT / GOOGL / NVDA / TSLA. It does not load FinBERT.
+
+- **Language:** Python · **Branch:** `main` · **Plan:** Free
+- **Build:** `pip install -r requirements-web.txt`
+- **Start:** `uvicorn server:app --host 0.0.0.0 --port $PORT`
+- **Health:** `/health`
+- **Env:** `PYTHON_VERSION=3.11.9`
+
+Fresh EDGAR + GPU analysis is local: `pip install -r requirements.txt` and `python server.py`.
+
+## Deploy on Render (paid, can re-run FinBERT)
 
 The repo includes `render.yaml`. FinBERT + PyTorch need **more RAM than the free instance** — use at least **Starter (2 GB)**; 4 GB is safer the first time the model downloads.
 

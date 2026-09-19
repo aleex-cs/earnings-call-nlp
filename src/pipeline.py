@@ -15,7 +15,6 @@ from src.real_financial_data import RealDataFetcher as RealFinancialDataFetcher
 from src.fmp_fetcher import FMPAutoFetcher
 from src.segmenter import TranscriptSegmenter
 from src.chunker import TextChunker
-from src.sentiment_analyzer import FinBERTAnalyzer
 from src.uncertainty_analyzer import UncertaintyAnalyzer
 from src.temporal_analyzer import TemporalAnalyzer
 
@@ -47,6 +46,7 @@ class EarningsCallPipeline:
             
         self.segmenter = TranscriptSegmenter()
         self.chunker = TextChunker()
+        from src.sentiment_analyzer import FinBERTAnalyzer
         self.sentiment_analyzer = FinBERTAnalyzer(device=device)
         self.uncertainty_analyzer = UncertaintyAnalyzer()
         self.temporal_analyzer = TemporalAnalyzer()

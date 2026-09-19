@@ -9,7 +9,6 @@ import subprocess
 import sys
 from typing import Any, Dict, List, Optional
 
-import torch
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -35,18 +34,34 @@ class AnalyzeResponse(BaseModel):
     from_cache: bool = False
 
 
+def _cache_only() -> bool:
+    return os.environ.get("RENDER") == "true" or os.environ.get("CACHE_ONLY") == "1"
+
+
 def _gpu_snapshot() -> Dict[str, Any]:
     info: Dict[str, Any] = {
-        "cuda_built": bool(torch.version.cuda),
-        "torch_cuda_version": torch.version.cuda,
-        "cuda_available": torch.cuda.is_available(),
-        "torch_version": torch.__version__,
+        "cuda_built": False,
+        "torch_cuda_version": None,
+        "cuda_available": False,
+        "torch_version": None,
         "device_name": None,
         "utilization": None,
         "memory_used_mb": None,
         "memory_total_mb": None,
         "note": None,
     }
+    if _cache_only():
+        info["note"] = "Hosted demo serves cached analyses only; FinBERT is not loaded."
+        return info
+    try:
+        import torch
+    except Exception:
+        info["note"] = "PyTorch is not installed."
+        return info
+    info["cuda_built"] = bool(torch.version.cuda)
+    info["torch_cuda_version"] = torch.version.cuda
+    info["cuda_available"] = torch.cuda.is_available()
+    info["torch_version"] = torch.__version__
     if torch.cuda.is_available():
         info["device_name"] = torch.cuda.get_device_name(0)
     else:
@@ -147,14 +162,12 @@ def analyze(
     """
     try:
         from src.company_index import company_name
-        from src.pipeline import EarningsCallPipeline
 
-        gpu = _gpu_snapshot()
         requested = device.lower()
 
-        if not force_refresh:
+        if not force_refresh or _cache_only():
             transcripts, temporal = _load_analyzed_for_ticker(ticker.upper(), limit=limit)
-            if transcripts and len(transcripts) >= limit:
+            if transcripts:
                 name = company_name(ticker) or ticker.upper()
                 return AnalyzeResponse(
                     transcripts=transcripts,
@@ -166,6 +179,15 @@ def analyze(
                     from_cache=True,
                 )
 
+        if _cache_only():
+            raise HTTPException(
+                status_code=404,
+                detail=f"No cached analysis for '{ticker.upper()}' on this demo host. "
+                       "Cached tickers: AAPL, GOOGL, MSFT, NVDA, TSLA.",
+            )
+
+        from src.pipeline import EarningsCallPipeline
+        gpu = _gpu_snapshot()
         if requested == "cuda" and not gpu["cuda_available"]:
             raise HTTPException(
                 status_code=400,
