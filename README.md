@@ -24,7 +24,7 @@ Precomputed analyses for AAPL, GOOGL, MSFT, NVDA, and TSLA ship in `data/analyze
 Python 3.10+ (3.11 recommended). GPU optional.
 
 ```bash
-git clone https://github.com/OWNER/earnings-call-nlp.git
+git clone https://github.com/aleex-cs/earnings-call-nlp.git
 cd earnings-call-nlp
 python -m venv venv
 # Windows: venv\Scripts\activate
