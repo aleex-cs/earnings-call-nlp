@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "company": "MICROSOFT CORP",
+    "ticker": "MSFT",
+    "date": "2022-06-02",
+    "quarter": "Q1",
+    "year": 2022
+  },
+  "prepared_remarks": {
+    "text": "FY22 Q4 FX Update Through May June 2, 2022 Forward Looking Statements This presentation contains forward-looking statements, which are any predictions, projections, or other statements about future events.\n\nThese statements are based on current expectations and assumptions that are subject to risks and uncertainties.\n\nActual results could materially differ because of factors discussed in the Risk Factors section and other sections of our Form 10-K, Forms 10-Q, and other reports and filings with the Securities and Exchange Commission.\n\nWe do not undertake any duty to update forward-looking statements.\n\nFY22 Q4 FX Update Through May FY22 Q4 FY22 Q3 ($ in billions, except per share amounts) Guidance Range Additional FX Impact Revised Guidance Range Low High Low High Productivity and Business Processes $16.65 $16.90 $(0.17) $16.48 $16.73 Intelligent Cloud $21.10 $21.35 $(0.18) $20.92 $21.17 More Personal Computing $14.65 $14.95 $(0.11) $14.54 $14.84 Revenue* $52.40 $53.20 $(0.46) $51.94 $52.74 Cost of revenue $16.60 $16.80 $(0.10) $16.50 $16.70 Gross margin* $35.80 $36.40 $(0.36) $35.45 $36.05 Operating expenses $14.90 $14.80 $(0.06) $14.84 $14.74 Operating income* $20.90 $21.60 $(0.30) $20.60 $21.30 Net income* $17.10 $17.67 $(0.25) $16.85 $17.43 Diluted earnings per share* $2.28 $2.35 $(0.03) $2.24 $2.32 * Calculated as no explicit guidance provided.\n\nMicrosoft is providing the above table to help investors understand the impact of unfavorable foreign exchange rate movement in the fourth quarter of fiscal year 2022 since the forward-looking guidance provided on April 26, 2022.\n\nThe additional FX impact is calculated through May 31, 2022, actual results for the full quarter may vary based on FX rate movement through June 30, 2022.\n\nNumbers may not foot due to rounding.",
+    "word_count": 268,
+    "speaker_segments": [],
+    "chunks": [
+      "FY22 Q4 FX Update Through May June 2, 2022 Forward Looking Statements This presentation contains forward-looking statements, which are any predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors discussed in the Risk Factors section and other sections of our Form 10-K, Forms 10-Q, and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update forward-looking statements. FY22 Q4 FX Update Through May FY22 Q4 FY22 Q3 ($ in billions, except per share amounts) Guidance Range Additional FX Impact Revised Guidance Range Low High Low High Productivity and Business Processes $16.65 $16.90 $(0.17) $16.48 $16.73 Intelligent Cloud $21.10 $21.35 $(0.18) $20.92 $21.17 More Personal Computing $14.65 $14.95 $(0.11) $14.54 $14.84 Revenue* $52.40 $53.20 $(0.46) $51.94 $52.74 Cost of revenue $16.60 $16.80 $(0.10) $16.50 $16.70 Gross margin* $35.80 $36.40 $(0.36) $35.45 $36.05 Operating expenses $14.90 $14.80 $(0.06) $14.84 $14.74 Operating income* $20.90 $21.60 $(0.30) $20.60 $21.30 Net income* $17.10 $17.67 $(0.25) $16.85 $17.43 Diluted earnings per share* $2.28 $2.35 $(0.03) $2.24 $2.32 * Calculated as no explicit guidance provided. Microsoft is providing the above table to help investors understand the impact of unfavorable foreign exchange rate movement in the fourth quarter of fiscal year 2022 since the forward-looking guidance provided on April 26, 2022. The additional FX impact is calculated through May 31, 2022, actual results for the full quarter may vary based on FX rate movement through June 30, 2022. Numbers may not foot due to rounding."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.85595703125,
+      "probabilities": {
+        "negative": 0.1209716796875,
+        "neutral": 0.85595703125,
+        "positive": 0.023101806640625
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": -0.097869873046875,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.85595703125,
+        "probabilities": {
+          "positive": 0.023101806640625,
+          "negative": 0.1209716796875,
+          "neutral": 0.85595703125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 12,
+      "evasive_pattern_count": 0,
+      "total_words": 268,
+      "uncertainty_ratio": 0.04477611940298507,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.2686567164179104,
+      "uncertainty_level": "Moderada",
+      "frequent_uncertainty_words": [
+        {
+          "word": "may",
+          "count": 5
+        },
+        {
+          "word": "guidance",
+          "count": 4
+        },
+        {
+          "word": "about",
+          "count": 1
+        },
+        {
+          "word": "could",
+          "count": 1
+        },
+        {
+          "word": "risk",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje generalmente confiado con algunos matices de cautela.",
+      "extracted_cautions": [
+        "FY22 Q4 FX Update Through May June 2, 2022 Forward Looking Statements This presentation contains forward-looking statements, which are any predictions, projections, or other statements about future events.",
+        "Actual results could materially differ because of factors discussed in the Risk Factors section and other sections of our Form 10-K, Forms 10-Q, and other reports and filings with the Securities and Exchange Commission.",
+        "The additional FX impact is calculated through May 31, 2022, actual results for the full quarter may vary based on FX rate movement through June 30, 2022."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": -0.097869873046875,
+    "qa_session_score": 0.0,
+    "sentiment_gap": -0.097869873046875,
+    "gap_interpretation": "Tono similar entre secciones"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.26373626373626374,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.26373626373626374,
+    "gap_interpretation": "Prepared Remarks ligeramente más evasivo que Q&A",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.6612737285557079,
+      "confidence_level": "MODERATE-HIGH",
+      "factors": {
+        "sentiment_factor": 0.4510650634765625,
+        "uncertainty_factor": 0.7313432835820897
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

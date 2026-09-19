@@ -1,0 +1,17 @@
+# CPU wheels from PyPI — what Render and most hosts install.
+# Local NVIDIA: after this file, optionally:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+requests>=2.31.0
+pypdf>=5.0.0
+yfinance>=0.2.28
+nltk>=3.8.1
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+plotly>=5.17.0

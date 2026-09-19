@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2024-02-01",
+    "quarter": "Q1",
+    "year": 2024
+  },
+  "prepared_remarks": {
+    "text": "Apple reports first quarter results Services revenue reaches new all-time record EPS up 16 percent to new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2024 first quarter ended December 30, 2023.\n\nThe Company posted quarterly revenue of $119.6 billion, up 2 percent year over year, and quarterly earnings per diluted share of $2.18, up 16 percent year over year.\n\n“Today Apple is reporting revenue growth for the December quarter fueled by iPhone sales, and an all-time revenue record in Services,” said Tim Cook, Apple’s CEO.\n\n“We are pleased to announce that our installed base of active devices has now surpassed 2.2 billion, reaching an all-time high across all products and geographic segments.\n\nAnd as customers begin to experience the incredible Apple Vision Pro tomorrow, we are committed as ever to the pursuit of groundbreaking innovation — in line with our values and on behalf of our customers.” “Our December quarter top-line performance combined with margin expansion drove an all-time record EPS of $2.18, up 16 percent from last year,” said Luca Maestri, Apple’s CFO.\n\n“During the quarter, we generated nearly $40 billion of operating cash flow, and returned almost $27 billion to our shareholders.\n\nWe are confident in our future, and continue to make significant investments across our business to support our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock.\n\nThe dividend is payable on February 15, 2024 to shareholders of record as of the close of business on February 12, 2024.\n\nBased on the Company’s fiscal calendar, the Company’s fiscal 2024 first quarter had 13 weeks, while the Company’s fiscal 2023 first quarter had 14 weeks.\n\nApple will provide live streaming of its Q1 2024 financial results conference call beginning at 2:00 p.m.\n\nPT on February 1, 2024 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 370,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports first quarter results Services revenue reaches new all-time record EPS up 16 percent to new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2024 first quarter ended December 30, 2023. The Company posted quarterly revenue of $119.6 billion, up 2 percent year over year, and quarterly earnings per diluted share of $2.18, up 16 percent year over year. “Today Apple is reporting revenue growth for the December quarter fueled by iPhone sales, and an all-time revenue record in Services,” said Tim Cook, Apple’s CEO. “We are pleased to announce that our installed base of active devices has now surpassed 2.2 billion, reaching an all-time high across all products and geographic segments. And as customers begin to experience the incredible Apple Vision Pro tomorrow, we are committed as ever to the pursuit of groundbreaking innovation — in line with our values and on behalf of our customers.” “Our December quarter top-line performance combined with margin expansion drove an all-time record EPS of $2.18, up 16 percent from last year,” said Luca Maestri, Apple’s CFO. “During the quarter, we generated nearly $40 billion of operating cash flow, and returned almost $27 billion to our shareholders. We are confident in our future, and continue to make significant investments across our business to support our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock. The dividend is payable on February 15, 2024 to shareholders of record as of the close of business on February 12, 2024. Based on the Company’s fiscal calendar, the Company’s fiscal 2024 first quarter had 13 weeks, while the Company’s fiscal 2023 first quarter had 14 weeks. Apple will provide live streaming of its Q1 2024 financial results conference call beginning at 2:00 p.m.\n\nPT on February 1, 2024 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.7978515625,
+      "probabilities": {
+        "negative": 0.01059722900390625,
+        "neutral": 0.1917724609375,
+        "positive": 0.7978515625
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.7872543334960938,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.7978515625,
+        "probabilities": {
+          "positive": 0.7978515625,
+          "negative": 0.01059722900390625,
+          "neutral": 0.1917724609375
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 370,
+      "uncertainty_ratio": 0.005405405405405406,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.032432432432432434,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.7872543334960938,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.7872543334960938,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.031999999999999994,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.031999999999999994,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9490824673626874,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8936271667480469,
+        "uncertainty_factor": 0.9675675675675676
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

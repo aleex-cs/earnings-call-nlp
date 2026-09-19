@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "company": "GOOGL",
+    "ticker": "GOOGL",
+    "date": "2026-06-04",
+    "quarter": "Q3",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "Alphabet Announces Proposed $80 Billion Equity Capital Raise to Expand AI Infrastructure and Compute Includes agreement by Berkshire Hathaway to invest $10 Billion in Alphabet in a private placement MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced equity offerings totaling $80 billion, in expected aggregate amount, as part of its plan to fund investments in its world-class AI compute infrastructure to meet its unprecedented customer demand.\n\nOfferings These offerings consist of: Proposed Offerings • Concurrent underwritten offerings : $30 billion underwritten public offerings, consisting of: $15 billion in depositary shares representing mandatory convertible preferred stock; and $15 billion in Class A Common Stock and Class C Capital Stock; and • At-the-market offering : $40 billion at-the-market, or ATM, offering program for Class A Common Stock and Class C Capital Stock over time, expected to begin in Q3 2026.\n\nPrivate Placement In addition, Alphabet has reached an agreement to sell $10 billion of stock to Berkshire Hathaway Inc.\n\nin a private placement, comprised of $5 billion in Class A Common Stock at a price of $351.81 per share and $5 billion in Class C Capital Stock at a price of $348.20 per share.\n\nThis investment by Berkshire Hathaway adds to the position it has built since Q3 2025.\n\nUse of Proceeds Alphabet intends to use the net proceeds from the concurrent underwritten public offerings and the concurrent private placement for general corporate purposes, including capital expenditures to scale AI infrastructure and global compute.\n\nA portion of the net proceeds from the depositary share offerings, specifically, will be used to pay the cost of the related capped call transactions described below.\n\nAlphabet intends to use the net proceeds from the ATM program primarily to facilitate, for a period of time, an administrative change to how it meets tax obligations associated with vesting of employee equity awards.\n\nThe company expects approximately $30 billion of ATM program proceeds will be used to meet these 2026 calendar year tax obligations.\n\nAny additional proceeds will be used for general corporate purposes.\n\nInvesting in a Balanced Way AI is driving an expansionary moment for Alphabet.\n\nThe company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply.\n\nBy scaling its investments, the company seeks to expand its foundational infrastructure to support the significant growth opportunity ahead.\n\nDuring its Q1 2026 earnings call, Alphabet announced that its 2026 capital expenditures are expected to be $180-$190 billion, and that it expects 2027 capital expenditures to significantly increase compared to 2026.\n\nThis equity offering is part of Alphabet’s plan to fund its investments in a balanced way while retaining a healthy",
+    "word_count": 444,
+    "speaker_segments": [],
+    "chunks": [
+      "Alphabet Announces Proposed $80 Billion Equity Capital Raise to Expand AI Infrastructure and Compute Includes agreement by Berkshire Hathaway to invest $10 Billion in Alphabet in a private placement MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced equity offerings totaling $80 billion, in expected aggregate amount, as part of its plan to fund investments in its world-class AI compute infrastructure to meet its unprecedented customer demand. Offerings These offerings consist of: Proposed Offerings • Concurrent underwritten offerings : $30 billion underwritten public offerings, consisting of: $15 billion in depositary shares representing mandatory convertible preferred stock; and $15 billion in Class A Common Stock and Class C Capital Stock; and • At-the-market offering : $40 billion at-the-market, or ATM, offering program for Class A Common Stock and Class C Capital Stock over time, expected to begin in Q3 2026. Private Placement In addition, Alphabet has reached an agreement to sell $10 billion of stock to Berkshire Hathaway Inc.\n\nin a private placement, comprised of $5 billion in Class A Common Stock at a price of $351.81 per share and $5 billion in Class C Capital Stock at a price of $348.20 per share. This investment by Berkshire Hathaway adds to the position it has built since Q3 2025. Use of Proceeds Alphabet intends to use the net proceeds from the concurrent underwritten public offerings and the concurrent private placement for general corporate purposes, including capital expenditures to scale AI infrastructure and global compute. A portion of the net proceeds from the depositary share offerings, specifically, will be used to pay the cost of the related capped call transactions described below. Alphabet intends to use the net proceeds from the ATM program primarily to facilitate, for a period of time, an administrative change to how it meets tax obligations associated with vesting of employee equity awards. The company expects approximately $30 billion of ATM program proceeds will be used to meet these 2026 calendar year tax obligations. Any additional proceeds will be used for general corporate purposes. Investing in a Balanced Way AI is driving an expansionary moment for Alphabet. The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply.",
+      "Investing in a Balanced Way AI is driving an expansionary moment for Alphabet. The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply. By scaling its investments, the company seeks to expand its foundational infrastructure to support the significant growth opportunity ahead. During its Q1 2026 earnings call, Alphabet announced that its 2026 capital expenditures are expected to be $180-$190 billion, and that it expects 2027 capital expenditures to significantly increase compared to 2026. This equity offering is part of Alphabet’s plan to fund its investments in a balanced way while retaining a healthy"
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.702392578125,
+      "probabilities": {
+        "negative": 0.011363983154296875,
+        "neutral": 0.286407470703125,
+        "positive": 0.702392578125
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.6910285949707031,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.5302734375,
+        "probabilities": {
+          "positive": 0.4609375,
+          "negative": 0.00902557373046875,
+          "neutral": 0.5302734375
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.94384765625,
+        "probabilities": {
+          "positive": 0.94384765625,
+          "negative": 0.013702392578125,
+          "neutral": 0.04254150390625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 1,
+      "evasive_pattern_count": 0,
+      "total_words": 444,
+      "uncertainty_ratio": 0.0022522522522522522,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.013513513513513513,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.6910285949707031,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.6910285949707031,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.06004618937644341,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.06004618937644341,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9512434392362028,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8455142974853516,
+        "uncertainty_factor": 0.9864864864864865
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

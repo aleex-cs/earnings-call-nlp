@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2021-01-27",
+    "quarter": "Q1",
+    "year": 2021
+  },
+  "prepared_remarks": {
+    "text": "Apple Reports First Quarter Results Revenue up 21 percent and EPS up 35 percent to new all-time records iPhone, Wearables, and Services set new revenue records CUPERTINO, California — January 27, 2021 — Apple ® today announced financial results for its fiscal 2021 first quarter ended December 26, 2020.\n\nThe Company posted all-time record revenue of $111.4 billion, up 21 percent year over year, and quarterly earnings per diluted share of $1.68, up 35 percent.\n\nInternational sales accounted for 64 percent of the quarter’s revenue.\n\n“This quarter for Apple wouldn’t have been possible without the tireless and innovative work of every Apple team member worldwide,” said Tim Cook, Apple’s CEO.\n\n“We’re gratified by the enthusiastic customer response to the unmatched line of cutting-edge products that we delivered across a historic holiday season.\n\nWe are also focused on how we can help the communities we’re a part of build back strongly and equitably, through efforts like our Racial Equity and Justice Initiative as well as our multi-year commitment to invest $350 billion throughout the United States.” “Our December quarter business performance was fueled by double-digit growth in each product category, which drove all-time revenue records in each of our geographic segments and an all-time high for our installed base of active devices,” said Luca Maestri, Apple’s CFO.\n\n“These results helped us generate record operating cash flow of $38.8 billion.\n\nWe also returned over $30 billion to shareholders during the quarter as we maintain our target of reaching a net cash neutral position over time.” Apple’s Board of Directors has declared a cash dividend of $0.205 per share of the Company’s common stock.\n\nThe dividend is payable on February 11, 2021 to shareholders of record as of the close of business on February 8, 2021.\n\nApple will provide live streaming of its Q1 2021 financial results conference call beginning at 2:00 p.m.\n\nPT on January 27, 2021 at apple.com/investor/earnings-call/.\n\nThis webcast will also be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 377,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple Reports First Quarter Results Revenue up 21 percent and EPS up 35 percent to new all-time records iPhone, Wearables, and Services set new revenue records CUPERTINO, California — January 27, 2021 — Apple ® today announced financial results for its fiscal 2021 first quarter ended December 26, 2020. The Company posted all-time record revenue of $111.4 billion, up 21 percent year over year, and quarterly earnings per diluted share of $1.68, up 35 percent. International sales accounted for 64 percent of the quarter’s revenue. “This quarter for Apple wouldn’t have been possible without the tireless and innovative work of every Apple team member worldwide,” said Tim Cook, Apple’s CEO. “We’re gratified by the enthusiastic customer response to the unmatched line of cutting-edge products that we delivered across a historic holiday season. We are also focused on how we can help the communities we’re a part of build back strongly and equitably, through efforts like our Racial Equity and Justice Initiative as well as our multi-year commitment to invest $350 billion throughout the United States.” “Our December quarter business performance was fueled by double-digit growth in each product category, which drove all-time revenue records in each of our geographic segments and an all-time high for our installed base of active devices,” said Luca Maestri, Apple’s CFO. “These results helped us generate record operating cash flow of $38.8 billion. We also returned over $30 billion to shareholders during the quarter as we maintain our target of reaching a net cash neutral position over time.” Apple’s Board of Directors has declared a cash dividend of $0.205 per share of the Company’s common stock. The dividend is payable on February 11, 2021 to shareholders of record as of the close of business on February 8, 2021. Apple will provide live streaming of its Q1 2021 financial results conference call beginning at 2:00 p.m.\n\nPT on January 27, 2021 at apple.com/investor/earnings-call/. This webcast will also be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.80224609375,
+      "probabilities": {
+        "negative": 0.01003265380859375,
+        "neutral": 0.1876220703125,
+        "positive": 0.80224609375
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.7922134399414062,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.80224609375,
+        "probabilities": {
+          "positive": 0.80224609375,
+          "negative": 0.01003265380859375,
+          "neutral": 0.1876220703125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 377,
+      "uncertainty_ratio": 0.005305039787798408,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.031830238726790444,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.7922134399414062,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.7922134399414062,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.031413612565445025,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.031413612565445025,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.950154000947583,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8961067199707031,
+        "uncertainty_factor": 0.9681697612732095
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

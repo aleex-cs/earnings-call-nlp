@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "company": "AAPL",
+    "ticker": "AAPL",
+    "date": "2023-02-02",
+    "quarter": "Q1",
+    "year": 2023
+  },
+  "prepared_remarks": {
+    "text": "Apple reports first quarter results Installed base crosses 2 billion active devices and hits all-time high for all major product categories Services set new all-time revenue record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 first quarter ended December 31, 2022.\n\nThe Company posted quarterly revenue of $117.2 billion, down 5 percent year over year, and quarterly earnings per diluted share of $1.88.\n\n“As we all continue to navigate a challenging environment, we are proud to have our best lineup of products and services ever, and as always, we remain focused on the long term and are leading with our values in everything we do,” said Tim Cook, Apple’s CEO.\n\n“During the December quarter, we achieved a major milestone and are excited to report that we now have more than 2 billion active devices as part of our growing installed base.” “We set an all-time revenue record of $20.8 billion in our Services business, and in spite of a difficult macroeconomic environment and significant supply constraints, we grew total company revenue on a constant currency basis,” said Luca Maestri, Apple’s CFO.\n\n“We generated $34 billion in operating cash flow and returned over $25 billion to shareholders during the quarter while continuing to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.23 per share of the Company’s common stock.\n\nThe dividend is payable on February 16, 2023 to shareholders of record as of the close of business on February 13, 2023.\n\nApple will provide live streaming of its Q1 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on February 2, 2023 at apple.com/investor/earnings-call.\n\nThis webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 336,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports first quarter results Installed base crosses 2 billion active devices and hits all-time high for all major product categories Services set new all-time revenue record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 first quarter ended December 31, 2022. The Company posted quarterly revenue of $117.2 billion, down 5 percent year over year, and quarterly earnings per diluted share of $1.88. “As we all continue to navigate a challenging environment, we are proud to have our best lineup of products and services ever, and as always, we remain focused on the long term and are leading with our values in everything we do,” said Tim Cook, Apple’s CEO. “During the December quarter, we achieved a major milestone and are excited to report that we now have more than 2 billion active devices as part of our growing installed base.” “We set an all-time revenue record of $20.8 billion in our Services business, and in spite of a difficult macroeconomic environment and significant supply constraints, we grew total company revenue on a constant currency basis,” said Luca Maestri, Apple’s CFO. “We generated $34 billion in operating cash flow and returned over $25 billion to shareholders during the quarter while continuing to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.23 per share of the Company’s common stock. The dividend is payable on February 16, 2023 to shareholders of record as of the close of business on February 13, 2023. Apple will provide live streaming of its Q1 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on February 2, 2023 at apple.com/investor/earnings-call. This webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.51513671875,
+      "probabilities": {
+        "negative": 0.388916015625,
+        "neutral": 0.51513671875,
+        "positive": 0.09613037109375
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": -0.29278564453125,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.51513671875,
+        "probabilities": {
+          "positive": 0.09613037109375,
+          "negative": 0.388916015625,
+          "neutral": 0.51513671875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 3,
+      "evasive_pattern_count": 0,
+      "total_words": 336,
+      "uncertainty_ratio": 0.008928571428571428,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.05357142857142856,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "challenging",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "ASSETS",
+    "EQUITY",
+    "NOTE TO EDITORS"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": -0.29278564453125,
+    "qa_session_score": 0.0,
+    "sentiment_gap": -0.29278564453125,
+    "gap_interpretation": "Q&A ligeramente más optimista que Prepared remarks"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.030021443888491782,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.030021443888491782,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.7982232230050224,
+      "confidence_level": "MODERATE-HIGH",
+      "factors": {
+        "sentiment_factor": 0.353607177734375,
+        "uncertainty_factor": 0.9464285714285714
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

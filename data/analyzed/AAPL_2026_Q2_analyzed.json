@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2026-04-30",
+    "quarter": "Q2",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "Apple reports second quarter results March quarter records for total company revenue, iPhone revenue, and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 second quarter ended March 28, 2026.\n\nThe Company posted quarterly revenue of $111.2 billion, up 17 percent year over year.\n\nDiluted earnings per share was $2.01, up 22 percent year over year.\n\n“Today Apple is proud to report our best March quarter ever, with revenue of $111.2 billion and double-digit growth across every geographic segment,” said Tim Cook, Apple’s CEO.\n\n“iPhone achieved a March quarter revenue record, fueled by such extraordinary demand for the iPhone 17 lineup.\n\nDuring the quarter, Services achieved yet another all-time record, and we were excited to introduce remarkable new products to our strongest lineup ever.\n\nThat included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.” “Our strong business performance during the March quarter generated over $28 billion in operating cash flow and drove new March quarter records for both operating cash flow and EPS,” said Kevan Parekh, Apple’s CFO.\n\n“Continued strong customer demand for our products and services once again helped us achieve a new all-time high for our installed base of active devices across all major product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock, an increase of 4 percent.\n\nThe dividend is payable on May 14, 2026, to shareholders of record as of the close of business on May 11, 2026.\n\nThe board of directors has also authorized an additional program to repurchase up to $100 billion of the Company’s common stock.\n\nApple will provide live streaming of its Q2 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on April 30, 2026, at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 379,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports second quarter results March quarter records for total company revenue, iPhone revenue, and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 second quarter ended March 28, 2026. The Company posted quarterly revenue of $111.2 billion, up 17 percent year over year. Diluted earnings per share was $2.01, up 22 percent year over year. “Today Apple is proud to report our best March quarter ever, with revenue of $111.2 billion and double-digit growth across every geographic segment,” said Tim Cook, Apple’s CEO. “iPhone achieved a March quarter revenue record, fueled by such extraordinary demand for the iPhone 17 lineup. During the quarter, Services achieved yet another all-time record, and we were excited to introduce remarkable new products to our strongest lineup ever. That included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.” “Our strong business performance during the March quarter generated over $28 billion in operating cash flow and drove new March quarter records for both operating cash flow and EPS,” said Kevan Parekh, Apple’s CFO. “Continued strong customer demand for our products and services once again helped us achieve a new all-time high for our installed base of active devices across all major product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock, an increase of 4 percent. The dividend is payable on May 14, 2026, to shareholders of record as of the close of business on May 11, 2026. The board of directors has also authorized an additional program to repurchase up to $100 billion of the Company’s common stock. Apple will provide live streaming of its Q2 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on April 30, 2026, at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.8486328125,
+      "probabilities": {
+        "negative": 0.008758544921875,
+        "neutral": 0.142578125,
+        "positive": 0.8486328125
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.839874267578125,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.8486328125,
+        "probabilities": {
+          "positive": 0.8486328125,
+          "negative": 0.008758544921875,
+          "neutral": 0.142578125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 5,
+      "evasive_pattern_count": 0,
+      "total_words": 379,
+      "uncertainty_ratio": 0.013192612137203167,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.07915567282321899,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "may",
+          "count": 2
+        },
+        {
+          "word": "around",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": [
+        "The dividend is payable on May 14, 2026, to shareholders of record as of the close of business on May 11, 2026."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.839874267578125,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.839874267578125,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.078125,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.078125,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9206175288298514,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.9199371337890625,
+        "uncertainty_factor": 0.920844327176781
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

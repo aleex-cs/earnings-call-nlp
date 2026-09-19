@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2015-10-27",
+    "quarter": "Q4",
+    "year": 2015
+  },
+  "prepared_remarks": {
+    "text": "Apple Reports Record Fourth Quarter Results iPhone, Apple Watch & App Store Drive Revenue Growth of 22% CUPERTINO, California — October 27, 2015 — Apple ® today announced financial results for its fiscal 2015 fourth quarter ended September 26, 2015.\n\nThe Company posted quarterly revenue of $51.5 billion and quarterly net profit of $11.1 billion, or $1.96 per diluted share.\n\nThese results compare to revenue of $42.1 billion and net profit of $8.5 billion, or $1.42 per diluted share, in the year-ago quarter.\n\nGross margin was 39.9 percent compared to 38 percent in the year-ago quarter.\n\nInternational sales accounted for 62 percent of the quarter’s revenue.\n\nThe growth was fueled by record fourth quarter sales of iPhone ® , the expanded availability of Apple Watch ® , and all-time records for Mac ® sales and revenue from services.\n\n“Fiscal 2015 was Apple’s most successful year ever, with revenue growing 28% to nearly $234 billion.\n\nThis continued success is the result of our commitment to making the best, most innovative products on earth, and it’s a testament to the tremendous execution by our teams,” said Tim Cook, Apple’s CEO.\n\n“We are heading into the holidays with our strongest product lineup yet, including iPhone 6s and iPhone 6s Plus, Apple Watch with an expanded lineup of cases and bands, the new iPad Pro and the all-new Apple TV which begins shipping this week.” “Apple’s record September quarter results drove earnings per share growth of 38% and operating cash flow of $13.5 billion,” said Luca Maestri, Apple’s CFO.\n\n“We returned $17 billion to our investors during the quarter through share repurchases and dividends, and we have now completed over $143 billion of our $200 billion capital return program.” Apple is providing the following guidance for its fiscal 2016 first quarter: • revenue between $75.5 billion and $77.5 billion • gross margin between 39 percent and 40 percent • operating expenses between $6.3 billion and $6.4 billion • other income/(expense) of $400 million • tax rate of 26.2 percent Apple’s board of directors has declared a cash dividend of $.52 per share of the Company’s common stock.\n\nThe dividend is payable on November 12, 2015, to shareholders of record as of the close of business on November 9, 2015.\n\nApple will provide live streaming of its Q4 2015 financial results conference call beginning at 2:00 p.m.\n\nPDT on October 27, 2015 at www.apple.com/quicktime/qtv/earningsq415.\n\nThis webcast will also be available for replay for approximately two weeks thereafter.",
+    "word_count": 412,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple Reports Record Fourth Quarter Results iPhone, Apple Watch & App Store Drive Revenue Growth of 22% CUPERTINO, California — October 27, 2015 — Apple ® today announced financial results for its fiscal 2015 fourth quarter ended September 26, 2015. The Company posted quarterly revenue of $51.5 billion and quarterly net profit of $11.1 billion, or $1.96 per diluted share. These results compare to revenue of $42.1 billion and net profit of $8.5 billion, or $1.42 per diluted share, in the year-ago quarter. Gross margin was 39.9 percent compared to 38 percent in the year-ago quarter. International sales accounted for 62 percent of the quarter’s revenue. The growth was fueled by record fourth quarter sales of iPhone ® , the expanded availability of Apple Watch ® , and all-time records for Mac ® sales and revenue from services. “Fiscal 2015 was Apple’s most successful year ever, with revenue growing 28% to nearly $234 billion. This continued success is the result of our commitment to making the best, most innovative products on earth, and it’s a testament to the tremendous execution by our teams,” said Tim Cook, Apple’s CEO. “We are heading into the holidays with our strongest product lineup yet, including iPhone 6s and iPhone 6s Plus, Apple Watch with an expanded lineup of cases and bands, the new iPad Pro and the all-new Apple TV which begins shipping this week.” “Apple’s record September quarter results drove earnings per share growth of 38% and operating cash flow of $13.5 billion,” said Luca Maestri, Apple’s CFO. “We returned $17 billion to our investors during the quarter through share repurchases and dividends, and we have now completed over $143 billion of our $200 billion capital return program.” Apple is providing the following guidance for its fiscal 2016 first quarter: • revenue between $75.5 billion and $77.5 billion • gross margin between 39 percent and 40 percent • operating expenses between $6.3 billion and $6.4 billion • other income/(expense) of $400 million • tax rate of 26.2 percent Apple’s board of directors has declared a cash dividend of $.52 per share of the Company’s common stock. The dividend is payable on November 12, 2015, to shareholders of record as of the close of business on November 9, 2015.",
+      "The dividend is payable on November 12, 2015, to shareholders of record as of the close of business on November 9, 2015. Apple will provide live streaming of its Q4 2015 financial results conference call beginning at 2:00 p.m.\n\nPDT on October 27, 2015 at www.apple.com/quicktime/qtv/earningsq415. This webcast will also be available for replay for approximately two weeks thereafter."
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.5179443359375,
+      "probabilities": {
+        "negative": 0.01723480224609375,
+        "neutral": 0.5179443359375,
+        "positive": 0.4648284912109375
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.44759368896484375,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.90625,
+        "probabilities": {
+          "positive": 0.90625,
+          "negative": 0.014312744140625,
+          "neutral": 0.079345703125
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.95654296875,
+        "probabilities": {
+          "positive": 0.023406982421875,
+          "negative": 0.0201568603515625,
+          "neutral": 0.95654296875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 412,
+      "uncertainty_ratio": 0.0048543689320388345,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.029126213592233004,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "guidance",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.44759368896484375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.44759368896484375,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.02877697841726618,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.02877697841726618,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9091045509264307,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.7237968444824219,
+        "uncertainty_factor": 0.970873786407767
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

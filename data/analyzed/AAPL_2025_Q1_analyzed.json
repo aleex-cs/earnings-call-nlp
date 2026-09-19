@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2025-01-30",
+    "quarter": "Q1",
+    "year": 2025
+  },
+  "prepared_remarks": {
+    "text": "Apple reports first quarter results All-time records for total company revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 first quarter ended December 28, 2024.\n\nThe Company posted quarterly revenue of $124.3 billion, up 4 percent year over year, and quarterly diluted earnings per share of $2.40, up 10 percent year over year.\n\n“Today Apple is reporting our best quarter ever, with revenue of $124.3 billion, up 4 percent from a year ago,” said Tim Cook, Apple’s CEO.\n\n“We were thrilled to bring customers our best-ever lineup of products and services during the holiday season.\n\nThrough the power of Apple silicon, we’re unlocking new possibilities for our users with Apple Intelligence, which makes apps and experiences even better and more personal.\n\nAnd we’re excited that Apple Intelligence will be available in even more languages this April.” “Our record revenue and strong operating margins drove EPS to a new all-time record with double-digit growth and allowed us to return over $30 billion to shareholders,” said Kevan Parekh, Apple’s CFO.\n\n“We are also pleased that our installed base of active devices has reached a new all-time high across all products and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.25 per share of the Company’s common stock.\n\nThe dividend is payable on February 13, 2025, to shareholders of record as of the close of business on February 10, 2025.\n\nApple will provide live streaming of its Q1 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on January 30, 2025 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 327,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports first quarter results All-time records for total company revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 first quarter ended December 28, 2024. The Company posted quarterly revenue of $124.3 billion, up 4 percent year over year, and quarterly diluted earnings per share of $2.40, up 10 percent year over year. “Today Apple is reporting our best quarter ever, with revenue of $124.3 billion, up 4 percent from a year ago,” said Tim Cook, Apple’s CEO. “We were thrilled to bring customers our best-ever lineup of products and services during the holiday season. Through the power of Apple silicon, we’re unlocking new possibilities for our users with Apple Intelligence, which makes apps and experiences even better and more personal. And we’re excited that Apple Intelligence will be available in even more languages this April.” “Our record revenue and strong operating margins drove EPS to a new all-time record with double-digit growth and allowed us to return over $30 billion to shareholders,” said Kevan Parekh, Apple’s CFO. “We are also pleased that our installed base of active devices has reached a new all-time high across all products and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.25 per share of the Company’s common stock. The dividend is payable on February 13, 2025, to shareholders of record as of the close of business on February 10, 2025. Apple will provide live streaming of its Q1 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on January 30, 2025 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.6513671875,
+      "probabilities": {
+        "negative": 0.010894775390625,
+        "neutral": 0.337646484375,
+        "positive": 0.6513671875
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.640472412109375,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.6513671875,
+        "probabilities": {
+          "positive": 0.6513671875,
+          "negative": 0.010894775390625,
+          "neutral": 0.337646484375
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 327,
+      "uncertainty_ratio": 0.0061162079510703364,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.03669724770642201,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.640472412109375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.640472412109375,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.03614457831325301,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.03614457831325301,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9275361157338553,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8202362060546875,
+        "uncertainty_factor": 0.963302752293578
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

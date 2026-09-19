@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2022-10-27",
+    "quarter": "Q4",
+    "year": 2022
+  },
+  "prepared_remarks": {
+    "text": "Apple Reports Fourth Quarter Results September quarter record for Revenue and EPS Active installed base of devices reaches all-time high for all major product categories CUPERTINO, California — October 27, 2022 — Apple ® today announced financial results for its fiscal 2022 fourth quarter ended September 24, 2022.\n\nThe Company posted a September quarter record revenue of $90.1 billion, up 8 percent year over year, and quarterly earnings per diluted share of $1.29, up 4 percent year over year.\n\nAnnual revenue was $394.3 billion, up 8 percent year over year, and annual earnings per diluted share were $6.11, up 9 percent year over year.\n\n“This quarter’s results reflect Apple’s commitment to our customers, to the pursuit of innovation, and to leaving the world better than we found it,” said Tim Cook, Apple’s CEO.\n\n“As we head into the holiday season with our most powerful lineup ever, we are leading with our values in every action we take and every decision we make.\n\nWe are deeply committed to protecting the environment, to securing user privacy, to strengthening accessibility, and to creating products and services that can unlock humanity’s full creative potential.” “Our record September quarter results continue to demonstrate our ability to execute effectively in spite of a challenging and volatile macroeconomic backdrop,” said Luca Maestri, Apple’s CFO.\n\n“We continued to invest in our long-term growth plans, generated over $24 billion in operating cash flow, and returned over $29 billion to our shareholders during the quarter.\n\nThe strength of our ecosystem, unmatched customer loyalty, and record sales spurred our active installed base of devices to a new all-time high.\n\nThis quarter capped another record-breaking year for Apple, with revenue growing over $28 billion and operating cash flow up $18 billion versus last year.” Apple’s board of directors has declared a cash dividend of $0.23 per share of the Company’s common stock.\n\nThe dividend is payable on November 10, 2022 to shareholders of record as of the close of business on November 7, 2022.\n\nApple will provide live streaming of its Q4 2022 financial results conference call beginning at 2:00 p.m.\n\nPT on October 27, 2022 at apple.com/investor/earnings-call.\n\nThis webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 415,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple Reports Fourth Quarter Results September quarter record for Revenue and EPS Active installed base of devices reaches all-time high for all major product categories CUPERTINO, California — October 27, 2022 — Apple ® today announced financial results for its fiscal 2022 fourth quarter ended September 24, 2022. The Company posted a September quarter record revenue of $90.1 billion, up 8 percent year over year, and quarterly earnings per diluted share of $1.29, up 4 percent year over year. Annual revenue was $394.3 billion, up 8 percent year over year, and annual earnings per diluted share were $6.11, up 9 percent year over year. “This quarter’s results reflect Apple’s commitment to our customers, to the pursuit of innovation, and to leaving the world better than we found it,” said Tim Cook, Apple’s CEO. “As we head into the holiday season with our most powerful lineup ever, we are leading with our values in every action we take and every decision we make. We are deeply committed to protecting the environment, to securing user privacy, to strengthening accessibility, and to creating products and services that can unlock humanity’s full creative potential.” “Our record September quarter results continue to demonstrate our ability to execute effectively in spite of a challenging and volatile macroeconomic backdrop,” said Luca Maestri, Apple’s CFO. “We continued to invest in our long-term growth plans, generated over $24 billion in operating cash flow, and returned over $29 billion to our shareholders during the quarter. The strength of our ecosystem, unmatched customer loyalty, and record sales spurred our active installed base of devices to a new all-time high. This quarter capped another record-breaking year for Apple, with revenue growing over $28 billion and operating cash flow up $18 billion versus last year.” Apple’s board of directors has declared a cash dividend of $0.23 per share of the Company’s common stock. The dividend is payable on November 10, 2022 to shareholders of record as of the close of business on November 7, 2022. Apple will provide live streaming of its Q4 2022 financial results conference call beginning at 2:00 p.m.\n\nPT on October 27, 2022 at apple.com/investor/earnings-call. This webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.",
+      "This webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.498626708984375,
+      "probabilities": {
+        "negative": 0.0230712890625,
+        "neutral": 0.498626708984375,
+        "positive": 0.47835540771484375
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.45528411865234375,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.9365234375,
+        "probabilities": {
+          "positive": 0.9365234375,
+          "negative": 0.01458740234375,
+          "neutral": 0.04901123046875
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.9482421875,
+        "probabilities": {
+          "positive": 0.0201873779296875,
+          "negative": 0.03155517578125,
+          "neutral": 0.9482421875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 4,
+      "evasive_pattern_count": 0,
+      "total_words": 415,
+      "uncertainty_ratio": 0.00963855421686747,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.05783132530120482,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "challenging",
+          "count": 1
+        },
+        {
+          "word": "volatile",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": [
+        "We are deeply committed to protecting the environment, to securing user privacy, to strengthening accessibility, and to creating products and services that can unlock humanity’s full creative potential.” “Our record September quarter results continue to demonstrate our ability to execute effectively in spite of a challenging and volatile macroeconomic backdrop,” said Luca Maestri, Apple’s CFO."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.45528411865234375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.45528411865234375,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.05714285714285715,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.05714285714285715,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8885370208556393,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.7276420593261719,
+        "uncertainty_factor": 0.9421686746987952
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earnings Call NLP</title>
+    <meta name="description" content="FinBERT scoring of SEC earnings 8-Ks, uncertainty over time, issuer compare, and next-session stock returns.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="static/style.css">
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar glass-panel">
+            <div class="brand">
+                <div class="brand-icon"></div>
+                <h2>NLP Engine</h2>
+            </div>
+            <p class="brand-tag">SEC 8-K tone · FinBERT · price overlay</p>
+
+            <div class="control-section">
+                <h3>Configuration</h3>
+                
+                <div class="form-group">
+                    <label for="company-search">Company</label>
+                    <div class="autocomplete">
+                        <input type="text" id="company-search" placeholder="Search Apple, Microsoft…" autocomplete="off">
+                        <input type="hidden" id="ticker" value="AAPL">
+                        <div id="company-suggestions" class="suggestions hidden"></div>
+                    </div>
+                    <p class="hint" id="selected-company">Selected: Apple Inc. (AAPL)</p>
+                </div>
+                
+                <div class="form-group">
+                    <label for="device">Compute Device</label>
+                    <select id="device">
+                        <option value="cpu">CPU (Standard)</option>
+                        <option value="cuda">CUDA (GPU)</option>
+                    </select>
+                    <div id="gpu-meter" class="gpu-meter">
+                        <div class="gpu-meter-head">
+                            <span id="gpu-name">Checking GPU…</span>
+                            <span id="gpu-util">—</span>
+                        </div>
+                        <div class="gpu-bar"><div id="gpu-bar-fill"></div></div>
+                        <p class="hint" id="gpu-hint"></p>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="limit">History</label>
+                    <select id="limit">
+                        <option value="4">1 year (4 quarters)</option>
+                        <option value="8" selected>2 years (8 quarters)</option>
+                        <option value="12">3 years (12 quarters)</option>
+                        <option value="16">4 years (16 quarters)</option>
+                        <option value="20">5 years (20 quarters)</option>
+                        <option value="24">6 years (24 quarters)</option>
+                        <option value="32">8 years (32 quarters)</option>
+                        <option value="40">10 years (40 quarters)</option>
+                    </select>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="force-refresh">
+                        <span>Force Fresh Download</span>
+                    </label>
+                    <p class="hint">Bypasses cache and re-runs NLP (needed to actually use the GPU)</p>
+                </div>
+
+                <button id="analyze-btn" class="primary-btn">Analyze Company</button>
+            </div>
+
+            <div class="cached-section">
+                <h3>Cached Companies</h3>
+                <p class="hint">Click a ticker to load it instantly from disk.</p>
+                <div id="cached-list"><em>Loading...</em></div>
+            </div>
+        </aside>
+        
+        <main class="main-content">
+            <div id="empty-state" class="empty-state glass-panel">
+                <div class="empty-icon"></div>
+                <h2>Earnings Call NLP Pipeline</h2>
+                <p>Search a company by name. You don’t need to know the ticker. Cached names load instantly; Force Fresh re-downloads 8-Ks and re-runs FinBERT.</p>
+                <p class="disclaimer">Research tool only — not investment advice. Tone scores are model output, not a recommendation to buy or sell.</p>
+                <div class="quick-tickers" id="quick-companies"></div>
+            </div>
+
+            <div id="loading-overlay" class="loading-overlay glass-panel hidden">
+                <div class="spinner"></div>
+                <h3 id="loading-text">Analyzing transcripts...</h3>
+                <p id="loading-sub">This may take a few moments depending on the data size.</p>
+                <div class="gpu-meter loading-gpu">
+                    <div class="gpu-meter-head">
+                        <span>Live GPU</span>
+                        <span id="gpu-util-live">0%</span>
+                    </div>
+                    <div class="gpu-bar"><div id="gpu-bar-live"></div></div>
+                </div>
+            </div>
+
+            <div id="dashboard-content" class="dashboard hidden">
+                <header class="dashboard-header glass-panel">
+                    <h1 id="dashboard-title">Analysis Results</h1>
+                    <p id="dashboard-subtitle">Sentiment, uncertainty, and executive confidence analysis across recent quarters.</p>
+                </header>
+                
+                <div class="tabs">
+                    <button class="tab-btn active" data-target="tab-summary">Executive Summary</button>
+                    <button class="tab-btn" data-target="tab-temporal">Temporal Analysis</button>
+                    <button class="tab-btn" data-target="tab-risks">Risk Factors</button>
+                    <button class="tab-btn" data-target="tab-topics">Trending Topics</button>
+                    <button class="tab-btn" data-target="tab-alerts">Alerts</button>
+                    <button class="tab-btn" data-target="tab-compare">Compare</button>
+                </div>
+
+                <div id="tab-summary" class="tab-content active">
+                    <div id="signal-banner" class="signal-banner glass-panel hidden">
+                        <div class="signal-left">
+                            <p class="signal-label">NLP TRADING SIGNAL</p>
+                            <div id="signal-badge" class="signal-badge">--</div>
+                        </div>
+                        <p id="signal-rationale" class="signal-rationale">Analyzing...</p>
+                    </div>
+
+                    <div class="metrics-grid">
+                        <div id="card-confidence" class="metric-card glass-panel">
+                            <h3>Executive Confidence</h3>
+                            <div class="metric-value" id="val-confidence">--%</div>
+                            <p class="metric-desc">Overall sentiment consistency</p>
+                        </div>
+                        <div class="metric-card glass-panel">
+                            <h3>Prepared Remarks Sentiment</h3>
+                            <div class="metric-value" id="val-sentiment">--</div>
+                            <p class="metric-desc">Average sentiment score</p>
+                        </div>
+                        <div class="metric-card glass-panel" id="card-uncertainty">
+                            <h3>Uncertainty Index</h3>
+                            <div class="metric-value" id="val-uncertainty">--%</div>
+                            <p class="metric-desc">Level of evasive language</p>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-container glass-panel">
+                        <h3>Latest Quarter Profile</h3>
+                        <p class="chart-help">Latest filing vs previous quarter and this company’s own average. Axes are zoomed to the data so small differences are visible.</p>
+                        <div id="radar-chart" style="height: 420px;"></div>
+                    </div>
+                </div>
+
+                <div id="tab-temporal" class="tab-content hidden">
+                    <div id="overall-assessment" class="assessment-box glass-panel">
+                        Evaluating temporal trends...
+                    </div>
+                    <p class="chart-help">Click any quarter dot to open that earnings release.</p>
+                    
+                    <div class="chart-container glass-panel">
+                        <h3>Sentiment Evolution</h3>
+                        <div id="sentiment-chart" class="native-chart"></div>
+                    </div>
+                    
+                    <div class="chart-container glass-panel" id="uncertainty-chart-container">
+                        <h3>Uncertainty Evolution</h3>
+                        <div id="uncertainty-chart" class="native-chart"></div>
+                    </div>
+                    <div class="chart-container glass-panel">
+                        <h3>Sentiment change vs prior quarter</h3>
+                        <p class="chart-help">This is not a clone of sentiment: it shows the quarter-to-quarter jump, which is what actually moves.</p>
+                        <div id="confidence-chart" class="native-chart"></div>
+                    </div>
+                    <div class="chart-container glass-panel">
+                        <h3>Market reaction after the 8-K</h3>
+                        <p class="chart-help" id="market-help">Next session return after each filing vs the tone of that release. Confirmed = tone and price moved the same way.</p>
+                        <div id="market-reaction-chart" style="height: 320px;"></div>
+                    </div>
+                </div>
+
+                <div id="tab-risks" class="tab-content hidden">
+                    <div class="chart-container glass-panel">
+                        <h3>Extracted Risk Factors</h3>
+                        <p class="chart-help">Sentences from the latest earnings release that contain evasive language or elevated uncertainty.</p>
+                        <div id="risks-container" class="risks-list">
+                            <p style="color: var(--text-secondary)">Loading...</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="tab-topics" class="tab-content hidden">
+                    <div class="chart-container glass-panel">
+                        <h3>Topic Frequency Analysis</h3>
+                        <p class="chart-help">How much each topic is mentioned in the latest quarter vs. this company’s historical average.</p>
+                        <div id="topics-container" class="topics-list">
+                            <p style="color: var(--text-secondary)">Loading...</p>
+                        </div>
+                        <div class="topic-series-wrap">
+                            <label for="topic-select">Topic over time</label>
+                            <select id="topic-select"></select>
+                            <div id="topic-series-chart" class="native-chart"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="tab-alerts" class="tab-content hidden">
+                    <div class="chart-container glass-panel">
+                        <h3>Detected Anomalies</h3>
+                        <p class="chart-help">Relative to this company’s own history, not absolute cutoffs.</p>
+                        <div id="alerts-timeline" class="alerts-timeline"></div>
+                        <div id="alerts-container" class="alerts-list"></div>
+                    </div>
+                </div>
+
+                <div id="tab-compare" class="tab-content hidden">
+                    <div class="chart-container glass-panel">
+                        <h3>Compare companies</h3>
+                        <p class="chart-help" id="compare-help">Each series starts at the first 8-K we actually extracted for that ticker — coverage is uneven until you analyze more years. Common window clips to the overlap.</p>
+                        <div class="compare-controls">
+                            <div id="compare-picks" class="compare-picks"></div>
+                            <label class="checkbox-label" style="margin-top:8px;">
+                                <input type="checkbox" id="compare-align" checked>
+                                <span>Common time window</span>
+                            </label>
+                            <button id="compare-run" class="secondary-btn">Update comparison</button>
+                        </div>
+                        <div id="compare-table" class="compare-table"></div>
+                        <p class="chart-help" id="compare-market-note"></p>
+                        <div id="compare-sentiment" style="height: 340px;"></div>
+                        <div id="compare-uncertainty" style="height: 300px; margin-top: 16px;"></div>
+                        <h3 style="margin-top: 24px;">Tone vs next-session return</h3>
+                        <p class="chart-help">X = FinBERT score on the 8-K. Y = close after the filing date vs last close on/before it (typical after-hours reaction). Hover shows excess vs SPY.</p>
+                        <div id="compare-market" style="height: 360px;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="report-view" class="report-view hidden">
+                <button id="report-back" class="secondary-btn">← Back to charts</button>
+                <header class="dashboard-header glass-panel" style="margin-top: 16px;">
+                    <p class="signal-label" id="report-kicker">EARNINGS RELEASE</p>
+                    <h1 id="report-title">Report</h1>
+                    <p id="report-meta"></p>
+                </header>
+                <div class="metrics-grid" id="report-metrics"></div>
+                <div class="chart-container glass-panel">
+                    <h3>Chunk-level sentiment</h3>
+                    <div id="report-chunks-chart" style="height: 280px;"></div>
+                    <div id="report-chunks" class="chunk-list"></div>
+                </div>
+                <div class="chart-container glass-panel">
+                    <h3>Full release text</h3>
+                    <div id="report-text" class="report-text"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="static/app.js"></script>
+</body>
+</html>

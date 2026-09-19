@@ -1,0 +1,91 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "earnings-call-nlp"
+version = "0.1.0"
+description = "Advanced NLP pipeline for earnings call sentiment and uncertainty analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["nlp", "finance", "sentiment-analysis", "earnings-calls", "finbert", "transformers"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Financial and Insurance Industry",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Office/Business :: Financial",
+]
+
+dependencies = [
+    "transformers>=4.30.0",
+    "torch>=2.0.0",
+    "sentencepiece>=0.1.99",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "selenium>=4.15.0",
+    "yfinance>=0.2.28",
+    "nltk>=3.8.1",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "streamlit>=1.28.0",
+    "plotly>=5.17.0",
+    "matplotlib>=3.7.0",
+    "python-dotenv>=1.0.0",
+    "tqdm>=4.65.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.11.1",
+    "black>=23.7.0",
+    "flake8>=6.1.0",
+    "mypy>=1.5.0",
+    "isort>=5.12.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/earnings-call-nlp"
+Documentation = "https://github.com/yourusername/earnings-call-nlp#readme"
+Repository = "https://github.com/yourusername/earnings-call-nlp"
+"Bug Tracker" = "https://github.com/yourusername/earnings-call-nlp/issues"
+
+[project.scripts]
+earnings-call = "src.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 100
+target-version = ['py310', 'py311', 'py312']
+include = '\.pyi?$'
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "--cov=src --cov-report=html --cov-report=term"

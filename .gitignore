@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtualenvs (local GPU + leftover)
+venv/
+venv_310/
+env/
+ENV/
+
+# IDEs / OS
+.vscode/
+.idea/
+.cursor/
+.DS_Store
+Thumbs.db
+*~
+
+# Secrets
+.env
+.env.local
+
+# Runtime caches (regenerated)
+data/transcripts_cache/
+data/market/
+data/raw/
+data/processed/
+data/segmented/
+data/transcripts/
+.cache/
+.hf_cache/
+nltk_data/
+
+# Heavy model weights if downloaded locally
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs / notebooks
+*.log
+.ipynb_checkpoints
+*.ipynb
+
+# Keep analyzed demo cache in git so Render can serve without a GPU
+!data/analyzed/
+!data/analyzed/*.json

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2016-04-26",
+    "quarter": "Q2",
+    "year": 2016
+  },
+  "prepared_remarks": {
+    "text": "Apple Reports Second Quarter Results Capital Return Program Expanding to $250 Billion CUPERTINO, California — April 26, 2016 — Apple ® today announced financial results for its fiscal 2016 second quarter ended March 26, 2016.\n\nThe Company posted quarterly revenue of $50.6 billion and quarterly net income of $10.5 billion, or $1.90 per diluted share.\n\nThese results compare to revenue of $58 billion and net income of $13.6 billion, or $2.33 per diluted share, in the year-ago quarter.\n\nGross margin was 39.4 percent compared to 40.8 percent in the year-ago quarter.\n\nInternational sales accounted for 67 percent of the quarter’s revenue.\n\n“Our team executed extremely well in the face of strong macroeconomic headwinds,” said Tim Cook, Apple’s CEO.\n\n“We are very happy with the continued strong growth in revenue from Services, thanks to the incredible strength of the Apple ecosystem and our growing base of over one billion active devices.” The Company also announced that its Board of Directors has authorized an increase of $50 billion to the Company’s program to return capital to shareholders.\n\nUnder the expanded program, Apple plans to spend a cumulative total of $250 billion of cash by the end of March 2018.\n\n“We generated strong operating cash flow of $11.6 billion and returned $10 billion to shareholders through our capital return program during the March quarter,” said Luca Maestri, Apple’s CFO.\n\n“Thanks to the strength of our business results, we are happy to be announcing today a further increase of the program to $250 billion.” As part of the updated program, the Board has increased its share repurchase authorization to $175 billion from the $140 billion level announced last year.\n\nThe Company also expects to continue to net-share-settle vesting restricted stock units.\n\nThe Board has approved an increase of 10 percent to the Company’s quarterly dividend, and has declared a dividend of $.57 per share, payable on May 12, 2016 to shareholders of record as of the close of business on May 9, 2016.\n\nFrom the inception of its capital return program in August 2012 through March 2016, Apple has returned over $163 billion to shareholders, including $117 billion in share repurchases.\n\nThe Company plans to continue to access the domestic and international debt markets to assist in funding the program.\n\nThe management team and the Board will continue to review each element of the capital return program regularly and plan to provide an update on the program on an annual basis.\n\nApple is providing the following guidance for its fiscal 2016 third quarter: • revenue between $41 billion and $43 billion • gross margin between 37.5 percent and 38 percent • operating expenses between $6 billion and $6.1 billion • other income/(expense) of $300 million • tax rate of 25.5 percent Apple will provide live streaming of its Q2 2016 financial results conference call beginning at 2:00 p.m.\n\nPDT on April 26, 2016 at www.apple.com/investor/earnings-call/ .\n\nThis webcast will also be available for replay for approximately two weeks thereafter.",
+    "word_count": 495,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple Reports Second Quarter Results Capital Return Program Expanding to $250 Billion CUPERTINO, California — April 26, 2016 — Apple ® today announced financial results for its fiscal 2016 second quarter ended March 26, 2016. The Company posted quarterly revenue of $50.6 billion and quarterly net income of $10.5 billion, or $1.90 per diluted share. These results compare to revenue of $58 billion and net income of $13.6 billion, or $2.33 per diluted share, in the year-ago quarter. Gross margin was 39.4 percent compared to 40.8 percent in the year-ago quarter. International sales accounted for 67 percent of the quarter’s revenue. “Our team executed extremely well in the face of strong macroeconomic headwinds,” said Tim Cook, Apple’s CEO. “We are very happy with the continued strong growth in revenue from Services, thanks to the incredible strength of the Apple ecosystem and our growing base of over one billion active devices.” The Company also announced that its Board of Directors has authorized an increase of $50 billion to the Company’s program to return capital to shareholders. Under the expanded program, Apple plans to spend a cumulative total of $250 billion of cash by the end of March 2018. “We generated strong operating cash flow of $11.6 billion and returned $10 billion to shareholders through our capital return program during the March quarter,” said Luca Maestri, Apple’s CFO. “Thanks to the strength of our business results, we are happy to be announcing today a further increase of the program to $250 billion.” As part of the updated program, the Board has increased its share repurchase authorization to $175 billion from the $140 billion level announced last year. The Company also expects to continue to net-share-settle vesting restricted stock units. The Board has approved an increase of 10 percent to the Company’s quarterly dividend, and has declared a dividend of $.57 per share, payable on May 12, 2016 to shareholders of record as of the close of business on May 9, 2016. From the inception of its capital return program in August 2012 through March 2016, Apple has returned over $163 billion to shareholders, including $117 billion in share repurchases. The Company plans to continue to access the domestic and international debt markets to assist in funding the program.",
+      "The Company plans to continue to access the domestic and international debt markets to assist in funding the program. The management team and the Board will continue to review each element of the capital return program regularly and plan to provide an update on the program on an annual basis. Apple is providing the following guidance for its fiscal 2016 third quarter: • revenue between $41 billion and $43 billion • gross margin between 37.5 percent and 38 percent • operating expenses between $6 billion and $6.1 billion • other income/(expense) of $300 million • tax rate of 25.5 percent Apple will provide live streaming of its Q2 2016 financial results conference call beginning at 2:00 p.m.\n\nPDT on April 26, 2016 at www.apple.com/investor/earnings-call/ . This webcast will also be available for replay for approximately two weeks thereafter."
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.492401123046875,
+      "probabilities": {
+        "negative": 0.01944732666015625,
+        "neutral": 0.4881591796875,
+        "positive": 0.492401123046875
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.47295379638671875,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.94873046875,
+        "probabilities": {
+          "positive": 0.94873046875,
+          "negative": 0.0170440673828125,
+          "neutral": 0.034423828125
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.94189453125,
+        "probabilities": {
+          "positive": 0.03607177734375,
+          "negative": 0.0218505859375,
+          "neutral": 0.94189453125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 4,
+      "evasive_pattern_count": 0,
+      "total_words": 495,
+      "uncertainty_ratio": 0.00808080808080808,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.04848484848484848,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "may",
+          "count": 2
+        },
+        {
+          "word": "guidance",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": [
+        "The Board has approved an increase of 10 percent to the Company’s quarterly dividend, and has declared a dividend of $.57 per share, payable on May 12, 2016 to shareholders of record as of the close of business on May 9, 2016."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.47295379638671875,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.47295379638671875,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.048,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.048,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8977555881847035,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.7364768981933594,
+        "uncertainty_factor": 0.9515151515151515
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

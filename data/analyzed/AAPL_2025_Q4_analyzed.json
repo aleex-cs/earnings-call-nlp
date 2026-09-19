@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2025-10-30",
+    "quarter": "Q4",
+    "year": 2025
+  },
+  "prepared_remarks": {
+    "text": "Apple reports fourth quarter results September quarter records for total company revenue, iPhone revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 fourth quarter ended September 27, 2025.\n\nThe Company posted quarterly revenue of $102.5 billion, up 8 percent year over year.\n\nDiluted earnings per share was $1.85, up 13 percent year over year on an adjusted basis.\n\n1 “Today, Apple is very proud to report a September quarter revenue record of $102.5 billion, including a September quarter revenue record for iPhone and an all-time revenue record for Services,” said Tim Cook, Apple’s CEO.\n\n“In September, we were thrilled to launch our best iPhone lineup ever, including iPhone 17, iPhone 17 Pro and Pro Max, and iPhone Air.\n\nIn addition, we launched the fantastic AirPods Pro 3 and the all-new Apple Watch lineup.\n\nWhen combined with the recently announced MacBook Pro and iPad Pro with the powerhouse M5 chip, we are excited to be sharing our most extraordinary lineup of products as we head into the holiday season.” “Our September quarter results capped off a record fiscal year, with revenue reaching $416 billion, as well as double-digit EPS growth,” said Kevan Parekh, Apple’s CFO.\n\n“And thanks to our very high levels of customer satisfaction and loyalty, our installed base of active devices also reached a new all-time high across all product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock.\n\nThe dividend is payable on November 13, 2025, to shareholders of record as of the close of business on November 10, 2025.\n\nApple will provide live streaming of its Q4 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on October 30, 2025, at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.\n\nNon-GAAP measure excluding the one-time income tax charge recognized during the fourth quarter of 2024 related to the impact of the reversal of the European General Court’s State Aid decision.\n\nSee the section titled “Reconciliation of 2024 Non-GAAP to GAAP Results of Operations” at the end of the accompanying financial statements.",
+    "word_count": 412,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports fourth quarter results September quarter records for total company revenue, iPhone revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 fourth quarter ended September 27, 2025. The Company posted quarterly revenue of $102.5 billion, up 8 percent year over year. Diluted earnings per share was $1.85, up 13 percent year over year on an adjusted basis. 1 “Today, Apple is very proud to report a September quarter revenue record of $102.5 billion, including a September quarter revenue record for iPhone and an all-time revenue record for Services,” said Tim Cook, Apple’s CEO. “In September, we were thrilled to launch our best iPhone lineup ever, including iPhone 17, iPhone 17 Pro and Pro Max, and iPhone Air. In addition, we launched the fantastic AirPods Pro 3 and the all-new Apple Watch lineup. When combined with the recently announced MacBook Pro and iPad Pro with the powerhouse M5 chip, we are excited to be sharing our most extraordinary lineup of products as we head into the holiday season.” “Our September quarter results capped off a record fiscal year, with revenue reaching $416 billion, as well as double-digit EPS growth,” said Kevan Parekh, Apple’s CFO. “And thanks to our very high levels of customer satisfaction and loyalty, our installed base of active devices also reached a new all-time high across all product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock. The dividend is payable on November 13, 2025, to shareholders of record as of the close of business on November 10, 2025. Apple will provide live streaming of its Q4 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on October 30, 2025, at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+      "This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders. Non-GAAP measure excluding the one-time income tax charge recognized during the fourth quarter of 2024 related to the impact of the reversal of the European General Court’s State Aid decision. See the section titled “Reconciliation of 2024 Non-GAAP to GAAP Results of Operations” at the end of the accompanying financial statements."
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.6304931640625,
+      "probabilities": {
+        "negative": 0.05597686767578125,
+        "neutral": 0.6304931640625,
+        "positive": 0.3136749267578125
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.25769805908203125,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.60595703125,
+        "probabilities": {
+          "positive": 0.60595703125,
+          "negative": 0.0115509033203125,
+          "neutral": 0.382568359375
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.87841796875,
+        "probabilities": {
+          "positive": 0.021392822265625,
+          "negative": 0.10040283203125,
+          "neutral": 0.87841796875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 412,
+      "uncertainty_ratio": 0.0048543689320388345,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.029126213592233004,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.25769805908203125,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.25769805908203125,
+    "gap_interpretation": "Prepared remarks ligeramente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.02877697841726618,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.02877697841726618,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8853675971910792,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.6288490295410156,
+        "uncertainty_factor": 0.970873786407767
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

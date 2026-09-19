@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2025-05-01",
+    "quarter": "Q2",
+    "year": 2025
+  },
+  "prepared_remarks": {
+    "text": "Apple reports second quarter results Services revenue reaches new all-time high EPS sets March quarter record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 second quarter ended March 29, 2025.\n\nThe Company posted quarterly revenue of $95.4 billion, up 5 percent year over year, and quarterly diluted earnings per share of $1.65, up 8 percent year over year.\n\n“Today Apple is reporting strong quarterly results, including double-digit growth in Services,” said Tim Cook, Apple’s CEO.\n\n“We were happy to welcome iPhone 16e to our lineup, and to introduce powerful new Macs and iPads that take advantage of the extraordinary capabilities of Apple silicon.\n\nAnd we were proud to announce that we’ve cut our carbon emissions by 60 percent over the past decade.” “Our March quarter business performance drove EPS growth of 8 percent and $24 billion in operating cash flow, allowing us to return $29 billion to shareholders,” said Kevan Parekh, Apple’s CFO.\n\n“And thanks to our high levels of customer loyalty and satisfaction, our installed base of active devices once again reached a new all-time high across all product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock, an increase of 4 percent.\n\nThe dividend is payable on May 15, 2025 to shareholders of record as of the close of business on May 12, 2025.\n\nThe board of directors has also authorized an additional program to repurchase up to $100 billion of the Company’s common stock.\n\nApple will provide live streaming of its Q2 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on May 1, 2025 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 338,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports second quarter results Services revenue reaches new all-time high EPS sets March quarter record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2025 second quarter ended March 29, 2025. The Company posted quarterly revenue of $95.4 billion, up 5 percent year over year, and quarterly diluted earnings per share of $1.65, up 8 percent year over year. “Today Apple is reporting strong quarterly results, including double-digit growth in Services,” said Tim Cook, Apple’s CEO. “We were happy to welcome iPhone 16e to our lineup, and to introduce powerful new Macs and iPads that take advantage of the extraordinary capabilities of Apple silicon. And we were proud to announce that we’ve cut our carbon emissions by 60 percent over the past decade.” “Our March quarter business performance drove EPS growth of 8 percent and $24 billion in operating cash flow, allowing us to return $29 billion to shareholders,” said Kevan Parekh, Apple’s CFO. “And thanks to our high levels of customer loyalty and satisfaction, our installed base of active devices once again reached a new all-time high across all product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock, an increase of 4 percent. The dividend is payable on May 15, 2025 to shareholders of record as of the close of business on May 12, 2025. The board of directors has also authorized an additional program to repurchase up to $100 billion of the Company’s common stock. Apple will provide live streaming of its Q2 2025 financial results conference call beginning at 2:00 p.m.\n\nPT on May 1, 2025 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.6904296875,
+      "probabilities": {
+        "negative": 0.01013946533203125,
+        "neutral": 0.299560546875,
+        "positive": 0.6904296875
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.6802902221679688,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.6904296875,
+        "probabilities": {
+          "positive": 0.6904296875,
+          "negative": 0.01013946533203125,
+          "neutral": 0.299560546875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 5,
+      "evasive_pattern_count": 0,
+      "total_words": 338,
+      "uncertainty_ratio": 0.014792899408284023,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.08875739644970412,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "may",
+          "count": 3
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": [
+        "The dividend is payable on May 15, 2025 to shareholders of record as of the close of business on May 12, 2025."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.6802902221679688,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.6802902221679688,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.08746355685131194,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.08746355685131194,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.893468230433718,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8401451110839844,
+        "uncertainty_factor": 0.9112426035502958
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

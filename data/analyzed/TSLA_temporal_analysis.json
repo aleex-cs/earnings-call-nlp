@@ -1,0 +1,2608 @@
+{
+  "trend_analysis": {
+    "document": {
+      "trend": "stable",
+      "slope": -0.007741658177693789,
+      "correlation": -0.3205769094673474,
+      "start_value": 0.7941637906161222,
+      "end_value": 0.1705136980329241,
+      "total_change": -0.623650092583198
+    },
+    "uncertainty": {
+      "trend": "stable",
+      "slope": -0.0006794322513201446,
+      "correlation": -0.4436461087100879,
+      "start_value": 0.06920052424639579,
+      "end_value": 0.02099860009332711,
+      "total_change": -0.04820192415306868
+    }
+  },
+  "quarterly_deltas": [
+    {
+      "from_quarter": "2018 Q2",
+      "to_quarter": "2018 Q3",
+      "document_sentiment_delta": {
+        "delta": -0.3849044183287958,
+        "current_score": 0.4092593722873264,
+        "previous_score": 0.7941637906161222,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -48.46662903507375
+      },
+      "uncertainty_delta": -0.001061722984566138,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2018 Q3",
+      "to_quarter": "2018 Q4",
+      "document_sentiment_delta": {
+        "delta": 0.02400492658518777,
+        "current_score": 0.43326429887251416,
+        "previous_score": 0.4092593722873264,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 5.865455554756304
+      },
+      "uncertainty_delta": 0.0008796036461457962,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2018 Q4",
+      "to_quarter": "2019 Q1",
+      "document_sentiment_delta": {
+        "delta": -0.6122804121537642,
+        "current_score": -0.17901611328125,
+        "previous_score": 0.43326429887251416,
+        "interpretation": "Deterioro significativo en el tono (ALERTA)",
+        "severity": "negative_major",
+        "percentage_change": -141.31799313885415
+      },
+      "uncertainty_delta": -0.01379521116660408,
+      "alert_level": "HIGH"
+    },
+    {
+      "from_quarter": "2019 Q1",
+      "to_quarter": "2019 Q2",
+      "document_sentiment_delta": {
+        "delta": 0.5674082438151042,
+        "current_score": 0.3883921305338542,
+        "previous_score": -0.17901611328125,
+        "interpretation": "Mejora significativa en el tono",
+        "severity": "positive_major",
+        "percentage_change": 316.959313558359
+      },
+      "uncertainty_delta": -0.0026458741537425112,
+      "alert_level": "LOW_POSITIVE"
+    },
+    {
+      "from_quarter": "2019 Q2",
+      "to_quarter": "2019 Q3",
+      "document_sentiment_delta": {
+        "delta": -0.231402587890625,
+        "current_score": 0.15698954264322917,
+        "previous_score": 0.3883921305338542,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -59.579628344311885
+      },
+      "uncertainty_delta": -0.028134472714875448,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2019 Q3",
+      "to_quarter": "2019 Q4",
+      "document_sentiment_delta": {
+        "delta": 0.40569737752278645,
+        "current_score": 0.5626869201660156,
+        "previous_score": 0.15698954264322917,
+        "interpretation": "Mejora moderada en el tono",
+        "severity": "positive_moderate",
+        "percentage_change": 258.42318583267996
+      },
+      "uncertainty_delta": 0.004042263183353621,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2019 Q4",
+      "to_quarter": "2020 Q1",
+      "document_sentiment_delta": {
+        "delta": -0.005697886149088505,
+        "current_score": 0.5569890340169271,
+        "previous_score": 0.5626869201660156,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -1.0126210410946457
+      },
+      "uncertainty_delta": 0.0005940498792726054,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2020 Q1",
+      "to_quarter": "2020 Q2",
+      "document_sentiment_delta": {
+        "delta": -0.23332316080729165,
+        "current_score": 0.32366587320963547,
+        "previous_score": 0.5569890340169271,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -41.890081591839895
+      },
+      "uncertainty_delta": -0.0012949506276695236,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2020 Q2",
+      "to_quarter": "2020 Q3",
+      "document_sentiment_delta": {
+        "delta": 0.3264577229817708,
+        "current_score": 0.6501235961914062,
+        "previous_score": 0.32366587320963547,
+        "interpretation": "Mejora moderada en el tono",
+        "severity": "positive_moderate",
+        "percentage_change": 100.86257156012462
+      },
+      "uncertainty_delta": 0.0067481647930093085,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2020 Q3",
+      "to_quarter": "2020 Q4",
+      "document_sentiment_delta": {
+        "delta": -0.1369369506835938,
+        "current_score": 0.5131866455078125,
+        "previous_score": 0.6501235961914062,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -21.06321805358338
+      },
+      "uncertainty_delta": -0.013699040767386095,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2020 Q4",
+      "to_quarter": "2021 Q1",
+      "document_sentiment_delta": {
+        "delta": -0.09931774139404292,
+        "current_score": 0.41386890411376953,
+        "previous_score": 0.5131866455078125,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -19.353142226794553
+      },
+      "uncertainty_delta": 0.026785714285714288,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2021 Q1",
+      "to_quarter": "2021 Q2",
+      "document_sentiment_delta": {
+        "delta": -0.04464435577392578,
+        "current_score": 0.36922454833984375,
+        "previous_score": 0.41386890411376953,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -10.787076615365471
+      },
+      "uncertainty_delta": -0.015764667641800748,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2021 Q2",
+      "to_quarter": "2021 Q3",
+      "document_sentiment_delta": {
+        "delta": 0.2546211242675782,
+        "current_score": 0.623845672607422,
+        "previous_score": 0.36922454833984375,
+        "interpretation": "Mejora moderada en el tono",
+        "severity": "positive_moderate",
+        "percentage_change": 68.96104969521647
+      },
+      "uncertainty_delta": -2.414125045642479e-05,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2021 Q3",
+      "to_quarter": "2021 Q4",
+      "document_sentiment_delta": {
+        "delta": -0.20337905883789076,
+        "current_score": 0.4204666137695312,
+        "previous_score": 0.623845672607422,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -32.60086072054468
+      },
+      "uncertainty_delta": -0.0008846799875354347,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2021 Q4",
+      "to_quarter": "2022 Q1",
+      "document_sentiment_delta": {
+        "delta": 0.03978881835937509,
+        "current_score": 0.4602554321289063,
+        "previous_score": 0.4204666137695312,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 9.463014911615405
+      },
+      "uncertainty_delta": -0.006254200714563653,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2022 Q1",
+      "to_quarter": "2022 Q2",
+      "document_sentiment_delta": {
+        "delta": -0.2041233062744141,
+        "current_score": 0.2561321258544922,
+        "previous_score": 0.4602554321289063,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -44.35000480716633
+      },
+      "uncertainty_delta": 0.004176147526752015,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2022 Q2",
+      "to_quarter": "2022 Q3",
+      "document_sentiment_delta": {
+        "delta": -0.25809593200683595,
+        "current_score": -0.0019638061523437472,
+        "previous_score": 0.2561321258544922,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -100.76671606335685
+      },
+      "uncertainty_delta": 0.015797506855504517,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2022 Q3",
+      "to_quarter": "2022 Q4",
+      "document_sentiment_delta": {
+        "delta": 0.0033701578776041616,
+        "current_score": 0.0014063517252604144,
+        "previous_score": -0.0019638061523437472,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 171.6135716135716
+      },
+      "uncertainty_delta": -0.00921925515667936,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2022 Q4",
+      "to_quarter": "2023 Q1",
+      "document_sentiment_delta": {
+        "delta": 0.016373189290364583,
+        "current_score": 0.017779541015624997,
+        "previous_score": 0.0014063517252604144,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 1164.2314647377957
+      },
+      "uncertainty_delta": 0.006005019951803997,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2023 Q1",
+      "to_quarter": "2023 Q2",
+      "document_sentiment_delta": {
+        "delta": 0.5767471313476562,
+        "current_score": 0.5945266723632812,
+        "previous_score": 0.017779541015624997,
+        "interpretation": "Mejora significativa en el tono",
+        "severity": "positive_major",
+        "percentage_change": 3243.880878819087
+      },
+      "uncertainty_delta": 0.014036275818889249,
+      "alert_level": "LOW_POSITIVE"
+    },
+    {
+      "from_quarter": "2023 Q2",
+      "to_quarter": "2023 Q3",
+      "document_sentiment_delta": {
+        "delta": -0.3955664740668402,
+        "current_score": 0.198960198296441,
+        "previous_score": 0.5945266723632812,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -66.53468926708341
+      },
+      "uncertainty_delta": -0.02132463168443196,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2023 Q3",
+      "to_quarter": "2023 Q4",
+      "document_sentiment_delta": {
+        "delta": -0.21515740288628474,
+        "current_score": -0.01619720458984375,
+        "previous_score": 0.198960198296441,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -108.1409270439662
+      },
+      "uncertainty_delta": -0.002935655537273315,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2023 Q4",
+      "to_quarter": "2024 Q1",
+      "document_sentiment_delta": {
+        "delta": 0.06954277886284721,
+        "current_score": 0.05334557427300346,
+        "previous_score": -0.01619720458984375,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 429.35049981682096
+      },
+      "uncertainty_delta": 0.02264752751634044,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2024 Q1",
+      "to_quarter": "2024 Q2",
+      "document_sentiment_delta": {
+        "delta": 0.27359347873263895,
+        "current_score": 0.3269390530056424,
+        "previous_score": 0.05334557427300346,
+        "interpretation": "Mejora moderada en el tono",
+        "severity": "positive_moderate",
+        "percentage_change": 512.8700599087863
+      },
+      "uncertainty_delta": -0.005299847697856713,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2024 Q2",
+      "to_quarter": "2024 Q3",
+      "document_sentiment_delta": {
+        "delta": 0.1293792300754123,
+        "current_score": 0.4563182830810547,
+        "previous_score": 0.3269390530056424,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": 39.572889468539394
+      },
+      "uncertainty_delta": -0.01641364159763973,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2024 Q3",
+      "to_quarter": "2024 Q4",
+      "document_sentiment_delta": {
+        "delta": -0.08371486663818362,
+        "current_score": 0.3726034164428711,
+        "previous_score": 0.4563182830810547,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -18.34571827211086
+      },
+      "uncertainty_delta": 0.005254161966294059,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2024 Q4",
+      "to_quarter": "2025 Q1",
+      "document_sentiment_delta": {
+        "delta": -0.11959215310903692,
+        "current_score": 0.25301126333383417,
+        "previous_score": 0.3726034164428711,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -32.09636515165266
+      },
+      "uncertainty_delta": 0.003590647877408218,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2025 Q1",
+      "to_quarter": "2025 Q3",
+      "document_sentiment_delta": {
+        "delta": -0.00010582640930850706,
+        "current_score": 0.25290543692452566,
+        "previous_score": 0.25301126333383417,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -0.04182675819015814
+      },
+      "uncertainty_delta": -0.01815935017984276,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2025 Q3",
+      "to_quarter": "2025 Q4",
+      "document_sentiment_delta": {
+        "delta": -0.11493906899104042,
+        "current_score": 0.13796636793348524,
+        "previous_score": 0.25290543692452566,
+        "interpretation": "Tono estable",
+        "severity": "stable",
+        "percentage_change": -45.44744881279147
+      },
+      "uncertainty_delta": -0.003389018420263141,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2025 Q4",
+      "to_quarter": "2026 Q1",
+      "document_sentiment_delta": {
+        "delta": 0.2843504433680062,
+        "current_score": 0.42231681130149146,
+        "previous_score": 0.13796636793348524,
+        "interpretation": "Mejora moderada en el tono",
+        "severity": "positive_moderate",
+        "percentage_change": 206.10127498978153
+      },
+      "uncertainty_delta": 0.008368841692824858,
+      "alert_level": "LOW"
+    },
+    {
+      "from_quarter": "2026 Q1",
+      "to_quarter": "2026 Q2",
+      "document_sentiment_delta": {
+        "delta": -0.25180311326856736,
+        "current_score": 0.1705136980329241,
+        "previous_score": 0.42231681130149146,
+        "interpretation": "Deterioro moderado en el tono",
+        "severity": "negative_moderate",
+        "percentage_change": -59.6242220366656
+      },
+      "uncertainty_delta": -0.006827486863194624,
+      "alert_level": "LOW"
+    }
+  ],
+  "overall_assessment": "ALERT CRITICAL: 1 significant negative changes detected. Document Trend: stable, Uncertainty: stable. Detailed investigation recommended.",
+  "trading_signal": {
+    "signal": "BUY",
+    "score": 0.252,
+    "color": "#34d399",
+    "rationale": "Latest earnings release shows positive sentiment (score: 0.17), low uncertainty (2%), and deteriorating momentum vs prior quarter.",
+    "factors": {
+      "sentiment": 0.171,
+      "uncertainty": 0.021,
+      "confidence": 0.881,
+      "momentum": -0.148
+    }
+  },
+  "trending_topics": [
+    {
+      "topic": "AI & Technology",
+      "latest_count": 100,
+      "historical_avg": 46.5,
+      "change_pct": 115.0,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 49
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 27
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 43
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 20
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 23
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 52
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 25
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 31
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 45
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 19
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 29
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 58
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 53
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 22
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 29
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 27
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 48
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 32
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 36
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 30
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 31
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 66
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 25
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 54
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 53
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 56
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 65
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 93
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 90
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 125
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 86
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 100
+        }
+      ]
+    },
+    {
+      "topic": "Revenue Growth",
+      "latest_count": 44,
+      "historical_avg": 31.5,
+      "change_pct": 39.8,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 31
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 31
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 36
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 25
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 24
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 40
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 34
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 15
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 38
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 22
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 17
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 28
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 34
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 16
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 25
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 21
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 33
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 16
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 23
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 18
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 18
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 40
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 29
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 49
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 45
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 48
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 37
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 43
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 46
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 59
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 35
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "topic": "Margins & Costs",
+      "latest_count": 31,
+      "historical_avg": 30.2,
+      "change_pct": 2.8,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 50
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 63
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 55
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 29
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 25
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 50
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 23
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 24
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 53
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 36
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 15
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 28
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 28
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 20
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 28
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 19
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 23
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 9
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 12
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 21
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 17
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 37
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 18
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 35
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 27
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 38
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 28
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 32
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 33
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 38
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 21
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "topic": "Guidance & Outlook",
+      "latest_count": 11,
+      "historical_avg": 9.5,
+      "change_pct": 16.4,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 28
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 20
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 20
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 5
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 10
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 14
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 7
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 8
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 12
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 5
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 10
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 9
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 6
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 3
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 4
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 8
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 5
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 7
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 5
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 9
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 4
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 9
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 14
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 13
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 15
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 11
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 7
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 9
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 9
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "topic": "Supply Chain",
+      "latest_count": 5,
+      "historical_avg": 4.8,
+      "change_pct": 4.0,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 7
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 3
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 8
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 6
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 4
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 5
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 6
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 12
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 6
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 9
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 11
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 10
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 5
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 4
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 4
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 5
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 8
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 6
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 6
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "topic": "China & Geopolitics",
+      "latest_count": 2,
+      "historical_avg": 4.2,
+      "change_pct": -52.3,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 6
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 14
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 18
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 4
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 5
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 4
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 6
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 4
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 4
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 3
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 11
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 10
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 6
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 7
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "topic": "Layoffs & Workforce",
+      "latest_count": 1,
+      "historical_avg": 1.6,
+      "change_pct": -36.7,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 7
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 5
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 4
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Competition",
+      "latest_count": 1,
+      "historical_avg": 1.9,
+      "change_pct": -47.5,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 3
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 3
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 5
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Capital Returns",
+      "latest_count": 1,
+      "historical_avg": 0.6,
+      "change_pct": 55.0,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 3
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 4
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 3
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Macroeconomic",
+      "latest_count": 0,
+      "historical_avg": 0.9,
+      "change_pct": -100.0,
+      "series": [
+        {
+          "date": "2018-08-01",
+          "year": 2018,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2018-10-24",
+          "year": 2018,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2019-01-30",
+          "year": 2018,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2019-04-24",
+          "year": 2019,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2019-07-24",
+          "year": 2019,
+          "quarter": "Q2",
+          "count": 0
+        },
+        {
+          "date": "2019-10-23",
+          "year": 2019,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2020-01-29",
+          "year": 2019,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2020-04-29",
+          "year": 2020,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2020-07-22",
+          "year": 2020,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2020-10-21",
+          "year": 2020,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2021-01-27",
+          "year": 2020,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2021-04-26",
+          "year": 2021,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2021-07-26",
+          "year": 2021,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2021-10-20",
+          "year": 2021,
+          "quarter": "Q3",
+          "count": 0
+        },
+        {
+          "date": "2022-01-26",
+          "year": 2021,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2022-04-20",
+          "year": 2022,
+          "quarter": "Q1",
+          "count": 2
+        },
+        {
+          "date": "2022-07-20",
+          "year": 2022,
+          "quarter": "Q2",
+          "count": 1
+        },
+        {
+          "date": "2022-10-19",
+          "year": 2022,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2023-01-25",
+          "year": 2022,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2023-04-19",
+          "year": 2023,
+          "quarter": "Q1",
+          "count": 1
+        },
+        {
+          "date": "2023-07-19",
+          "year": 2023,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2023-10-18",
+          "year": 2023,
+          "quarter": "Q3",
+          "count": 4
+        },
+        {
+          "date": "2024-01-24",
+          "year": 2023,
+          "quarter": "Q4",
+          "count": 1
+        },
+        {
+          "date": "2024-04-23",
+          "year": 2024,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2024-07-23",
+          "year": 2024,
+          "quarter": "Q2",
+          "count": 2
+        },
+        {
+          "date": "2024-10-23",
+          "year": 2024,
+          "quarter": "Q3",
+          "count": 2
+        },
+        {
+          "date": "2025-01-29",
+          "year": 2024,
+          "quarter": "Q4",
+          "count": 2
+        },
+        {
+          "date": "2025-04-22",
+          "year": 2025,
+          "quarter": "Q1",
+          "count": 3
+        },
+        {
+          "date": "2025-10-22",
+          "year": 2025,
+          "quarter": "Q3",
+          "count": 1
+        },
+        {
+          "date": "2026-01-28",
+          "year": 2025,
+          "quarter": "Q4",
+          "count": 0
+        },
+        {
+          "date": "2026-04-22",
+          "year": 2026,
+          "quarter": "Q1",
+          "count": 0
+        },
+        {
+          "date": "2026-07-22",
+          "year": 2026,
+          "quarter": "Q2",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "type": "critical",
+      "date": "2018 Q3",
+      "msg": "Sharp tone deterioration 2018 Q2 → 2018 Q3 (Δ sentiment -0.385)."
+    },
+    {
+      "type": "critical",
+      "date": "2019 Q1",
+      "msg": "Sharp tone deterioration 2018 Q4 → 2019 Q1 (Δ sentiment -0.612)."
+    },
+    {
+      "type": "critical",
+      "date": "2019 Q3",
+      "msg": "Sharp tone deterioration 2019 Q2 → 2019 Q3 (Δ sentiment -0.231)."
+    },
+    {
+      "type": "critical",
+      "date": "2020 Q2",
+      "msg": "Sharp tone deterioration 2020 Q1 → 2020 Q2 (Δ sentiment -0.233)."
+    },
+    {
+      "type": "critical",
+      "date": "2021 Q4",
+      "msg": "Sharp tone deterioration 2021 Q3 → 2021 Q4 (Δ sentiment -0.203)."
+    },
+    {
+      "type": "critical",
+      "date": "2022 Q2",
+      "msg": "Sharp tone deterioration 2022 Q1 → 2022 Q2 (Δ sentiment -0.204)."
+    },
+    {
+      "type": "critical",
+      "date": "2022 Q3",
+      "msg": "Sharp tone deterioration 2022 Q2 → 2022 Q3 (Δ sentiment -0.258)."
+    },
+    {
+      "type": "critical",
+      "date": "2023 Q3",
+      "msg": "Sharp tone deterioration 2023 Q2 → 2023 Q3 (Δ sentiment -0.396)."
+    },
+    {
+      "type": "critical",
+      "date": "2023 Q4",
+      "msg": "Sharp tone deterioration 2023 Q3 → 2023 Q4 (Δ sentiment -0.215)."
+    },
+    {
+      "type": "critical",
+      "date": "2026 Q2",
+      "msg": "Sharp tone deterioration 2026 Q1 → 2026 Q2 (Δ sentiment -0.252)."
+    },
+    {
+      "type": "moderate",
+      "date": "2020 Q4",
+      "msg": "Moderate tone deterioration 2020 Q3 → 2020 Q4 (Δ sentiment -0.137)."
+    },
+    {
+      "type": "moderate",
+      "date": "2021 Q1",
+      "msg": "Uncertainty rose 2020 Q4 → 2021 Q1 (Δ +2.68 pp)."
+    },
+    {
+      "type": "moderate",
+      "date": "2022 Q3",
+      "msg": "Uncertainty rose 2022 Q2 → 2022 Q3 (Δ +1.58 pp)."
+    },
+    {
+      "type": "moderate",
+      "date": "2023 Q2",
+      "msg": "Uncertainty rose 2023 Q1 → 2023 Q2 (Δ +1.40 pp)."
+    },
+    {
+      "type": "moderate",
+      "date": "2024 Q1",
+      "msg": "Uncertainty rose 2023 Q4 → 2024 Q1 (Δ +2.26 pp)."
+    },
+    {
+      "type": "moderate",
+      "date": "2025 Q1",
+      "msg": "Moderate tone deterioration 2024 Q4 → 2025 Q1 (Δ sentiment -0.120)."
+    },
+    {
+      "type": "moderate",
+      "date": "2025 Q4",
+      "msg": "Moderate tone deterioration 2025 Q3 → 2025 Q4 (Δ sentiment -0.115)."
+    },
+    {
+      "type": "moderate",
+      "date": "2026-07-22",
+      "msg": "Topic spike: “AI & Technology” is 115% above the historical average (100 mentions)."
+    },
+    {
+      "type": "moderate",
+      "date": "2026-07-22",
+      "msg": "Topic drop: “China & Geopolitics” is 52% below the historical average."
+    },
+    {
+      "type": "positive",
+      "date": "2026-07-22",
+      "msg": "Language is clearer than usual in 2026 Q2 (uncertainty 2.10% vs avg 3.87%)."
+    },
+    {
+      "type": "positive",
+      "date": "2019 Q2",
+      "msg": "Tone improved 2019 Q1 → 2019 Q2 (Δ sentiment +0.567)."
+    },
+    {
+      "type": "positive",
+      "date": "2019 Q4",
+      "msg": "Tone improved 2019 Q3 → 2019 Q4 (Δ sentiment +0.406)."
+    },
+    {
+      "type": "positive",
+      "date": "2020 Q3",
+      "msg": "Tone improved 2020 Q2 → 2020 Q3 (Δ sentiment +0.326)."
+    },
+    {
+      "type": "positive",
+      "date": "2021 Q3",
+      "msg": "Tone improved 2021 Q2 → 2021 Q3 (Δ sentiment +0.255)."
+    },
+    {
+      "type": "positive",
+      "date": "2023 Q2",
+      "msg": "Tone improved 2023 Q1 → 2023 Q2 (Δ sentiment +0.577)."
+    },
+    {
+      "type": "positive",
+      "date": "2024 Q2",
+      "msg": "Tone improved 2024 Q1 → 2024 Q2 (Δ sentiment +0.274)."
+    },
+    {
+      "type": "positive",
+      "date": "2026 Q1",
+      "msg": "Tone improved 2025 Q4 → 2026 Q1 (Δ sentiment +0.284)."
+    }
+  ]
+}

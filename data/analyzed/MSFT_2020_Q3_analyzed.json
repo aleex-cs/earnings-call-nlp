@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "company": "MICROSOFT CORP",
+    "ticker": "MSFT",
+    "date": "2020-10-27",
+    "quarter": "Q3",
+    "year": 2020
+  },
+  "prepared_remarks": {
+    "text": "Microsoft Cloud Strength Fuels First Quarter Results REDMOND, Wash.\n\ntoday announced the following results for the quarter ended September 30, 2020, as compared to the corresponding period of last fiscal year: • Revenue was $37.2 billion and increased 12% • Operating income was $15.9 billion and increased 25% • Net income was $13.9 billion and increased 30% • Diluted earnings per share was $1.82 and increased 32% “The next decade of economic performance for every business will be defined by the speed of their digital transformation,” said Satya Nadella, chief executive officer of Microsoft.\n\n“We are innovating across our full modern tech stack to help our customers in every industry improve time to value, increase agility, and reduce costs.” “Demand for our cloud offerings drove a strong start to the fiscal year with our commercial cloud revenue generating $15.2 billion, up 31% year over year,” said Amy Hood, executive vice president and chief financial officer of Microsoft.\n\n“We continue to invest against the significant opportunity ahead of us to drive long-term growth.” Business Highlights Revenue in Productivity and Business Processes was $12.3 billion and increased 11%, with the following business highlights: • Office Commercial products and cloud services revenue increased 9% driven by Office 365 Commercial revenue growth of 21% (up 20% in constant currency) • Office Consumer products and cloud services revenue increased 13% and Microsoft 365 Consumer subscribers increased to 45.3 million • LinkedIn revenue increased 16% • Dynamics products and cloud services revenue increased 19% (up 18% in constant currency) driven by Dynamics 365 revenue growth of 38% (up 37% in constant currency) Revenue in Intelligent Cloud was $13.0 billion and increased 20% (up 19% in constant currency), with the following business highlights: • Server products and cloud services revenue increased 22% (up 21% in constant currency) driven by Azure revenue growth of 48% (up 47% in constant currency) Revenue in More Personal Computing was $11.8 billion and increased 6%, with the following business highlights: • Windows OEM revenue declined 5% • Windows Commercial products and cloud services revenue increased 13% (up 12% in constant currency) • Xbox content and services revenue increased 30% • Surface revenue increased 37% (up 36% in constant currency) • Search advertising revenue excluding traffic acquisition costs decreased 10% (down 11% in constant currency) Microsoft returned $9.5 billion to shareholders in the form of share repurchases and dividends in the first quarter of fiscal year 2021, an increase of 21% compared to the first quarter of fiscal year 2020.\n\nBusiness Outlook Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast.\n\nQuarterly Highlights, Product Releases, and Enhancements Every quarter Microsoft delivers hundreds of products, either as new releases, services, or enhancements to current products and services.\n\nThese releases are a result of significant research and development investments, made over multiple years, designed to help customers be more productive and secure and to deliver differentiated value across the cloud and the edge.\n\nHere are the major product releases and other highlights for the quarter, organized by product categories, to help illustrate how we are accelerating innovation across our businesses while expanding our market opportunities.\n\nResponding to COVID-19 At Microsoft, our focus remains on ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers and partners to help them do their best work while remote.",
+    "word_count": 578,
+    "speaker_segments": [],
+    "chunks": [
+      "Microsoft Cloud Strength Fuels First Quarter Results REDMOND, Wash.\n\ntoday announced the following results for the quarter ended September 30, 2020, as compared to the corresponding period of last fiscal year: • Revenue was $37.2 billion and increased 12% • Operating income was $15.9 billion and increased 25% • Net income was $13.9 billion and increased 30% • Diluted earnings per share was $1.82 and increased 32% “The next decade of economic performance for every business will be defined by the speed of their digital transformation,” said Satya Nadella, chief executive officer of Microsoft. “We are innovating across our full modern tech stack to help our customers in every industry improve time to value, increase agility, and reduce costs.” “Demand for our cloud offerings drove a strong start to the fiscal year with our commercial cloud revenue generating $15.2 billion, up 31% year over year,” said Amy Hood, executive vice president and chief financial officer of Microsoft. “We continue to invest against the significant opportunity ahead of us to drive long-term growth.”",
+      "“We continue to invest against the significant opportunity ahead of us to drive long-term growth.” Business Highlights Revenue in Productivity and Business Processes was $12.3 billion and increased 11%, with the following business highlights: • Office Commercial products and cloud services revenue increased 9% driven by Office 365 Commercial revenue growth of 21% (up 20% in constant currency) • Office Consumer products and cloud services revenue increased 13% and Microsoft 365 Consumer subscribers increased to 45.3 million • LinkedIn revenue increased 16% • Dynamics products and cloud services revenue increased 19% (up 18% in constant currency) driven by Dynamics 365 revenue growth of 38% (up 37% in constant currency) Revenue in Intelligent Cloud was $13.0 billion and increased 20% (up 19% in constant currency), with the following business highlights: • Server products and cloud services revenue increased 22% (up 21% in constant currency) driven by Azure revenue growth of 48% (up 47% in constant currency) Revenue in More Personal Computing was $11.8 billion and increased 6%, with the following business highlights: • Windows OEM revenue declined 5% • Windows Commercial products and cloud services revenue increased 13% (up 12% in constant currency) • Xbox content and services revenue increased 30% • Surface revenue increased 37% (up 36% in constant currency) • Search advertising revenue excluding traffic acquisition costs decreased 10% (down 11% in constant currency) Microsoft returned $9.5 billion to shareholders in the form of share repurchases and dividends in the first quarter of fiscal year 2021, an increase of 21% compared to the first quarter of fiscal year 2020.\n\nBusiness Outlook Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast. Quarterly Highlights, Product Releases, and Enhancements Every quarter Microsoft delivers hundreds of products, either as new releases, services, or enhancements to current products and services. These releases are a result of significant research and development investments, made over multiple years, designed to help customers be more productive and secure and to deliver differentiated value across the cloud and the edge. Here are the major product releases and other highlights for the quarter, organized by product categories, to help illustrate how we are accelerating innovation across our businesses while expanding our market opportunities.",
+      "Here are the major product releases and other highlights for the quarter, organized by product categories, to help illustrate how we are accelerating innovation across our businesses while expanding our market opportunities. Responding to COVID-19 At Microsoft, our focus remains on ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers and partners to help them do their best work while remote."
+    ],
+    "chunk_count": 3,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.7669270833333334,
+      "probabilities": {
+        "negative": 0.017072041829427082,
+        "neutral": 0.21607462565104166,
+        "positive": 0.7669270833333334
+      },
+      "method": "average_probability",
+      "chunk_count": 3
+    },
+    "sentiment_score": 0.7498550415039062,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.94287109375,
+        "probabilities": {
+          "positive": 0.94287109375,
+          "negative": 0.01287841796875,
+          "neutral": 0.044464111328125
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.74951171875,
+        "probabilities": {
+          "positive": 0.74951171875,
+          "negative": 0.027984619140625,
+          "neutral": 0.222412109375
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.6083984375,
+        "probabilities": {
+          "positive": 0.6083984375,
+          "negative": 0.01035308837890625,
+          "neutral": 0.38134765625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 578,
+      "uncertainty_ratio": 0.0034602076124567475,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.02076124567474048,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "declined",
+          "count": 1
+        },
+        {
+          "word": "guidance",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.7498550415039062,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.7498550415039062,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.020583190394511144,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.020583190394511144,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9531609459319329,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8749275207519531,
+        "uncertainty_factor": 0.9792387543252595
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

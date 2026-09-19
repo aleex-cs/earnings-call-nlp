@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2026-01-29",
+    "quarter": "Q1",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "Apple reports first quarter results All-time records for total company revenue and EPS iPhone and Services revenue reach new all-time highs CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 first quarter ended December 27, 2025.\n\nThe Company posted quarterly revenue of $143.8 billion, up 16 percent year over year.\n\nDiluted earnings per share was $2.84, up 19 percent year over year.\n\n“Today, Apple is proud to report a remarkable, record-breaking quarter, with revenue of $143.8 billion, up 16 percent from a year ago and well above our expectations,” said Tim Cook, Apple’s CEO.\n\n“iPhone had its best-ever quarter driven by unprecedented demand, with all-time records across every geographic segment, and Services also achieved an all-time revenue record, up 14 percent from a year ago.\n\nWe are also excited to announce that our installed base now has more than 2.5 billion active devices, which is a testament to incredible customer satisfaction for the very best products and services in the world.” “During the December quarter, our record business performance and strong margins led to EPS growth of 19 percent, setting a new all-time EPS record,” said Kevan Parekh, Apple’s CFO.\n\n“These exceptionally strong results generated nearly $54 billion in operating cash flow, allowing us to return almost $32 billion to shareholders.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock.\n\nThe dividend is payable on February 12, 2026, to shareholders of record as of the close of business on February 9, 2026.\n\nApple will provide live streaming of its Q1 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on January 29, 2026, at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 338,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports first quarter results All-time records for total company revenue and EPS iPhone and Services revenue reach new all-time highs CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year. Diluted earnings per share was $2.84, up 19 percent year over year. “Today, Apple is proud to report a remarkable, record-breaking quarter, with revenue of $143.8 billion, up 16 percent from a year ago and well above our expectations,” said Tim Cook, Apple’s CEO. “iPhone had its best-ever quarter driven by unprecedented demand, with all-time records across every geographic segment, and Services also achieved an all-time revenue record, up 14 percent from a year ago. We are also excited to announce that our installed base now has more than 2.5 billion active devices, which is a testament to incredible customer satisfaction for the very best products and services in the world.” “During the December quarter, our record business performance and strong margins led to EPS growth of 19 percent, setting a new all-time EPS record,” said Kevan Parekh, Apple’s CFO. “These exceptionally strong results generated nearly $54 billion in operating cash flow, allowing us to return almost $32 billion to shareholders.” Apple’s board of directors has declared a cash dividend of $0.26 per share of the Company’s common stock. The dividend is payable on February 12, 2026, to shareholders of record as of the close of business on February 9, 2026. Apple will provide live streaming of its Q1 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on January 29, 2026, at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.82568359375,
+      "probabilities": {
+        "negative": 0.01023101806640625,
+        "neutral": 0.1639404296875,
+        "positive": 0.82568359375
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.8154525756835938,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.82568359375,
+        "probabilities": {
+          "positive": 0.82568359375,
+          "negative": 0.01023101806640625,
+          "neutral": 0.1639404296875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 338,
+      "uncertainty_ratio": 0.005917159763313609,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.03550295857988165,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.8154525756835938,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.8154525756835938,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.034985422740524776,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.034985422740524776,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.950304353025538,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.9077262878417969,
+        "uncertainty_factor": 0.9644970414201184
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "date": "2020-09-14",
+    "quarter": "Q2",
+    "year": 2020
+  },
+  "prepared_remarks": {
+    "text": "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI • Unites NVIDIA’s leadership in artificial intelligence with Arm’s vast computing ecosystem to drive innovation for all customers • NVIDIA will expand Arm’s R&D presence in Cambridge, UK, by establishing a world-class AI research and education center, and building an Arm/NVIDIA-powered AI supercomputer for groundbreaking research • NVIDIA will continue Arm’s open-licensing model and customer neutrality and expand Arm’s IP licensing portfolio with NVIDIA technology • Immediately accretive to NVIDIA’s non-GAAP gross margin and EPS • Consideration of $40 billion to be met through a combination of NVIDIA shares and cash SANTA CLARA, Calif., and CAMBRIDGE, U.K., and TOKYO—Sept.\n\n13, 2020— NVIDIA and SoftBank Group Corp.\n\n(SBG) today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, “SoftBank”) in a transaction valued at $40 billion.\n\nThe transaction is expected to be immediately accretive to NVIDIA’s non-GAAP gross margin and non-GAAP earnings per share.\n\nThe combination brings together NVIDIA’s leading AI computing platform with Arm’s vast ecosystem to create the premier computing company for the age of artificial intelligence, accelerating innovation while expanding into large, high-growth markets.\n\nSoftBank will remain committed to Arm’s long-term success through its ownership stake in NVIDIA, expected to be under 10 percent.\n\n“AI is the most powerful technology force of our time and has launched a new wave of computing,” said Jensen Huang, founder and CEO of NVIDIA.\n\n“In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people.\n\nOur combination will create a company fabulously positioned for the age of AI.\n\n“Simon Segars and his team at Arm have built an extraordinary company that is contributing to nearly every technology market in the world.\n\nUniting NVIDIA’s AI computing capabilities with the vast ecosystem of Arm’s CPU, we can advance computing from the cloud, smartphones, PCs, self-driving cars and robotics, to edge IoT, and expand AI computing to every corner of the globe.\n\n“This combination has tremendous benefits for both companies, our customers, and the industry.\n\nFor Arm’s ecosystem, the combination will turbocharge Arm’s R&D capacity and expand its IP portfolio with NVIDIA’s world-leading GPU and AI technology.\n\n“Arm will remain headquartered in Cambridge.\n\nWe will expand on this great site and build a world-class AI research facility, supporting developments in healthcare, life sciences, robotics, self-driving cars and other fields.\n\nAnd, to attract researchers and scientists from the U.K.\n\nand around the world to conduct groundbreaking work, NVIDIA will build a state-of-the-art AI supercomputer, powered by Arm CPUs.\n\nArm Cambridge will be a world-class technology center.” “NVIDIA is the perfect partner for Arm,” said Masayoshi Son, chairman and CEO of SBG.\n\n“Since acquiring Arm, we have honored our commitments and invested heavily in people, technology and R&D, thereby expanding the business into new areas with high growth potential.\n\nJoining forces with a world leader in technology innovation creates new and exciting opportunities for Arm.\n\nThis is a compelling combination that projects Arm, Cambridge and the U.K.\n\nto the forefront of some of the most exciting technological innovations of our time and is why SoftBank is excited to invest in Arm’s long-term success as a major shareholder in NVIDIA.\n\nWe look forward to supporting the continued success of the combined business.” “Arm and NVIDIA share a vision and passion that ubiquitous, energy-efficient computing will help address the world’s most pressing issues from climate change to healthcare, from agriculture to education,” said Simon Segars, CEO of Arm.\n\n“Delivering on this vision requires new approaches to hardware and software and a long-term commitment to research and development.\n\nBy bringing together the technical strengths of our two companies we can accelerate our progress and create new solutions that will enable a global ecosystem of innovators.\n\nMy management team and I are excited to be joining NVIDIA so we can write this next chapter together.” Commitment to Arm and the UK As part of NVIDIA, Arm will continue to operate its open-licensing model while maintaining the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees.\n\nArm partners will also benefit from both companies’ offerings, including NVIDIA’s numerous innovations.\n\nSoftBank and Arm are fully committed to satisfying the undertakings made by SoftBank when it acquired Arm in 2016, which are scheduled to complete in September 2021.\n\nFollowing the closing of the transaction, NVIDIA intends to retain the name and strong brand identity of Arm and expand its base in Cambridge.\n\nArm’s intellectual property will remain registered in the U.K.\n\nNVIDIA will build on Arm’s R&D presence in the U.K., establishing a new global center of excellence in AI research at Arm’s Cambridge campus.\n\nNVIDIA will invest in a state-of-the-art, Arm-powered AI supercomputer, training facilities for developers and a startup incubator, which will attract world-class research talent and create a platform for innovation and industry partnerships in fields such as healthcare, robotics and self-driving cars.\n\nAdditional Transaction Details Under the terms of the transaction, which has been approved by the boards of directors of NVIDIA, SBG and Arm, NVIDIA will pay to SoftBank a total of $21.5 billion in NVIDIA common stock and $12 billion in cash, which includes $2 billion payable at signing.\n\nThe number of NVIDIA shares to be issued at closing is 44.3 million, determined using the average closing price of NVIDIA common stock for the last 30 trading days.\n\nAdditionally, SoftBank may receive up to $5 billion in cash or common stock under an earn-out construct, subject to satisfaction of specific financial performance targets by Arm.\n\nNVIDIA will also issue $1.5 billion in equity to Arm employees.\n\nNVIDIA intends to finance the cash portion of the transaction with",
+    "word_count": 968,
+    "speaker_segments": [],
+    "chunks": [
+      "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI • Unites NVIDIA’s leadership in artificial intelligence with Arm’s vast computing ecosystem to drive innovation for all customers • NVIDIA will expand Arm’s R&D presence in Cambridge, UK, by establishing a world-class AI research and education center, and building an Arm/NVIDIA-powered AI supercomputer for groundbreaking research • NVIDIA will continue Arm’s open-licensing model and customer neutrality and expand Arm’s IP licensing portfolio with NVIDIA technology • Immediately accretive to NVIDIA’s non-GAAP gross margin and EPS • Consideration of $40 billion to be met through a combination of NVIDIA shares and cash SANTA CLARA, Calif., and CAMBRIDGE, U.K., and TOKYO—Sept. 13, 2020— NVIDIA and SoftBank Group Corp.\n\n(SBG) today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, “SoftBank”) in a transaction valued at $40 billion. The transaction is expected to be immediately accretive to NVIDIA’s non-GAAP gross margin and non-GAAP earnings per share. The combination brings together NVIDIA’s leading AI computing platform with Arm’s vast ecosystem to create the premier computing company for the age of artificial intelligence, accelerating innovation while expanding into large, high-growth markets. SoftBank will remain committed to Arm’s long-term success through its ownership stake in NVIDIA, expected to be under 10 percent. “AI is the most powerful technology force of our time and has launched a new wave of computing,” said Jensen Huang, founder and CEO of NVIDIA. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people. Our combination will create a company fabulously positioned for the age of AI. “Simon Segars and his team at Arm have built an extraordinary company that is contributing to nearly every technology market in the world. Uniting NVIDIA’s AI computing capabilities with the vast ecosystem of Arm’s CPU, we can advance computing from the cloud, smartphones, PCs, self-driving cars and robotics, to edge IoT, and expand AI computing to every corner of the globe. “This combination has tremendous benefits for both companies, our customers, and the industry. For Arm’s ecosystem, the combination will turbocharge Arm’s R&D capacity and expand its IP portfolio with NVIDIA’s world-leading GPU and AI technology. “Arm will remain headquartered in Cambridge.",
+      "For Arm’s ecosystem, the combination will turbocharge Arm’s R&D capacity and expand its IP portfolio with NVIDIA’s world-leading GPU and AI technology. “Arm will remain headquartered in Cambridge. We will expand on this great site and build a world-class AI research facility, supporting developments in healthcare, life sciences, robotics, self-driving cars and other fields. And, to attract researchers and scientists from the U.K.\n\nand around the world to conduct groundbreaking work, NVIDIA will build a state-of-the-art AI supercomputer, powered by Arm CPUs. Arm Cambridge will be a world-class technology center.” “NVIDIA is the perfect partner for Arm,” said Masayoshi Son, chairman and CEO of SBG. “Since acquiring Arm, we have honored our commitments and invested heavily in people, technology and R&D, thereby expanding the business into new areas with high growth potential. Joining forces with a world leader in technology innovation creates new and exciting opportunities for Arm. This is a compelling combination that projects Arm, Cambridge and the U.K.\n\nto the forefront of some of the most exciting technological innovations of our time and is why SoftBank is excited to invest in Arm’s long-term success as a major shareholder in NVIDIA. We look forward to supporting the continued success of the combined business.” “Arm and NVIDIA share a vision and passion that ubiquitous, energy-efficient computing will help address the world’s most pressing issues from climate change to healthcare, from agriculture to education,” said Simon Segars, CEO of Arm. “Delivering on this vision requires new approaches to hardware and software and a long-term commitment to research and development. By bringing together the technical strengths of our two companies we can accelerate our progress and create new solutions that will enable a global ecosystem of innovators. My management team and I are excited to be joining NVIDIA so we can write this next chapter together.” Commitment to Arm and the UK As part of NVIDIA, Arm will continue to operate its open-licensing model while maintaining the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies’ offerings, including NVIDIA’s numerous innovations. SoftBank and Arm are fully committed to satisfying the undertakings made by SoftBank when it acquired Arm in 2016, which are scheduled to complete in September 2021.",
+      "SoftBank and Arm are fully committed to satisfying the undertakings made by SoftBank when it acquired Arm in 2016, which are scheduled to complete in September 2021. Following the closing of the transaction, NVIDIA intends to retain the name and strong brand identity of Arm and expand its base in Cambridge. Arm’s intellectual property will remain registered in the U.K.\n\nNVIDIA will build on Arm’s R&D presence in the U.K., establishing a new global center of excellence in AI research at Arm’s Cambridge campus. NVIDIA will invest in a state-of-the-art, Arm-powered AI supercomputer, training facilities for developers and a startup incubator, which will attract world-class research talent and create a platform for innovation and industry partnerships in fields such as healthcare, robotics and self-driving cars. Additional Transaction Details Under the terms of the transaction, which has been approved by the boards of directors of NVIDIA, SBG and Arm, NVIDIA will pay to SoftBank a total of $21.5 billion in NVIDIA common stock and $12 billion in cash, which includes $2 billion payable at signing. The number of NVIDIA shares to be issued at closing is 44.3 million, determined using the average closing price of NVIDIA common stock for the last 30 trading days. Additionally, SoftBank may receive up to $5 billion in cash or common stock under an earn-out construct, subject to satisfaction of specific financial performance targets by Arm. NVIDIA will also issue $1.5 billion in equity to Arm employees. NVIDIA intends to finance the cash portion of the transaction with"
+    ],
+    "chunk_count": 3,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.6051432291666666,
+      "probabilities": {
+        "negative": 0.008417765299479166,
+        "neutral": 0.3863525390625,
+        "positive": 0.6051432291666666
+      },
+      "method": "average_probability",
+      "chunk_count": 3
+    },
+    "sentiment_score": 0.5967254638671875,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.7177734375,
+        "probabilities": {
+          "positive": 0.7177734375,
+          "negative": 0.0091552734375,
+          "neutral": 0.27294921875
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.81689453125,
+        "probabilities": {
+          "positive": 0.81689453125,
+          "negative": 0.00827789306640625,
+          "neutral": 0.1746826171875
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.71142578125,
+        "probabilities": {
+          "positive": 0.28076171875,
+          "negative": 0.00782012939453125,
+          "neutral": 0.71142578125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 4,
+      "evasive_pattern_count": 0,
+      "total_words": 968,
+      "uncertainty_ratio": 0.004132231404958678,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.024793388429752067,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "around",
+          "count": 1
+        },
+        {
+          "word": "issues",
+          "count": 1
+        },
+        {
+          "word": "may",
+          "count": 1
+        },
+        {
+          "word": "issue",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.5967254638671875,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.5967254638671875,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.024665981500513873,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.024665981500513873,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9309956416610844,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.7983627319335938,
+        "uncertainty_factor": 0.9752066115702479
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "company": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "date": "2026-04-29",
+    "quarter": "Q1",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "Alphabet Announces First Quarter 2026 Results MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended March 31, 2026.\n\n• Consolidated Alphabet revenues increased 22%, or 19% in constant currency, to $109.9 billion, reflecting strong performance across the business and our 11th consecutive quarter of double-digit growth.\n\n• Google Services revenues increased 16% to $89.6 billion, led by 19% growth in Google Search & other, 19% in Google subscriptions, platforms, and devices, and 11% in YouTube ads.\n\n• Google Cloud saw a meaningful acceleration in growth as revenues increased 63% to $20.0 billion, led by an increase in Google Cloud Platform (GCP) across enterprise AI Solutions and enterprise AI Infrastructure, as well as core GCP services.\n\n• Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 36.1%.\n\n• Other income reflected a net gain of $37.7 billion, primarily the result of net unrealized gains on our non-marketable equity securities.\n\n• Net income increased 81% and EPS increased 82% to $5.11.\n\n• The company announced a 5% increase to the dividend, resulting in a quarterly cash dividend of $0.22.\n\nSundar Pichai, CEO of Alphabet and Google, said: “2026 is off to a terrific start.\n\nOur AI investments and full stack approach are lighting up every part of the business.\n\nSearch had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth.\n\nGoogle Cloud revenues grew 63% with backlog nearly doubling quarter on quarter to over $460 billion.\n\nThis was our strongest quarter ever for our consumer AI plans, driven by the Gemini App.\n\nOverall the number of paid subscriptions has now reached 350 million, with YouTube and Google One being the key drivers.\n\nGemini Enterprise has great momentum with 40% quarter on quarter growth in paid monthly active users.\n\nAnd, finally, I’m pleased to see Waymo surpass 500,000 fully autonomous rides a week.\n\nThese outstanding results are built on our differentiated, full stack approach.\n\nOur first-party models, like Gemini, are now processing more than 16 billion tokens per minute via direct API use by our customers, up 60% from last quarter.\n\nIt’s really exciting to see how our AI investments are delivering value for our users, customers and business.” Q1 2026 Financial Highlights (unaudited) The following table summarizes our consolidated financial results for the quarter ended March 31, 2025 and 2026 (in millions, except for per share information and percentages).\n\nQuarter Ended March 31, 2025 2026 Revenues $ 90,234 $ 109,896 Change in revenues year over year 12 % 22 % Change in constant currency revenues year over year (1) 14 % 19 % Operating income $ 30,606 $ 39,696 Operating margin 34 % 36 % Other income (expense), net $ 11,183 $ 37,716 Net income $ 34,540 $ 62,578 Diluted net income per share $ 2.81 $ 5.11 (1) Non-GAAP measure.\n\nSee the section captioned “Reconciliation from GAAP Revenues to Non-GAAP Constant Currency Revenues and GAAP Percentage Change in Revenues to Non-GAAP Percentage Change in Constant Currency Revenues” for more details.\n\nQ1 2026 Supplemental Information (in millions, except for number of employees; unaudited) Revenues, Traffic Acquisition Costs (TAC), and Number of Employees Quarter Ended March 31, 2025 2026 Google Search & other $ 50,702 $ 60,399 YouTube ads 8,927 9,883 Google Network 7,256 6,971 Google advertising 66,885 77,253 Google subscriptions, platforms, and devices 10,379 12,384 Google Services total 77,264 89,637 Google Cloud 12,260 20,028 Other Bets 450 411 Hedging gains (losses) 260 (180) Total revenues $ 90,234 $ 109,896 Total TAC $ 13,748 $ 15,228 Number of employees 185,719 194,668 Segment Operating Results Quarter Ended March 31, 2025 2026 Operating income (loss): Google Services $ 32,682 $ 40,589 Google Cloud 2,177 6,598 Other Bets (1,226) (2,100) Alphabet-level activities (1) (3,027) (5,391) Total income from operations $ 30,606 $ 39,696 (1) Alphabet-level activities primarily reflect expenses related to our shared AI research and development.",
+    "word_count": 651,
+    "speaker_segments": [],
+    "chunks": [
+      "Alphabet Announces First Quarter 2026 Results MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended March 31, 2026. • Consolidated Alphabet revenues increased 22%, or 19% in constant currency, to $109.9 billion, reflecting strong performance across the business and our 11th consecutive quarter of double-digit growth. • Google Services revenues increased 16% to $89.6 billion, led by 19% growth in Google Search & other, 19% in Google subscriptions, platforms, and devices, and 11% in YouTube ads. • Google Cloud saw a meaningful acceleration in growth as revenues increased 63% to $20.0 billion, led by an increase in Google Cloud Platform (GCP) across enterprise AI Solutions and enterprise AI Infrastructure, as well as core GCP services. • Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 36.1%. • Other income reflected a net gain of $37.7 billion, primarily the result of net unrealized gains on our non-marketable equity securities. • Net income increased 81% and EPS increased 82% to $5.11. • The company announced a 5% increase to the dividend, resulting in a quarterly cash dividend of $0.22. Sundar Pichai, CEO of Alphabet and Google, said: “2026 is off to a terrific start. Our AI investments and full stack approach are lighting up every part of the business. Search had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth. Google Cloud revenues grew 63% with backlog nearly doubling quarter on quarter to over $460 billion. This was our strongest quarter ever for our consumer AI plans, driven by the Gemini App. Overall the number of paid subscriptions has now reached 350 million, with YouTube and Google One being the key drivers. Gemini Enterprise has great momentum with 40% quarter on quarter growth in paid monthly active users. And, finally, I’m pleased to see Waymo surpass 500,000 fully autonomous rides a week. These outstanding results are built on our differentiated, full stack approach. Our first-party models, like Gemini, are now processing more than 16 billion tokens per minute via direct API use by our customers, up 60% from last quarter. It’s really exciting to see how our AI investments are delivering value for our users, customers and business.”",
+      "It’s really exciting to see how our AI investments are delivering value for our users, customers and business.” Q1 2026 Financial Highlights (unaudited) The following table summarizes our consolidated financial results for the quarter ended March 31, 2025 and 2026 (in millions, except for per share information and percentages). Quarter Ended March 31, 2025 2026 Revenues $ 90,234 $ 109,896 Change in revenues year over year 12 % 22 % Change in constant currency revenues year over year (1) 14 % 19 % Operating income $ 30,606 $ 39,696 Operating margin 34 % 36 % Other income (expense), net $ 11,183 $ 37,716 Net income $ 34,540 $ 62,578 Diluted net income per share $ 2.81 $ 5.11 (1) Non-GAAP measure. See the section captioned “Reconciliation from GAAP Revenues to Non-GAAP Constant Currency Revenues and GAAP Percentage Change in Revenues to Non-GAAP Percentage Change in Constant Currency Revenues” for more details. Q1 2026 Supplemental Information (in millions, except for number of employees; unaudited) Revenues, Traffic Acquisition Costs (TAC), and Number of Employees Quarter Ended March 31, 2025 2026 Google Search & other $ 50,702 $ 60,399 YouTube ads 8,927 9,883 Google Network 7,256 6,971 Google advertising 66,885 77,253 Google subscriptions, platforms, and devices 10,379 12,384 Google Services total 77,264 89,637 Google Cloud 12,260 20,028 Other Bets 450 411 Hedging gains (losses) 260 (180) Total revenues $ 90,234 $ 109,896 Total TAC $ 13,748 $ 15,228 Number of employees 185,719 194,668 Segment Operating Results Quarter Ended March 31, 2025 2026 Operating income (loss): Google Services $ 32,682 $ 40,589 Google Cloud 2,177 6,598 Other Bets (1,226) (2,100) Alphabet-level activities (1) (3,027) (5,391) Total income from operations $ 30,606 $ 39,696 (1) Alphabet-level activities primarily reflect expenses related to our shared AI research and development."
+    ],
+    "chunk_count": 2,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.49098968505859375,
+      "probabilities": {
+        "negative": 0.10518646240234375,
+        "neutral": 0.4037933349609375,
+        "positive": 0.49098968505859375
+      },
+      "method": "average_probability",
+      "chunk_count": 2
+    },
+    "sentiment_score": 0.38580322265625,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.95166015625,
+        "probabilities": {
+          "positive": 0.95166015625,
+          "negative": 0.0150604248046875,
+          "neutral": 0.033172607421875
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.7744140625,
+        "probabilities": {
+          "positive": 0.0303192138671875,
+          "negative": 0.1953125,
+          "neutral": 0.7744140625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 0,
+      "evasive_pattern_count": 0,
+      "total_words": 651,
+      "uncertainty_ratio": 0.0,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.38580322265625,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.38580322265625,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.0,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": 0.0,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9232254028320312,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.692901611328125,
+        "uncertainty_factor": 1.0
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2016-01-26",
+    "quarter": "Q1",
+    "year": 2016
+  },
+  "prepared_remarks": {
+    "text": "Apple Reports Record First Quarter Results iPhone, Apple Watch, Services & Apple TV Drive All-time Record Revenue Results Produce Record Quarterly Profit of $18.4 Billion CUPERTINO, California — January 26, 2016 — Apple ® today announced financial results for its fiscal 2016 first quarter ended December 26, 2015.\n\nThe Company posted record quarterly revenue of $75.9 billion and record quarterly net income of $18.4 billion, or $3.28 per diluted share.\n\nThese results compare to revenue of $74.6 billion and net income of $18 billion, or $3.06 per diluted share, in the year-ago quarter.\n\nGross margin was 40.1 percent compared to 39.9 percent in the year-ago quarter.\n\nInternational sales accounted for 66 percent of the quarter’s revenue.\n\n“Our team delivered Apple’s biggest quarter ever, thanks to the world’s most innovative products and all-time record sales of iPhone, Apple Watch and Apple TV,” said Tim Cook, Apple’s CEO.\n\n“The growth of our Services business accelerated during the quarter to produce record results, and our installed base recently crossed a major milestone of one billion active devices.” “Our record sales and strong margins drove all-time records for net income and EPS in spite of a very difficult macroeconomic environment,” said Luca Maestri, Apple’s CFO.\n\n“We generated operating cash flow of $27.5 billion during the quarter, and returned over $9 billion to investors through share repurchases and dividends.\n\nWe have now completed $153 billion of our $200 billion capital return program.” Apple is providing the following guidance for its fiscal 2016 second quarter: • revenue between $50 billion and $53 billion • gross margin between 39 percent and 39.5 percent • operating expenses between $6 billion and $6.1 billion • other income/(expense) of $325 million • tax rate of 25.5 percent Apple’s board of directors has declared a cash dividend of $.52 per share of the Company’s common stock.\n\nThe dividend is payable on February 11, 2016, to shareholders of record as of the close of business on February 8, 2016.\n\nApple will provide live streaming of its Q1 2016 financial results conference call beginning at 2:00 p.m.\n\nPST on January 26, 2016 at www.apple.com/investor/earnings-call/.\n\nThis webcast will also be available for replay for approximately two weeks thereafter.\n\nQ1’16 Earnings Supplemental Material This press release contains",
+    "word_count": 372,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple Reports Record First Quarter Results iPhone, Apple Watch, Services & Apple TV Drive All-time Record Revenue Results Produce Record Quarterly Profit of $18.4 Billion CUPERTINO, California — January 26, 2016 — Apple ® today announced financial results for its fiscal 2016 first quarter ended December 26, 2015. The Company posted record quarterly revenue of $75.9 billion and record quarterly net income of $18.4 billion, or $3.28 per diluted share. These results compare to revenue of $74.6 billion and net income of $18 billion, or $3.06 per diluted share, in the year-ago quarter. Gross margin was 40.1 percent compared to 39.9 percent in the year-ago quarter. International sales accounted for 66 percent of the quarter’s revenue. “Our team delivered Apple’s biggest quarter ever, thanks to the world’s most innovative products and all-time record sales of iPhone, Apple Watch and Apple TV,” said Tim Cook, Apple’s CEO. “The growth of our Services business accelerated during the quarter to produce record results, and our installed base recently crossed a major milestone of one billion active devices.” “Our record sales and strong margins drove all-time records for net income and EPS in spite of a very difficult macroeconomic environment,” said Luca Maestri, Apple’s CFO. “We generated operating cash flow of $27.5 billion during the quarter, and returned over $9 billion to investors through share repurchases and dividends. We have now completed $153 billion of our $200 billion capital return program.” Apple is providing the following guidance for its fiscal 2016 second quarter: • revenue between $50 billion and $53 billion • gross margin between 39 percent and 39.5 percent • operating expenses between $6 billion and $6.1 billion • other income/(expense) of $325 million • tax rate of 25.5 percent Apple’s board of directors has declared a cash dividend of $.52 per share of the Company’s common stock. The dividend is payable on February 11, 2016, to shareholders of record as of the close of business on February 8, 2016. Apple will provide live streaming of its Q1 2016 financial results conference call beginning at 2:00 p.m.\n\nPST on January 26, 2016 at www.apple.com/investor/earnings-call/. This webcast will also be available for replay for approximately two weeks thereafter. Q1’16 Earnings Supplemental Material This press release contains"
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.87451171875,
+      "probabilities": {
+        "negative": 0.020263671875,
+        "neutral": 0.10528564453125,
+        "positive": 0.87451171875
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.854248046875,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.87451171875,
+        "probabilities": {
+          "positive": 0.87451171875,
+          "negative": 0.020263671875,
+          "neutral": 0.10528564453125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 372,
+      "uncertainty_ratio": 0.005376344086021506,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.03225806451612903,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "guidance",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.854248046875,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.854248046875,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.031830238726790444,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.031830238726790444,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9575874574722782,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.9271240234375,
+        "uncertainty_factor": 0.967741935483871
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

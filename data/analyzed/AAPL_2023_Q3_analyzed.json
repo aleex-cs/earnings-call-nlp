@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "company": "AAPL",
+    "ticker": "AAPL",
+    "date": "2023-08-03",
+    "quarter": "Q3",
+    "year": 2023
+  },
+  "prepared_remarks": {
+    "text": "Apple reports third quarter results Services revenue reaches new all-time high Installed base of active devices sets all-time record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 third quarter ended July 1, 2023.\n\nThe Company posted quarterly revenue of $81.8 billion, down 1 percent year over year, and quarterly earnings per diluted share of $1.26, up 5 percent year over year.\n\n“We are happy to report that we had an all-time revenue record in Services during the June quarter, driven by over 1 billion paid subscriptions, and we saw continued strength in emerging markets thanks to robust sales of iPhone,” said Tim Cook, Apple’s CEO.\n\n“From education to the environment, we are continuing to advance our values, while championing innovation that enriches the lives of our customers and leaves the world better than we found it.” “Our June quarter year-over-year business performance improved from the March quarter, and our installed base of active devices reached an all-time high in every geographic segment,” said Luca Maestri, Apple’s CFO.\n\n“During the quarter, we generated very strong operating cash flow of $26 billion, returned over $24 billion to our shareholders, and continued to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock.\n\nThe dividend is payable on August 17, 2023 to shareholders of record as of the close of business on August 14, 2023.\n\nApple will provide live streaming of its Q3 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on August 3, 2023 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 324,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports third quarter results Services revenue reaches new all-time high Installed base of active devices sets all-time record CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 third quarter ended July 1, 2023. The Company posted quarterly revenue of $81.8 billion, down 1 percent year over year, and quarterly earnings per diluted share of $1.26, up 5 percent year over year. “We are happy to report that we had an all-time revenue record in Services during the June quarter, driven by over 1 billion paid subscriptions, and we saw continued strength in emerging markets thanks to robust sales of iPhone,” said Tim Cook, Apple’s CEO. “From education to the environment, we are continuing to advance our values, while championing innovation that enriches the lives of our customers and leaves the world better than we found it.” “Our June quarter year-over-year business performance improved from the March quarter, and our installed base of active devices reached an all-time high in every geographic segment,” said Luca Maestri, Apple’s CFO. “During the quarter, we generated very strong operating cash flow of $26 billion, returned over $24 billion to our shareholders, and continued to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock. The dividend is payable on August 17, 2023 to shareholders of record as of the close of business on August 14, 2023. Apple will provide live streaming of its Q3 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on August 3, 2023 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.336669921875,
+      "probabilities": {
+        "negative": 0.32861328125,
+        "neutral": 0.336669921875,
+        "positive": 0.33447265625
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.005859375,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.336669921875,
+        "probabilities": {
+          "positive": 0.33447265625,
+          "negative": 0.32861328125,
+          "neutral": 0.336669921875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 324,
+      "uncertainty_ratio": 0.006172839506172839,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.037037037037037035,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "ASSETS",
+    "EQUITY",
+    "NOTE TO EDITORS"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.005859375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.005859375,
+    "gap_interpretation": "Tono similar entre secciones"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.02445652173913043,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.02445652173913043,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8479546440972223,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.5029296875,
+        "uncertainty_factor": 0.962962962962963
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "company": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "date": "2025-02-04",
+    "quarter": "Q4",
+    "year": 2024
+  },
+  "prepared_remarks": {
+    "text": "Alphabet Announces Fourth Quarter and Fiscal Year 2024 Results MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced financial results for the quarter and fiscal year ended December 31, 2024.\n\n• Consolidated Alphabet revenues in Q4 2024 increased 12% year over year to $96.5 billion reflecting robust momentum across the business.\n\n• Google Services revenues increased 10% to $84.1 billion, reflecting the strong momentum across Google Search & other and YouTube ads.\n\n• Google Cloud revenues increased 30% to $12.0 billion led by growth in Google Cloud Platform (GCP) across core GCP products, AI Infrastructure, and Generative AI Solutions.\n\n• Total operating income increased 31% and operating margin expanded by 5% percentage points to 32%.\n\n• Net income increased 28% and EPS increased 31% to $2.15.\n\nSundar Pichai, CEO, said: “Q4 was a strong quarter driven by our leadership in AI and momentum across the business.\n\nWe are building, testing, and launching products and models faster than ever, and making significant progress in compute and driving efficiencies.\n\nIn Search, advances like AI Overviews and Circle to Search are increasing user engagement.\n\nOur AI-powered Google Cloud portfolio is seeing stronger customer demand, and YouTube continues to be the leader in streaming watchtime and podcasts.\n\nTogether, Cloud and YouTube exited 2024 at an annual revenue run rate of $110 billion.\n\nOur results show the power of our differentiated full-stack approach to AI innovation and the continued strength of our core businesses.\n\nWe are confident about the opportunities ahead, and to accelerate our progress, we expect to invest approximately $75 billion in capital expenditures in 2025.” Q4 2024 Financial Highlights The following table summarizes our consolidated financial results for the quarter and fiscal year ended December 31, 2023 and 2024 (in millions, except for per share information and percentages).\n\nQuarter Ended December 31, Year Ended December 31, 2023 2024 2023 2024 (unaudited) (unaudited) Revenues $ 86,310 $ 96,469 $ 307,394 $ 350,018 Change in revenues year over year 13 % 12 % 9 % 14 % Change in constant currency revenues year over year (1) 13 % 12 % 10 % 15 % Operating income $ 23,697 $ 30,972 $ 84,293 $ 112,390 Operating margin 27 % 32 % 27 % 32 % Other income (expense), net $ 715 $ 1,271 $ 1,424 $ 7,425 Net income $ 20,687 $ 26,536 $ 73,795 $ 100,118 Diluted EPS $ 1.64 $ 2.15 $ 5.80 $ 8.04 (1) Non-GAAP measure.\n\nSee the section captioned “Reconciliation from GAAP Revenues to Non-GAAP Constant Currency Revenues and GAAP Percentage Change in Revenues to Non-GAAP Percentage Change in Constant Currency Revenues” for more details.\n\n1 Q4 2024 Supplemental Information (in millions, except for number of employees; unaudited) Revenues, Traffic Acquisition Costs (TAC), and Number of Employees Quarter Ended December 31, 2023 2024 Google Search & other $ 48,020 $ 54,034 YouTube ads 9,200 10,473 Google Network 8,297 7,954 Google advertising 65,517 72,461 Google subscriptions, platforms, and devices 10,794 11,633 Google Services total 76,311 84,094 Google Cloud 9,192 11,955 Other Bets 657 400 Hedging gains (losses) 150 20 Total revenues $ 86,310 $ 96,469 Total TAC $ 13,986 $ 14,848 Number of employees 182,502 183,323 Segment Operating Results As announced on October 17, 2024, the Gemini app team that is developing the direct consumer interface to our Gemini models joined Google DeepMind in the quarter ended December 31, 2024.\n\nThe costs associated with the Gemini app team continue to be reported within our Google Services segment.\n\nQuarter Ended December 31, 2023 2024 Operating income (loss): Google Services $ 26,730 $ 32,836 Google Cloud 864 $ 2,093 Other Bets (863) $ (1,174) Alphabet-level activities (1) (3,034) $ (2,783) Total income from operations $ 23,697 $ 30,972 (1) In addition to the costs included in Alphabet-level activities, hedging gains (losses) related to revenue were $150 million and $20 million for the three months ended December 31, 2023 and 2024, respectively.\n\nFor the three months ended December 31, 2023 and 2024, Alphabet-level activities included substantially all of the charges related to employee severance and our office spa ce charges.",
+    "word_count": 675,
+    "speaker_segments": [],
+    "chunks": [
+      "Alphabet Announces Fourth Quarter and Fiscal Year 2024 Results MOUNTAIN VIEW, Calif.\n\n(NASDAQ: GOOG, GOOGL) today announced financial results for the quarter and fiscal year ended December 31, 2024. • Consolidated Alphabet revenues in Q4 2024 increased 12% year over year to $96.5 billion reflecting robust momentum across the business. • Google Services revenues increased 10% to $84.1 billion, reflecting the strong momentum across Google Search & other and YouTube ads. • Google Cloud revenues increased 30% to $12.0 billion led by growth in Google Cloud Platform (GCP) across core GCP products, AI Infrastructure, and Generative AI Solutions. • Total operating income increased 31% and operating margin expanded by 5% percentage points to 32%. • Net income increased 28% and EPS increased 31% to $2.15. Sundar Pichai, CEO, said: “Q4 was a strong quarter driven by our leadership in AI and momentum across the business. We are building, testing, and launching products and models faster than ever, and making significant progress in compute and driving efficiencies. In Search, advances like AI Overviews and Circle to Search are increasing user engagement. Our AI-powered Google Cloud portfolio is seeing stronger customer demand, and YouTube continues to be the leader in streaming watchtime and podcasts. Together, Cloud and YouTube exited 2024 at an annual revenue run rate of $110 billion. Our results show the power of our differentiated full-stack approach to AI innovation and the continued strength of our core businesses. We are confident about the opportunities ahead, and to accelerate our progress, we expect to invest approximately $75 billion in capital expenditures in 2025.” Q4 2024 Financial Highlights The following table summarizes our consolidated financial results for the quarter and fiscal year ended December 31, 2023 and 2024 (in millions, except for per share information and percentages).",
+      "Q4 2024 Financial Highlights The following table summarizes our consolidated financial results for the quarter and fiscal year ended December 31, 2023 and 2024 (in millions, except for per share information and percentages). Quarter Ended December 31, Year Ended December 31, 2023 2024 2023 2024 (unaudited) (unaudited) Revenues $ 86,310 $ 96,469 $ 307,394 $ 350,018 Change in revenues year over year 13 % 12 % 9 % 14 % Change in constant currency revenues year over year (1) 13 % 12 % 10 % 15 % Operating income $ 23,697 $ 30,972 $ 84,293 $ 112,390 Operating margin 27 % 32 % 27 % 32 % Other income (expense), net $ 715 $ 1,271 $ 1,424 $ 7,425 Net income $ 20,687 $ 26,536 $ 73,795 $ 100,118 Diluted EPS $ 1.64 $ 2.15 $ 5.80 $ 8.04 (1) Non-GAAP measure. See the section captioned “Reconciliation from GAAP Revenues to Non-GAAP Constant Currency Revenues and GAAP Percentage Change in Revenues to Non-GAAP Percentage Change in Constant Currency Revenues” for more details. 1 Q4 2024 Supplemental Information (in millions, except for number of employees; unaudited) Revenues, Traffic Acquisition Costs (TAC), and Number of Employees Quarter Ended December 31, 2023 2024 Google Search & other $ 48,020 $ 54,034 YouTube ads 9,200 10,473 Google Network 8,297 7,954 Google advertising 65,517 72,461 Google subscriptions, platforms, and devices 10,794 11,633 Google Services total 76,311 84,094 Google Cloud 9,192 11,955 Other Bets 657 400 Hedging gains (losses) 150 20 Total revenues $ 86,310 $ 96,469 Total TAC $ 13,986 $ 14,848 Number of employees 182,502 183,323 Segment Operating Results As announced on October 17, 2024, the Gemini app team that is developing the direct consumer interface to our Gemini models joined Google DeepMind in the quarter ended December 31, 2024. The costs associated with the Gemini app team continue to be reported within our Google Services segment. Quarter Ended December 31, 2023 2024 Operating income (loss): Google Services $ 26,730 $ 32,836 Google Cloud 864 $ 2,093 Other Bets (863) $ (1,174) Alphabet-level activities (1) (3,034) $ (2,783) Total income from operations $ 23,697 $ 30,972 (1) In addition to the costs included in Alphabet-level activities, hedging gains (losses) related to revenue were $150 million and $20 million for the three months ended December 31, 2023 and 2024, respectively.",
+      "For the three months ended December 31, 2023 and 2024, Alphabet-level activities included substantially all of the charges related to employee severance and our office spa ce charges."
+    ],
+    "chunk_count": 3,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.5571797688802084,
+      "probabilities": {
+        "negative": 0.1092071533203125,
+        "neutral": 0.5571797688802084,
+        "positive": 0.333526611328125
+      },
+      "method": "average_probability",
+      "chunk_count": 3
+    },
+    "sentiment_score": 0.2243194580078125,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.94677734375,
+        "probabilities": {
+          "positive": 0.94677734375,
+          "negative": 0.0131683349609375,
+          "neutral": 0.040191650390625
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.86376953125,
+        "probabilities": {
+          "positive": 0.0288848876953125,
+          "negative": 0.107177734375,
+          "neutral": 0.86376953125
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.767578125,
+        "probabilities": {
+          "positive": 0.0249176025390625,
+          "negative": 0.207275390625,
+          "neutral": 0.767578125
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 675,
+      "uncertainty_ratio": 0.002962962962962963,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.017777777777777774,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "about",
+          "count": 1
+        },
+        {
+          "word": "approximately",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": [
+        "We are confident about the opportunities ahead, and to accelerate our progress, we expect to invest approximately $75 billion in capital expenditures in 2025.” Q4 2024 Financial Highlights The following table summarizes our consolidated financial results for the quarter and fiscal year ended December 31, 2023 and 2024 (in millions, except for per share information and percentages)."
+      ]
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.2243194580078125,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.2243194580078125,
+    "gap_interpretation": "Prepared remarks ligeramente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.01764705882352941,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.01764705882352941,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8897065989176433,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.6121597290039062,
+        "uncertainty_factor": 0.9822222222222222
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

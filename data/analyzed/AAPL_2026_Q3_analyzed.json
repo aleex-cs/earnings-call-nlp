@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2026-07-30",
+    "quarter": "Q3",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "Apple reports third quarter results June quarter records for total company revenue and EPS iPhone, Mac and Services revenue set new June quarter records CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.\n\nThe Company posted quarterly revenue of $109.4 billion, up 16 percent year over year.\n\nCompany gross margin was 50.1 percent, including a favorable impact of approximately 2 percentage points from tariff refunds.\n\nDiluted earnings per share was $2.02, up 29 percent year over year, and included a favorable impact of $0.11 from tariff refunds.\n\n“Today, Apple is proud to report our strongest June quarter ever, with double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment,” said Tim Cook, Apple’s CEO.\n\n“At WWDC26, we were thrilled to introduce the all-new Siri AI, alongside all of Apple’s latest software innovations and important new child safety features.” “We are very pleased with our record business performance during the quarter, which set new June quarter records for both EPS and operating cash flow,” said Kevan Parekh, Apple’s CFO.\n\n“Our installed base of active devices also reached a new all-time high across all major product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock.\n\nThe dividend is payable on August 13, 2026, to shareholders of record as of the close of business on August 10, 2026.\n\nApple will provide live streaming of its Q3 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on July 30, 2026, at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 324,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports third quarter results June quarter records for total company revenue and EPS iPhone, Mac and Services revenue set new June quarter records CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2026 third quarter ended June 27, 2026. The Company posted quarterly revenue of $109.4 billion, up 16 percent year over year. Company gross margin was 50.1 percent, including a favorable impact of approximately 2 percentage points from tariff refunds. Diluted earnings per share was $2.02, up 29 percent year over year, and included a favorable impact of $0.11 from tariff refunds. “Today, Apple is proud to report our strongest June quarter ever, with double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment,” said Tim Cook, Apple’s CEO. “At WWDC26, we were thrilled to introduce the all-new Siri AI, alongside all of Apple’s latest software innovations and important new child safety features.” “We are very pleased with our record business performance during the quarter, which set new June quarter records for both EPS and operating cash flow,” said Kevan Parekh, Apple’s CFO. “Our installed base of active devices also reached a new all-time high across all major product categories and geographic segments.” Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock. The dividend is payable on August 13, 2026, to shareholders of record as of the close of business on August 10, 2026. Apple will provide live streaming of its Q3 2026 financial results conference call beginning at 2:00 p.m.\n\nPT on July 30, 2026, at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.66748046875,
+      "probabilities": {
+        "negative": 0.01131439208984375,
+        "neutral": 0.66748046875,
+        "positive": 0.3212890625
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.30997467041015625,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.66748046875,
+        "probabilities": {
+          "positive": 0.3212890625,
+          "negative": 0.01131439208984375,
+          "neutral": 0.66748046875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 3,
+      "evasive_pattern_count": 0,
+      "total_words": 324,
+      "uncertainty_ratio": 0.009259259259259259,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.05555555555555555,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 2
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.30997467041015625,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.30997467041015625,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.05471124620060789,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.05471124620060789,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8720801671346028,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.6549873352050781,
+        "uncertainty_factor": 0.9444444444444444
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2023-11-02",
+    "quarter": "Q4",
+    "year": 2023
+  },
+  "prepared_remarks": {
+    "text": "Apple reports fourth quarter results iPhone revenue sets September quarter record Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 fourth quarter ended September 30, 2023.\n\nThe Company posted quarterly revenue of $89.5 billion, down 1 percent year over year, and quarterly earnings per diluted share of $1.46, up 13 percent year over year.\n\n“Today Apple is pleased to report a September quarter revenue record for iPhone and an all-time revenue record in Services,” said Tim Cook, Apple’s CEO.\n\n“We now have our strongest lineup of products ever heading into the holiday season, including the iPhone 15 lineup and our first carbon neutral Apple Watch models, a major milestone in our efforts to make all Apple products carbon neutral by 2030.” “Our active installed base of devices has again reached a new all-time high across all products and all geographic segments, thanks to the strength of our ecosystem and unparalleled customer loyalty,” said Luca Maestri, Apple’s CFO.\n\n“During the September quarter, our business performance drove double digit EPS growth and we returned nearly $25 billion to our shareholders, while continuing to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock.\n\nThe dividend is payable on November 16, 2023 to shareholders of record as of the close of business on November 13, 2023.\n\nApple will provide live streaming of its Q4 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on November 2, 2023 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 320,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports fourth quarter results iPhone revenue sets September quarter record Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2023 fourth quarter ended September 30, 2023. The Company posted quarterly revenue of $89.5 billion, down 1 percent year over year, and quarterly earnings per diluted share of $1.46, up 13 percent year over year. “Today Apple is pleased to report a September quarter revenue record for iPhone and an all-time revenue record in Services,” said Tim Cook, Apple’s CEO. “We now have our strongest lineup of products ever heading into the holiday season, including the iPhone 15 lineup and our first carbon neutral Apple Watch models, a major milestone in our efforts to make all Apple products carbon neutral by 2030.” “Our active installed base of devices has again reached a new all-time high across all products and all geographic segments, thanks to the strength of our ecosystem and unparalleled customer loyalty,” said Luca Maestri, Apple’s CFO. “During the September quarter, our business performance drove double digit EPS growth and we returned nearly $25 billion to our shareholders, while continuing to invest in our long-term growth plans.” Apple’s board of directors has declared a cash dividend of $0.24 per share of the Company’s common stock. The dividend is payable on November 16, 2023 to shareholders of record as of the close of business on November 13, 2023. Apple will provide live streaming of its Q4 2023 financial results conference call beginning at 2:00 p.m.\n\nPT on November 2, 2023 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.5458984375,
+      "probabilities": {
+        "negative": 0.356689453125,
+        "neutral": 0.5458984375,
+        "positive": 0.097412109375
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": -0.25927734375,
+    "sentiment_by_chunk": [
+      {
+        "label": "neutral",
+        "confidence": 0.5458984375,
+        "probabilities": {
+          "positive": 0.097412109375,
+          "negative": 0.356689453125,
+          "neutral": 0.5458984375
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 320,
+      "uncertainty_ratio": 0.00625,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.0375,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": -0.25927734375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": -0.25927734375,
+    "gap_interpretation": "Q&A ligeramente más optimista que Prepared remarks"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.03692307692307692,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.03692307692307692,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.81446533203125,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.370361328125,
+        "uncertainty_factor": 0.9625
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

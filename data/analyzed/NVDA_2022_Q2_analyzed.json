@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "date": "2021-08-18",
+    "quarter": "Q2",
+    "year": 2022
+  },
+  "prepared_remarks": {
+    "text": "Q2FY22 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Second Quarter Fiscal 2022 • Record revenue of $6.51 billion, up 68 percent from a year earlier • Record Gaming revenue of $3.06 billion, up 85 percent from a year earlier • Record Data Center revenue of $2.37 billion, up 35 percent from a year earlier SANTA CLARA, Calif.-Aug.\n\n18, 2021- NVIDIA (NASDAQ: NVDA) today reported record revenue for the second quarter ended August 1, 2021, of $6.51 billion, up 68 percent from a year earlier and up 15 percent from the previous quarter, with record revenue from the company’s Gaming, Data Center and Professional Visualization platforms.\n\nGAAP earnings per diluted share for the quarter were $0.94, up 276 percent from a year ago and up 24 percent from the previous quarter.\n\nNon-GAAP earnings per diluted share were $1.04, up 89 percent from a year ago and up 14 percent from the previous quarter.\n\n“NVIDIA’s pioneering work in accelerated computing continues to advance graphics, scientific computing and AI,” said Jensen Huang, founder and CEO of NVIDIA.\n\n“Enabled by the NVIDIA platform, developers are creating the most impactful technologies of our time – from natural language understanding and recommender systems, to autonomous vehicles and logistic centers, to digital biology and climate science, to metaverse worlds that obey the laws of physics.\n\n“This quarter, we launched NVIDIA Base Command and Fleet Command to develop, deploy, scale and orchestrate the AI workloads that run on the NVIDIA AI Enterprise software suite.\n\nWith our new enterprise software, wide range of NVIDIA-powered systems and global network of system and integration partners, we can accelerate the world’s largest industries racing to benefit from the transformative power of AI.\n\n“We are thrilled to have launched NVIDIA Omniverse, a simulation platform nearly five years in the making that runs physically realistic virtual worlds and connects to other digital platforms.\n\nWe imagine engineers, designers and even autonomous machines connecting to Omniverse to create digital twins and industrial metaverses,” he said.\n\nNVIDIA paid quarterly cash dividends of $100 million in the second quarter.\n\nIt will pay its next quarterly cash dividend of $0.04 per share on September 23, 2021, to all shareholders of record on September 1, 2021.\n\nOn July 19, 2021, the company completed a four-for-one split of its common stock in the form of a stock dividend to shareholders of record as of June 21, 2021.\n\nAll share and per share amounts presented have been retroactively adjusted to reflect the stock split.\n\nQ2 Fiscal 2022 Summary GAAP ($ in millions, except earnings per share) Q2 FY22 Q1 FY22 Q2 FY21 Q/Q Y/Y Revenue $6,507 $5,661 $3,866 Up 15% Up 68% Gross margin 64.8 % 64.1 % 58.8 % Up 70 bps Up 600 bps Operating expenses $1,771 $1,673 $1,624 Up 6% Up 9% Operating income $2,444 $1,956 $651 Up 25% Up 275% Net income $2,374 $1,912 $622 Up 24% Up 282% Diluted earnings per share $0.94 $0.76 $0.25 Up 24% Up 276% Non-GAAP ($ in millions, except earnings per share) Q2 FY22 Q1 FY22 Q2 FY21 Q/Q Y/Y Revenue $6,507 $5,661 $3,866 Up 15% Up 68% Gross margin 66.7 % 66.2 % 66.0 % Up 50 bps Up 70 bps Operating expenses $1,266 $1,189 $1,035 Up 6% Up 22% Operating income $3,071 $2,557 $1,516 Up 20% Up 103% Net income $2,623 $2,313 $1,366 Up 13% Up 92% Diluted earnings per share $1.04 $0.91 $0.55 Up 14% Up 89% NVIDIA’s outlook for the third quarter of fiscal 2022 is as follows: • Revenue is expected to be $6.80 billion, plus or minus 2 percent.\n\n• GAAP and non-GAAP gross margins are expected to be 65.2 percent and 67.0 percent, respectively, plus or minus 50 basis points.\n\n• GAAP and non-GAAP operating expenses are expected to be approximately $1.96 billion and $1.37 billion, respectively.\n\n• GAAP and non-GAAP other income and expense are both expected to be an expense of approximately $60 million, excluding gains and losses on equity securities.\n\n• GAAP and non-GAAP tax rates are both expected to be 11 percent, plus or minus 1 percent, excluding any discrete items such as excess tax benefits or deficiencies related to stock-based compensation.\n\nHighlights NVIDIA achieved progress since its previous earnings announcement in these areas: Gaming • Second-quarter revenue was a record $3.06 billion, up 85 percent from a year earlier and up 11 percent from the previous quarter.\n\n• Introduced GeForce RTX ® 3080 Ti and GeForce RTX 3070 Ti, delivering up to 50 percent more performance over the previous generation.\n\n• Announced that NVIDIA RTX ™ is featured in 130+ games and applications, including Red Dead Redemption 2 , F1 2021 and Minecraft RTX , in China, as well as Adobe Photoshop and Premiere Pro.\n\n• Announced that NVIDIA Reflex, which reduces gaming latency, is supported in 20 games, including top e-sports titles.\n\n• Announced that GeForce RTX technologies are available for Arm platforms, with demos of Wolfenstein: Youngblood and The Bistro .\n\n• Announced that GeForce NOW ™ gives members access to more than 1,000 PC games, more than any other cloud-gaming service.\n\nData Center • Second-quarter revenue was a record $2.37 billion, up 35 percent from a year earlier and up 16 percent from the previous quarter.\n\n• Unveiled NVIDIA Base Command ™ and Fleet Command ™ – software platforms optimized for NVIDIA-powered systems running NVIDIA AI software – to develop, deploy, and manage AI applications across the enterprise and the industrial edge.\n\n• Announced NVIDIA AI LaunchPad, a program delivered by hybrid-cloud providers giving enterprises instant AI infrastructure, with Equinix as the first partner.\n\n• Launched TensorRT ™ 8, the latest generation of NVIDIA’s AI inference software, delivering record-setting speed for natural language processing and other AI applications.\n\n• Announced NVIDIA ® technology supports 342 supercomputers on the latest TOP500 list, including 70 percent of all new systems and 8 of the top 10, and powers 35 of the top 40 greenest systems.\n\n• Announced NVIDIA is powering major new supercomputers, including: Perlmutter, the world’s fastest AI supercomputer, at the U.S.\n\nNational Energy Research Scientific Computing Center; Cambridge-1, the U.K.’s most powerful supercomputer; Tesla’s new training system; and Petrobras’ Dragão supercomputer, Latin America’s fastest.\n\n• Extended the Arm ecosystem with the NVIDIA Arm HPC Developer Kit, with applicants for early access from 70+ leading organizations.\n\n• Set performance records across all eight AI training benchmarks for commercially available systems in the latest MLPerf results, delivering up to 3.5x more performance than last year’s scores.\n\n• Announced there are now more than 55 NVIDIA-Certified Systems ™ offered by the world’s leading server makers supporting NVIDIA AI Enterprise software, with many powered by NVIDIA BlueField ® -2 DPUs and NVIDIA DOCA ™ .\n\n• Supported Microsoft Azure’s general availability of NVIDIA A100 GPU VMs, their most powerful virtual machines for supercomputer-class AI and HPC workloads.\n\n• Worked with Google Cloud to establish the first AI-on-5G Innovation Lab, helping to accelerate the creation of smart cities, smart factories and other 5G and AI applications.\n\n• Powered Palo Alto Networks’ virtual next-generation firewall – the industry’s first running on DPUs – with NVIDIA BlueField-2, enabling up to 5x acceleration and maximizing data center security.\n\nProfessional Visualization • Second-quarter revenue was a record $519 million, up 156 percent from a year earlier and up 40 percent from the previous quarter.\n\n• Expanded NVIDIA Omniverse ™ , the world’s first 3D, real-time simulation and collaboration platform, through new integrations with Blender and Adobe, applications used by millions of users.\n\n• Launched the NVIDIA RTX A2000, which brings RTX to the volume segment of the desktop workstation market and enables a range of new form factors from backs of displays to edge devices.\n\nAutomotive • Second-quarter revenue was $152 million, up 37 percent from a year earlier and down 1 percent from the previous quarter.\n\n• Announced that self-driving startup AutoX’s Gen5 robotaxi platform uses NVIDIA DRIVE ® to achieve level 4 autonomy.\n\n• Collaborated with autonomous trucking company Plus on plans to provide Amazon with at least 1,000 self-driving systems, which are powered by NVIDIA DRIVE.\n\n• Announced that autonomous trucking platform startup Embark is using NVIDIA DRIVE to create systems for Freightliner, Navistar International, PACCAR and Volvo.\n\nCFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/.",
+    "word_count": 1390,
+    "speaker_segments": [],
+    "chunks": [
+      "Q2FY22 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Second Quarter Fiscal 2022 • Record revenue of $6.51 billion, up 68 percent from a year earlier • Record Gaming revenue of $3.06 billion, up 85 percent from a year earlier • Record Data Center revenue of $2.37 billion, up 35 percent from a year earlier SANTA CLARA, Calif.-Aug.\n\n18, 2021- NVIDIA (NASDAQ: NVDA) today reported record revenue for the second quarter ended August 1, 2021, of $6.51 billion, up 68 percent from a year earlier and up 15 percent from the previous quarter, with record revenue from the company’s Gaming, Data Center and Professional Visualization platforms. GAAP earnings per diluted share for the quarter were $0.94, up 276 percent from a year ago and up 24 percent from the previous quarter. Non-GAAP earnings per diluted share were $1.04, up 89 percent from a year ago and up 14 percent from the previous quarter. “NVIDIA’s pioneering work in accelerated computing continues to advance graphics, scientific computing and AI,” said Jensen Huang, founder and CEO of NVIDIA. “Enabled by the NVIDIA platform, developers are creating the most impactful technologies of our time – from natural language understanding and recommender systems, to autonomous vehicles and logistic centers, to digital biology and climate science, to metaverse worlds that obey the laws of physics. “This quarter, we launched NVIDIA Base Command and Fleet Command to develop, deploy, scale and orchestrate the AI workloads that run on the NVIDIA AI Enterprise software suite. With our new enterprise software, wide range of NVIDIA-powered systems and global network of system and integration partners, we can accelerate the world’s largest industries racing to benefit from the transformative power of AI. “We are thrilled to have launched NVIDIA Omniverse, a simulation platform nearly five years in the making that runs physically realistic virtual worlds and connects to other digital platforms. We imagine engineers, designers and even autonomous machines connecting to Omniverse to create digital twins and industrial metaverses,” he said. NVIDIA paid quarterly cash dividends of $100 million in the second quarter. It will pay its next quarterly cash dividend of $0.04 per share on September 23, 2021, to all shareholders of record on September 1, 2021.",
+      "NVIDIA paid quarterly cash dividends of $100 million in the second quarter. It will pay its next quarterly cash dividend of $0.04 per share on September 23, 2021, to all shareholders of record on September 1, 2021. On July 19, 2021, the company completed a four-for-one split of its common stock in the form of a stock dividend to shareholders of record as of June 21, 2021. All share and per share amounts presented have been retroactively adjusted to reflect the stock split. Q2 Fiscal 2022 Summary GAAP ($ in millions, except earnings per share) Q2 FY22 Q1 FY22 Q2 FY21 Q/Q Y/Y Revenue $6,507 $5,661 $3,866 Up 15% Up 68% Gross margin 64.8 % 64.1 % 58.8 % Up 70 bps Up 600 bps Operating expenses $1,771 $1,673 $1,624 Up 6% Up 9% Operating income $2,444 $1,956 $651 Up 25% Up 275% Net income $2,374 $1,912 $622 Up 24% Up 282% Diluted earnings per share $0.94 $0.76 $0.25 Up 24% Up 276% Non-GAAP ($ in millions, except earnings per share) Q2 FY22 Q1 FY22 Q2 FY21 Q/Q Y/Y Revenue $6,507 $5,661 $3,866 Up 15% Up 68% Gross margin 66.7 % 66.2 % 66.0 % Up 50 bps Up 70 bps Operating expenses $1,266 $1,189 $1,035 Up 6% Up 22% Operating income $3,071 $2,557 $1,516 Up 20% Up 103% Net income $2,623 $2,313 $1,366 Up 13% Up 92% Diluted earnings per share $1.04 $0.91 $0.55 Up 14% Up 89% NVIDIA’s outlook for the third quarter of fiscal 2022 is as follows: • Revenue is expected to be $6.80 billion, plus or minus 2 percent. • GAAP and non-GAAP gross margins are expected to be 65.2 percent and 67.0 percent, respectively, plus or minus 50 basis points. • GAAP and non-GAAP operating expenses are expected to be approximately $1.96 billion and $1.37 billion, respectively. • GAAP and non-GAAP other income and expense are both expected to be an expense of approximately $60 million, excluding gains and losses on equity securities. • GAAP and non-GAAP tax rates are both expected to be 11 percent, plus or minus 1 percent, excluding any discrete items such as excess tax benefits or deficiencies related to stock-based compensation.",
+      "• GAAP and non-GAAP tax rates are both expected to be 11 percent, plus or minus 1 percent, excluding any discrete items such as excess tax benefits or deficiencies related to stock-based compensation. Highlights NVIDIA achieved progress since its previous earnings announcement in these areas: Gaming • Second-quarter revenue was a record $3.06 billion, up 85 percent from a year earlier and up 11 percent from the previous quarter. • Introduced GeForce RTX ® 3080 Ti and GeForce RTX 3070 Ti, delivering up to 50 percent more performance over the previous generation. • Announced that NVIDIA RTX ™ is featured in 130+ games and applications, including Red Dead Redemption 2 , F1 2021 and Minecraft RTX , in China, as well as Adobe Photoshop and Premiere Pro. • Announced that NVIDIA Reflex, which reduces gaming latency, is supported in 20 games, including top e-sports titles. • Announced that GeForce RTX technologies are available for Arm platforms, with demos of Wolfenstein: Youngblood and The Bistro . • Announced that GeForce NOW ™ gives members access to more than 1,000 PC games, more than any other cloud-gaming service. Data Center • Second-quarter revenue was a record $2.37 billion, up 35 percent from a year earlier and up 16 percent from the previous quarter. • Unveiled NVIDIA Base Command ™ and Fleet Command ™ – software platforms optimized for NVIDIA-powered systems running NVIDIA AI software – to develop, deploy, and manage AI applications across the enterprise and the industrial edge. • Announced NVIDIA AI LaunchPad, a program delivered by hybrid-cloud providers giving enterprises instant AI infrastructure, with Equinix as the first partner. • Launched TensorRT ™ 8, the latest generation of NVIDIA’s AI inference software, delivering record-setting speed for natural language processing and other AI applications. • Announced NVIDIA ® technology supports 342 supercomputers on the latest TOP500 list, including 70 percent of all new systems and 8 of the top 10, and powers 35 of the top 40 greenest systems. • Announced NVIDIA is powering major new supercomputers, including: Perlmutter, the world’s fastest AI supercomputer, at the U.S.\n\nNational Energy Research Scientific Computing Center; Cambridge-1, the U.K.’s most powerful supercomputer; Tesla’s new training system; and Petrobras’ Dragão supercomputer, Latin America’s fastest.",
+      "• Extended the Arm ecosystem with the NVIDIA Arm HPC Developer Kit, with applicants for early access from 70+ leading organizations. • Set performance records across all eight AI training benchmarks for commercially available systems in the latest MLPerf results, delivering up to 3.5x more performance than last year’s scores. • Announced there are now more than 55 NVIDIA-Certified Systems ™ offered by the world’s leading server makers supporting NVIDIA AI Enterprise software, with many powered by NVIDIA BlueField ® -2 DPUs and NVIDIA DOCA ™ . • Supported Microsoft Azure’s general availability of NVIDIA A100 GPU VMs, their most powerful virtual machines for supercomputer-class AI and HPC workloads. • Worked with Google Cloud to establish the first AI-on-5G Innovation Lab, helping to accelerate the creation of smart cities, smart factories and other 5G and AI applications. • Powered Palo Alto Networks’ virtual next-generation firewall – the industry’s first running on DPUs – with NVIDIA BlueField-2, enabling up to 5x acceleration and maximizing data center security. Professional Visualization • Second-quarter revenue was a record $519 million, up 156 percent from a year earlier and up 40 percent from the previous quarter. • Expanded NVIDIA Omniverse ™ , the world’s first 3D, real-time simulation and collaboration platform, through new integrations with Blender and Adobe, applications used by millions of users. • Launched the NVIDIA RTX A2000, which brings RTX to the volume segment of the desktop workstation market and enables a range of new form factors from backs of displays to edge devices. Automotive • Second-quarter revenue was $152 million, up 37 percent from a year earlier and down 1 percent from the previous quarter. • Announced that self-driving startup AutoX’s Gen5 robotaxi platform uses NVIDIA DRIVE ® to achieve level 4 autonomy. • Collaborated with autonomous trucking company Plus on plans to provide Amazon with at least 1,000 self-driving systems, which are powered by NVIDIA DRIVE. • Announced that autonomous trucking platform startup Embark is using NVIDIA DRIVE to create systems for Freightliner, Navistar International, PACCAR and Volvo. CFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/."
+    ],
+    "chunk_count": 4,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.8807373046875,
+      "probabilities": {
+        "negative": 0.017648696899414062,
+        "neutral": 0.10167694091796875,
+        "positive": 0.8807373046875
+      },
+      "method": "average_probability",
+      "chunk_count": 4
+    },
+    "sentiment_score": 0.8630886077880859,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.9150390625,
+        "probabilities": {
+          "positive": 0.9150390625,
+          "negative": 0.0113067626953125,
+          "neutral": 0.07373046875
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.90966796875,
+        "probabilities": {
+          "positive": 0.90966796875,
+          "negative": 0.03094482421875,
+          "neutral": 0.059478759765625
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.7783203125,
+        "probabilities": {
+          "positive": 0.7783203125,
+          "negative": 0.01114654541015625,
+          "neutral": 0.21044921875
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.919921875,
+        "probabilities": {
+          "positive": 0.919921875,
+          "negative": 0.0171966552734375,
+          "neutral": 0.06304931640625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 1390,
+      "uncertainty_ratio": 0.0014388489208633094,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.008633093525179856,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 2
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "FOR IMMEDIATE RELEASE",
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.8630886077880859,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.8630886077880859,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.008614501076812634,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.008614501076812634,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9764112558296258,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.931544303894043,
+        "uncertainty_factor": 0.9913669064748202
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

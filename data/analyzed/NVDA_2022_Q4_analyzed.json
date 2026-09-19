@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "date": "2023-02-22",
+    "quarter": "Q4",
+    "year": 2022
+  },
+  "prepared_remarks": {
+    "text": "Q4FY23 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2023 • Quarterly revenue of $6.05 billion, down 21% from a year ago • Fiscal-year revenue of $27.0 billion, flat from a year ago • Quarterly and annual return to shareholders of $1.15 billion and $10.44 billion, respectively SANTA CLARA, Calif.-Feb.\n\n22, 2023- NVIDIA (NASDAQ: NVDA) today reported revenue for the fourth quarter ended January 29, 2023, of $6.05 billion, down 21% from a year ago and up 2% from the previous quarter.\n\nGAAP earnings per diluted share for the quarter were $0.57, down 52% from a year ago and up 111% from the previous quarter.\n\nNon-GAAP earnings per diluted share were $0.88, down 33% from a year ago and up 52% from the previous quarter.\n\nFor fiscal 2023, revenue was $26.97 billion, flat from a year ago.\n\nGAAP earnings per diluted share were $1.74, down 55% from a year ago.\n\nNon-GAAP earnings per diluted share were $3.34, down 25% from a year ago.\n\n\"AI is at an inflection point, setting up for broad adoption reaching into every industry,” said Jensen Huang, founder and CEO of NVIDIA.\n\n“From startups to major enterprises, we are seeing accelerated interest in the versatility and capabilities of generative AI.\n\n“We are set to help customers take advantage of breakthroughs in generative AI and large language models.\n\nOur new AI supercomputer, with H100 and its Transformer Engine and Quantum-2 networking fabric, is in full production.\n\n“Gaming is recovering from the post-pandemic downturn, with gamers enthusiastically embracing the new Ada architecture GPUs with AI neural rendering,” he said.\n\nNVIDIA AI Cloud Service Offerings NVIDIA is partnering with leading cloud service providers to offer AI-as-a-service that provides enterprises access to NVIDIA’s world-leading AI platform.\n\nCustomers will be able to engage each layer of NVIDIA AI – the AI supercomputer, acceleration libraries software or pretrained generative AI models – as a cloud service.\n\nUsing their browser, they will be able to engage an NVIDIA DGX™ AI supercomputer through the NVIDIA DGX Cloud, which is already offered on Oracle Cloud Infrastructure, with Microsoft Azure, Google Cloud Platform and others expected soon.\n\nAt the AI platform software layer, they will be able to access NVIDIA AI Enterprise for training and deploying large language models or other AI workloads.\n\nAnd at the AI-model-as-a-service layer, NVIDIA will offer its NeMo™ and BioNeMo™ customizable AI models to enterprise customers who want to build proprietary generative AI models and services for their businesses.\n\nFurther details will be shared at the company’s GTC developer conference, taking place virtually March 20-23.\n\nReturn to Shareholders During the fourth quarter of fiscal 2023, NVIDIA returned to shareholders $1.15 billion in share repurchases and cash dividends, bringing the return in the fiscal year to $10.44 billion.\n\nNVIDIA will pay its next quarterly cash dividend of $0.04 per share on March 29, 2023, to all shareholders of record on March 8, 2023.\n\nQ4 Fiscal 2023 Summary GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 63.3 % 53.6 % 65.4 % Up 9.7 pts Down 2.1 pts Operating expenses $2,576 $2,576 $2,029 -- Up 27% Operating income $1,257 $601 $2,970 Up 109% Down 58% Net income $1,414 $680 $3,003 Up 108% Down 53% Diluted earnings per share $0.57 $0.27 $1.18 Up 111% Down 52% Non-GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 66.1 % 56.1 % 67.0 % Up 10.0 pts Down 0.9 pts Operating expenses $1,775 $1,793 $1,447 Down 1% Up 23% Operating income $2,224 $1,536 $3,677 Up 45% Down 40% Net income $2,174 $1,456 $3,350 Up 49% Down 35% Diluted earnings per share $0.88 $0.58 $1.32 Up 52% Down 33% Fiscal 2023 Summary GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 56.9 % 64.9 % Down 8.0 pts Operating expenses $11,132 $7,434 Up 50% Operating income $4,224 $10,041 Down 58% Net income $4,368 $9,752 Down 55% Diluted earnings per share $1.74 $3.85 Down 55% Non-GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 59.2 % 66.8 % Down 7.6 pts Operating expenses $6,925 $5,279 Up 31% Operating income $9,040 $12,690 Down 29% Net income $8,366 $11,259 Down 26% Diluted earnings per share $3.34 $4.44 Down 25% Outlook NVIDIA’s outlook for the first quarter of fiscal 2024 is as follows: • Revenue is expected to be $6.50 billion, plus or minus 2%.\n\n• GAAP and non-GAAP gross margins are expected to be 64.1% and 66.5%, respectively, plus or minus 50 basis points.\n\n• GAAP and non-GAAP operating expenses are expected to be approximately $2.53 billion and $1.78 billion, respectively.\n\n• GAAP and non-GAAP other income and expense are expected to be an income of approximately $50 million, excluding gains and losses from non-affiliated investments.\n\n• GAAP and non-GAAP tax rates are expected to be 13.0%, plus or minus 1%, excluding any discrete items.\n\nHighlights NVIDIA achieved progress since its previous earnings announcement in these areas: Data Center • Fourth-quarter revenue was $3.62 billion, up 11% from a year ago and down 6% from the previous quarter.\n\nFiscal-year revenue rose 41% to a record $15.01 billion.\n\n• Announced a partnership with Deutsche Bank to extend the use of AI in the financial-services sector.\n\n• Launched, together with Dell Technologies, 15 next-generation Dell PowerEdge systems available with NVIDIA ® acceleration, enabling enterprises to use AI to efficiently transform their business.\n\n• Announced that NVIDIA A100 Tensor Core GPUs showed unrivaled throughput and top latency in the latest STAC-ML benchmarks for financial services.\n\nGaming • Fourth-quarter revenue was $1.83 billion, down 46% from a year ago and up 16% from the previous quarter.\n\nFiscal-year revenue was down 27% to $9.07 billion.\n\n• Unveiled the GeForce RTX ™ 40 Series for laptops, providing the company’s largest-ever generational leap in performance and power efficiency.\n\n• Launched the GeForce RTX 4070 Ti, which is faster than the GeForce RTX 3090 Ti, featuring NVIDIA Ada Lovelace architecture and NVIDIA DLSS 3 technology.\n\n• Announced that DLSS 3 is available on, or coming soon to, more than 50 games and apps — including Cyberpunk 2077 , Portal with RTX and Marvel’s Spider-Man: Miles Morales .\n\n• Launched the GeForce NOW ™ Ultimate membership tier, delivering GeForce RTX 4080-class performance with NVIDIA Reflex, full ray tracing and DLSS 3.\n\n• Signed a 10-year agreement with Microsoft to bring the Xbox PC game lineup, including Minecraft , Halo and Flight Simulator , to GeForce NOW.\n\nFollowing the close of Microsoft’s Activision acquisition, GeForce NOW will add titles like Call of Duty and Overwatch .\n\nProfessional Visualization • Fourth-quarter revenue was $226 million, down 65% from a year ago and up 13% from the previous quarter.\n\nFiscal-year revenue was down 27% to $1.54 billion.\n\n• Enhanced NVIDIA Omniverse ™ Enterprise’s capabilities to help teams build connected 3D pipelines and develop large-scale 3D works through increased performance, generational leaps in real-time RTX ray and path tracing, and streamlined workflows.\n\n• Announced a collaboration with Lockheed Martin to build a digital twin of global weather conditions, enabling the U.S.\n\nNational Oceanic and Atmospheric Administration to better monitor global environmental conditions, including extreme weather events.\n\n• Shared news that Mercedes-Benz is taking the next step to digitalize its production process, using NVIDIA Omniverse to design and plan manufacturing and assembly facilities.\n\nAutomotive and Embedded • Fourth-quarter revenue was a record $294 million, up 135% from a year ago and up 17% from the previous quarter.\n\nFiscal-year revenue rose 60% to a record $903 million.\n\n• Announced a strategic partnership with Foxconn to develop automated and autonomous vehicle platforms based on NVIDIA DRIVE Orin ™ and DRIVE Hyperion ™ .\n\n• Released major updates to the NVIDIA Isaac Sim ™ robotics simulation tool, including AI capabilities and cloud access, enabling the building and testing of virtual robots in realistic environments.\n\nCFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/.",
+    "word_count": 1365,
+    "speaker_segments": [],
+    "chunks": [
+      "Q4FY23 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2023 • Quarterly revenue of $6.05 billion, down 21% from a year ago • Fiscal-year revenue of $27.0 billion, flat from a year ago • Quarterly and annual return to shareholders of $1.15 billion and $10.44 billion, respectively SANTA CLARA, Calif.-Feb.\n\n22, 2023- NVIDIA (NASDAQ: NVDA) today reported revenue for the fourth quarter ended January 29, 2023, of $6.05 billion, down 21% from a year ago and up 2% from the previous quarter. GAAP earnings per diluted share for the quarter were $0.57, down 52% from a year ago and up 111% from the previous quarter. Non-GAAP earnings per diluted share were $0.88, down 33% from a year ago and up 52% from the previous quarter. For fiscal 2023, revenue was $26.97 billion, flat from a year ago. GAAP earnings per diluted share were $1.74, down 55% from a year ago. Non-GAAP earnings per diluted share were $3.34, down 25% from a year ago. \"AI is at an inflection point, setting up for broad adoption reaching into every industry,” said Jensen Huang, founder and CEO of NVIDIA. “From startups to major enterprises, we are seeing accelerated interest in the versatility and capabilities of generative AI. “We are set to help customers take advantage of breakthroughs in generative AI and large language models. Our new AI supercomputer, with H100 and its Transformer Engine and Quantum-2 networking fabric, is in full production. “Gaming is recovering from the post-pandemic downturn, with gamers enthusiastically embracing the new Ada architecture GPUs with AI neural rendering,” he said. NVIDIA AI Cloud Service Offerings NVIDIA is partnering with leading cloud service providers to offer AI-as-a-service that provides enterprises access to NVIDIA’s world-leading AI platform. Customers will be able to engage each layer of NVIDIA AI – the AI supercomputer, acceleration libraries software or pretrained generative AI models – as a cloud service. Using their browser, they will be able to engage an NVIDIA DGX™ AI supercomputer through the NVIDIA DGX Cloud, which is already offered on Oracle Cloud Infrastructure, with Microsoft Azure, Google Cloud Platform and others expected soon. At the AI platform software layer, they will be able to access NVIDIA AI Enterprise for training and deploying large language models or other AI workloads.",
+      "At the AI platform software layer, they will be able to access NVIDIA AI Enterprise for training and deploying large language models or other AI workloads. And at the AI-model-as-a-service layer, NVIDIA will offer its NeMo™ and BioNeMo™ customizable AI models to enterprise customers who want to build proprietary generative AI models and services for their businesses. Further details will be shared at the company’s GTC developer conference, taking place virtually March 20-23. Return to Shareholders During the fourth quarter of fiscal 2023, NVIDIA returned to shareholders $1.15 billion in share repurchases and cash dividends, bringing the return in the fiscal year to $10.44 billion. NVIDIA will pay its next quarterly cash dividend of $0.04 per share on March 29, 2023, to all shareholders of record on March 8, 2023.",
+      "NVIDIA will pay its next quarterly cash dividend of $0.04 per share on March 29, 2023, to all shareholders of record on March 8, 2023. Q4 Fiscal 2023 Summary GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 63.3 % 53.6 % 65.4 % Up 9.7 pts Down 2.1 pts Operating expenses $2,576 $2,576 $2,029 -- Up 27% Operating income $1,257 $601 $2,970 Up 109% Down 58% Net income $1,414 $680 $3,003 Up 108% Down 53% Diluted earnings per share $0.57 $0.27 $1.18 Up 111% Down 52% Non-GAAP ($ in millions, except earnings per share) Q4 FY23 Q3 FY23 Q4 FY22 Q/Q Y/Y Revenue $6,051 $5,931 $7,643 Up 2% Down 21% Gross margin 66.1 % 56.1 % 67.0 % Up 10.0 pts Down 0.9 pts Operating expenses $1,775 $1,793 $1,447 Down 1% Up 23% Operating income $2,224 $1,536 $3,677 Up 45% Down 40% Net income $2,174 $1,456 $3,350 Up 49% Down 35% Diluted earnings per share $0.88 $0.58 $1.32 Up 52% Down 33% Fiscal 2023 Summary GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 56.9 % 64.9 % Down 8.0 pts Operating expenses $11,132 $7,434 Up 50% Operating income $4,224 $10,041 Down 58% Net income $4,368 $9,752 Down 55% Diluted earnings per share $1.74 $3.85 Down 55% Non-GAAP ($ in millions, except earnings per share) FY23 FY22 Y/Y Revenue $26,974 $26,914 -- Gross margin 59.2 % 66.8 % Down 7.6 pts Operating expenses $6,925 $5,279 Up 31% Operating income $9,040 $12,690 Down 29% Net income $8,366 $11,259 Down 26% Diluted earnings per share $3.34 $4.44 Down 25% Outlook NVIDIA’s outlook for the first quarter of fiscal 2024 is as follows: • Revenue is expected to be $6.50 billion, plus or minus 2%. • GAAP and non-GAAP gross margins are expected to be 64.1% and 66.5%, respectively, plus or minus 50 basis points. • GAAP and non-GAAP operating expenses are expected to be approximately $2.53 billion and $1.78 billion, respectively. • GAAP and non-GAAP other income and expense are expected to be an income of approximately $50 million, excluding gains and losses from non-affiliated investments.",
+      "• GAAP and non-GAAP other income and expense are expected to be an income of approximately $50 million, excluding gains and losses from non-affiliated investments. • GAAP and non-GAAP tax rates are expected to be 13.0%, plus or minus 1%, excluding any discrete items. Highlights NVIDIA achieved progress since its previous earnings announcement in these areas: Data Center • Fourth-quarter revenue was $3.62 billion, up 11% from a year ago and down 6% from the previous quarter. Fiscal-year revenue rose 41% to a record $15.01 billion. • Announced a partnership with Deutsche Bank to extend the use of AI in the financial-services sector. • Launched, together with Dell Technologies, 15 next-generation Dell PowerEdge systems available with NVIDIA ® acceleration, enabling enterprises to use AI to efficiently transform their business. • Announced that NVIDIA A100 Tensor Core GPUs showed unrivaled throughput and top latency in the latest STAC-ML benchmarks for financial services. Gaming • Fourth-quarter revenue was $1.83 billion, down 46% from a year ago and up 16% from the previous quarter. Fiscal-year revenue was down 27% to $9.07 billion. • Unveiled the GeForce RTX ™ 40 Series for laptops, providing the company’s largest-ever generational leap in performance and power efficiency. • Launched the GeForce RTX 4070 Ti, which is faster than the GeForce RTX 3090 Ti, featuring NVIDIA Ada Lovelace architecture and NVIDIA DLSS 3 technology. • Announced that DLSS 3 is available on, or coming soon to, more than 50 games and apps — including Cyberpunk 2077 , Portal with RTX and Marvel’s Spider-Man: Miles Morales . • Launched the GeForce NOW ™ Ultimate membership tier, delivering GeForce RTX 4080-class performance with NVIDIA Reflex, full ray tracing and DLSS 3. • Signed a 10-year agreement with Microsoft to bring the Xbox PC game lineup, including Minecraft , Halo and Flight Simulator , to GeForce NOW. Following the close of Microsoft’s Activision acquisition, GeForce NOW will add titles like Call of Duty and Overwatch . Professional Visualization • Fourth-quarter revenue was $226 million, down 65% from a year ago and up 13% from the previous quarter. Fiscal-year revenue was down 27% to $1.54 billion. • Enhanced NVIDIA Omniverse ™ Enterprise’s capabilities to help teams build connected 3D pipelines and develop large-scale 3D works through increased performance, generational leaps in real-time RTX ray and path tracing, and streamlined workflows.",
+      "• Enhanced NVIDIA Omniverse ™ Enterprise’s capabilities to help teams build connected 3D pipelines and develop large-scale 3D works through increased performance, generational leaps in real-time RTX ray and path tracing, and streamlined workflows. • Announced a collaboration with Lockheed Martin to build a digital twin of global weather conditions, enabling the U.S.\n\nNational Oceanic and Atmospheric Administration to better monitor global environmental conditions, including extreme weather events. • Shared news that Mercedes-Benz is taking the next step to digitalize its production process, using NVIDIA Omniverse to design and plan manufacturing and assembly facilities. Automotive and Embedded • Fourth-quarter revenue was a record $294 million, up 135% from a year ago and up 17% from the previous quarter. Fiscal-year revenue rose 60% to a record $903 million. • Announced a strategic partnership with Foxconn to develop automated and autonomous vehicle platforms based on NVIDIA DRIVE Orin ™ and DRIVE Hyperion ™ . • Released major updates to the NVIDIA Isaac Sim ™ robotics simulation tool, including AI capabilities and cloud access, enabling the building and testing of virtual robots in realistic environments. CFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/."
+    ],
+    "chunk_count": 5,
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.47088623046875,
+      "probabilities": {
+        "negative": 0.47088623046875,
+        "neutral": 0.062457275390625,
+        "positive": 0.466644287109375
+      },
+      "method": "average_probability",
+      "chunk_count": 5
+    },
+    "sentiment_score": -0.004241943359375,
+    "sentiment_by_chunk": [
+      {
+        "label": "negative",
+        "confidence": 0.55224609375,
+        "probabilities": {
+          "positive": 0.395263671875,
+          "negative": 0.55224609375,
+          "neutral": 0.052764892578125
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.85302734375,
+        "probabilities": {
+          "positive": 0.85302734375,
+          "negative": 0.00963592529296875,
+          "neutral": 0.13720703125
+        }
+      },
+      {
+        "label": "negative",
+        "confidence": 0.94287109375,
+        "probabilities": {
+          "positive": 0.013397216796875,
+          "negative": 0.94287109375,
+          "neutral": 0.043670654296875
+        }
+      },
+      {
+        "label": "negative",
+        "confidence": 0.8369140625,
+        "probabilities": {
+          "positive": 0.130126953125,
+          "negative": 0.8369140625,
+          "neutral": 0.032989501953125
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.94140625,
+        "probabilities": {
+          "positive": 0.94140625,
+          "negative": 0.01276397705078125,
+          "neutral": 0.045654296875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 1365,
+      "uncertainty_ratio": 0.0014652014652014652,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.008791208791208791,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 2
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "FOR IMMEDIATE RELEASE",
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": -0.004241943359375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": -0.004241943359375,
+    "gap_interpretation": "Tono similar entre secciones"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.008771929824561403,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.008771929824561403,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.8678763504866716,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.4978790283203125,
+        "uncertainty_factor": 0.9912087912087912
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

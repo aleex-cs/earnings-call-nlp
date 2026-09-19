@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "date": "2025-08-27",
+    "quarter": "Q2",
+    "year": 2026
+  },
+  "prepared_remarks": {
+    "text": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 • Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago • Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago • Blackwell Data Center revenue grew 17% sequentially SANTA CLARA, Calif.—Aug.\n\n27, 2025― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago.\n\nNVIDIA’s Blackwell Data Center revenue grew 17% sequentially.\n\nThere were no H20 sales to China-based customers in the second quarter.\n\nNVIDIA benefited from a $180 million release of previously reserved H20 inventory, from approximately $650 million in unrestricted H20 sales to a customer outside of China.\n\nFor the quarter, GAAP and non-GAAP gross margins were 72.4% and 72.7%, respectively.\n\nExcluding the $180 million release, non-GAAP gross margin for the quarter would have been 72.3%.\n\nFor the quarter, GAAP and non-GAAP earnings per diluted share were $1.08 and $1.05, respectively.\n\nExcluding the $180 million release and related tax impact, non-GAAP diluted earnings per share for the quarter would have been $1.04.\n\n“Blackwell is the AI platform the world has been waiting for, delivering an exceptional generational leap — production of Blackwell Ultra is ramping at full speed, and demand is extraordinary,” said Jensen Huang, founder and CEO of NVIDIA.\n\n“NVIDIA NVLink rack-scale computing is revolutionary, arriving just in time as reasoning AI models drive orders-of-magnitude increases in training and inference performance.\n\nThe AI race is on, and Blackwell is the platform at its center.” During the first half of fiscal 2026, NVIDIA returned $24.3 billion to shareholders in the form of shares repurchased and cash dividends.\n\nAs of the end of the second quarter, the company had $14.7 billion remaining under its share repurchase authorization.\n\nOn August 26, 2025, the Board of Directors approved an additional $60.0 billion to the Company’s share repurchase authorization, without expiration.\n\nNVIDIA will pay its next quarterly cash dividend of $0.01 per share on October 2, 2025, to all shareholders of record on September 11, 2025.\n\nQ2 Fiscal 2026 Summary GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.4 % 60.5 % 75.1 % 11.9 pts (2.7) pts Operating expenses $5,413 $5,030 $3,932 8 % 38 % Operating income $28,440 $21,638 $18,642 31 % 53 % Net income $26,422 $18,775 $16,599 41 % 59 % Diluted earnings per share $1.08 $0.76 $0.67 42 % 61 % Non-GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.7 % 61.0 % 75.7 % 11.7 pts (3.0) pts Gross margin excluding H20 related charges/releases, net 72.3 % 71.3 % 1.0 pt Operating expenses $3,795 $3,583 $2,792 6 % 36 % Operating income $30,165 $23,275 $19,937 30 % 51 % Net income $25,783 $19,894 $16,952 30 % 52 % Diluted earnings per share $1.05 $0.81 $0.68 30 % 54 % Diluted earnings per share excluding H20 related charges/releases, net and related tax impact $1.04 $0.96 8 % Outlook NVIDIA’s outlook for the third quarter of fiscal 2026 is as follows: • Revenue is expected to be $54.0 billion, plus or minus 2%.\n\nThe company has not assumed any H20 shipments to China in the outlook.\n\n• GAAP and non-GAAP gross margins are expected to be 73.3% and 73.5%, respectively, plus or minus 50 basis points.\n\nThe company continues to expect to exit the year with non-GAAP gross margins in the mid-70% range.\n\n• GAAP and non-GAAP operating expenses are expected to be approximately $5.9 billion and $4.2 billion, respectively.\n\nFull year fiscal 2026 operating expense growth is expected to be in the high-30% range.\n\n• GAAP and non-GAAP other income and expense are expected to be an income of approximately $500 million, excluding gains and losses from non-marketable and publicly-held equity securities.\n\n• GAAP and non-GAAP tax rates are expected to be 16.5%, plus or minus 1%, excluding any discrete items.\n\nHighlights NVIDIA achieved progress since its first quarter earnings announcement in these areas: Data Center • Second-quarter revenue was $41.1 billion, up 5% from the previous quarter and up 56% from a year ago.\n\n• Announced that the NVIDIA RTX PRO™ 6000 Blackwell Server Edition GPU is coming to the world’s most popular enterprise servers; Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt the servers.\n\n• Introduced NVIDIA® Spectrum-XGS Ethernet to connect distributed data centers for giga-scale AI.\n\n• Revealed that NVIDIA is working with European nations, including France, Germany, Italy, Spain and the U.K., as well as technology industry leaders to build NVIDIA Blackwell AI infrastructure, including the world’s first industrial AI cloud for European manufacturers, to fuel region’s next industrial transformation.\n\n• Announced the expansion of NVIDIA DGX Cloud Lepton™ to connect Europe’s developers to NVIDIA’s global compute ecosystem.\n\n• Collaborated with partners globally to build and accelerate advanced AI supercomputers, including Doudna (U.S.), JUPITER (Germany), Blue Lion (Germany), Isambard (U.K.) and FugakuNEXT (Japan).\n\n• Revealed that model builders across Europe and the Middle East are optimizing their sovereign large language models with NVIDIA Nemotron™, which will be available on Perplexity.\n\n• Supported the launch of OpenAI’s open gpt-oss models, delivering industry-leading gpt-oss-120b performance of 1.5 million tokens per second on a single NVIDIA Blackwell GB200 NVL72 rack-scale system.\n\n• Announced a collaboration with Novo Nordisk and DCAI to advance drug discovery.\n\n• Revealed that the NVIDIA Blackwell platform delivered the highest performance at scale on every MLPerf Training benchmark.\n\n• Teamed with Ansys and DCAI to advance quantum algorithms for fluid dynamics using the NVIDIA CUDA-Q™ platform on Denmark’s Gefion supercomputer.\n\n• Introduced NVFP4, a 4-bit format purpose-built to deliver exceptional inference latency, for pretraining next-generation large language models.\n\nGaming and AI PC • Second-quarter Gaming revenue was $4.3 billion, up 14% from the previous quarter and up 49% from a year ago.\n\n• Launched the Blackwell-powered NVIDIA GeForce RTX™ 5060, which quickly became NVIDIA’s fastest-ramping x60-class GPU ever.\n\n• Made industry-leading NVIDIA DLSS 4 technology available in over 175 games and apps, and coming next to top games such as Borderlands 4, Resident Evil Requiem and Phantom Blade Zero .\n\n• Announced Blackwell coming to GeForce NOW™ with the new Install-to-Play feature, doubling the game library to over 4,500 titles.\n\n• Partnered with OpenAI on the launch of its newest open-weight models optimized for RTX GPUs for fast, local inference in popular tools like Ollama, llama.cpp and Microsoft AI Foundry Local.\n\nProfessional Visualization • Second-quarter revenue was $601 million, up 18% from the previous quarter and up 32% from a year ago.\n\n• Announced NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs.\n\n• Expanded partnership with Siemens to digitalize and enable the manufacturing factory of the future.\n\n• Announced new NVIDIA Omniverse™ libraries and software development kits to accelerate physical AI development.\n\nAutomotive and Robotics • Second-quarter Automotive revenue was $586 million, up 3% from the previous quarter and up 69% from a year ago.\n\n• Announced that the full-stack NVIDIA DRIVE™ AV software platform is now in full production to accelerate the large-scale deployment of safe, intelligent transportation.\n\n• Achieved second consecutive win in the End-to-End Driving at Scale category of the Autonomous Grand Challenge at the Computer Vision and Pattern Recognition conference.\n\n• Commenced initial shipments of the NVIDIA DRIVE AGX Thor™ system-on-a-chip.\n\n• Announced the general availability of NVIDIA Jetson AGX Thor™ developer kit and production modules, powerful new AI supercomputers designed to power millions of robots across industries.\n\n• Released the NVIDIA Halos full-stack safety platform for robotic development.\n\n• Announced new NVIDIA Cosmos™ world foundation models that accelerate the development and deployment of robotics solutions.\n\nCFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com.",
+    "word_count": 1340,
+    "speaker_segments": [],
+    "chunks": [
+      "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 • Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago • Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago • Blackwell Data Center revenue grew 17% sequentially SANTA CLARA, Calif.—Aug. 27, 2025― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially. There were no H20 sales to China-based customers in the second quarter. NVIDIA benefited from a $180 million release of previously reserved H20 inventory, from approximately $650 million in unrestricted H20 sales to a customer outside of China. For the quarter, GAAP and non-GAAP gross margins were 72.4% and 72.7%, respectively. Excluding the $180 million release, non-GAAP gross margin for the quarter would have been 72.3%. For the quarter, GAAP and non-GAAP earnings per diluted share were $1.08 and $1.05, respectively. Excluding the $180 million release and related tax impact, non-GAAP diluted earnings per share for the quarter would have been $1.04. “Blackwell is the AI platform the world has been waiting for, delivering an exceptional generational leap — production of Blackwell Ultra is ramping at full speed, and demand is extraordinary,” said Jensen Huang, founder and CEO of NVIDIA. “NVIDIA NVLink rack-scale computing is revolutionary, arriving just in time as reasoning AI models drive orders-of-magnitude increases in training and inference performance. The AI race is on, and Blackwell is the platform at its center.” During the first half of fiscal 2026, NVIDIA returned $24.3 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the second quarter, the company had $14.7 billion remaining under its share repurchase authorization. On August 26, 2025, the Board of Directors approved an additional $60.0 billion to the Company’s share repurchase authorization, without expiration. NVIDIA will pay its next quarterly cash dividend of $0.01 per share on October 2, 2025, to all shareholders of record on September 11, 2025.",
+      "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on October 2, 2025, to all shareholders of record on September 11, 2025. Q2 Fiscal 2026 Summary GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.4 % 60.5 % 75.1 % 11.9 pts (2.7) pts Operating expenses $5,413 $5,030 $3,932 8 % 38 % Operating income $28,440 $21,638 $18,642 31 % 53 % Net income $26,422 $18,775 $16,599 41 % 59 % Diluted earnings per share $1.08 $0.76 $0.67 42 % 61 % Non-GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.7 % 61.0 % 75.7 % 11.7 pts (3.0) pts Gross margin excluding H20 related charges/releases, net 72.3 % 71.3 % 1.0 pt Operating expenses $3,795 $3,583 $2,792 6 % 36 % Operating income $30,165 $23,275 $19,937 30 % 51 % Net income $25,783 $19,894 $16,952 30 % 52 % Diluted earnings per share $1.05 $0.81 $0.68 30 % 54 % Diluted earnings per share excluding H20 related charges/releases, net and related tax impact $1.04 $0.96 8 % Outlook NVIDIA’s outlook for the third quarter of fiscal 2026 is as follows: • Revenue is expected to be $54.0 billion, plus or minus 2%. The company has not assumed any H20 shipments to China in the outlook. • GAAP and non-GAAP gross margins are expected to be 73.3% and 73.5%, respectively, plus or minus 50 basis points. The company continues to expect to exit the year with non-GAAP gross margins in the mid-70% range. • GAAP and non-GAAP operating expenses are expected to be approximately $5.9 billion and $4.2 billion, respectively. Full year fiscal 2026 operating expense growth is expected to be in the high-30% range. • GAAP and non-GAAP other income and expense are expected to be an income of approximately $500 million, excluding gains and losses from non-marketable and publicly-held equity securities. • GAAP and non-GAAP tax rates are expected to be 16.5%, plus or minus 1%, excluding any discrete items.",
+      "• GAAP and non-GAAP tax rates are expected to be 16.5%, plus or minus 1%, excluding any discrete items. Highlights NVIDIA achieved progress since its first quarter earnings announcement in these areas: Data Center • Second-quarter revenue was $41.1 billion, up 5% from the previous quarter and up 56% from a year ago. • Announced that the NVIDIA RTX PRO™ 6000 Blackwell Server Edition GPU is coming to the world’s most popular enterprise servers; Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt the servers. • Introduced NVIDIA® Spectrum-XGS Ethernet to connect distributed data centers for giga-scale AI. • Revealed that NVIDIA is working with European nations, including France, Germany, Italy, Spain and the U.K., as well as technology industry leaders to build NVIDIA Blackwell AI infrastructure, including the world’s first industrial AI cloud for European manufacturers, to fuel region’s next industrial transformation. • Announced the expansion of NVIDIA DGX Cloud Lepton™ to connect Europe’s developers to NVIDIA’s global compute ecosystem. • Collaborated with partners globally to build and accelerate advanced AI supercomputers, including Doudna (U.S.), JUPITER (Germany), Blue Lion (Germany), Isambard (U.K.) and FugakuNEXT (Japan). • Revealed that model builders across Europe and the Middle East are optimizing their sovereign large language models with NVIDIA Nemotron™, which will be available on Perplexity. • Supported the launch of OpenAI’s open gpt-oss models, delivering industry-leading gpt-oss-120b performance of 1.5 million tokens per second on a single NVIDIA Blackwell GB200 NVL72 rack-scale system. • Announced a collaboration with Novo Nordisk and DCAI to advance drug discovery. • Revealed that the NVIDIA Blackwell platform delivered the highest performance at scale on every MLPerf Training benchmark. • Teamed with Ansys and DCAI to advance quantum algorithms for fluid dynamics using the NVIDIA CUDA-Q™ platform on Denmark’s Gefion supercomputer. • Introduced NVFP4, a 4-bit format purpose-built to deliver exceptional inference latency, for pretraining next-generation large language models. Gaming and AI PC • Second-quarter Gaming revenue was $4.3 billion, up 14% from the previous quarter and up 49% from a year ago. • Launched the Blackwell-powered NVIDIA GeForce RTX™ 5060, which quickly became NVIDIA’s fastest-ramping x60-class GPU ever.",
+      "• Launched the Blackwell-powered NVIDIA GeForce RTX™ 5060, which quickly became NVIDIA’s fastest-ramping x60-class GPU ever. • Made industry-leading NVIDIA DLSS 4 technology available in over 175 games and apps, and coming next to top games such as Borderlands 4, Resident Evil Requiem and Phantom Blade Zero . • Announced Blackwell coming to GeForce NOW™ with the new Install-to-Play feature, doubling the game library to over 4,500 titles. • Partnered with OpenAI on the launch of its newest open-weight models optimized for RTX GPUs for fast, local inference in popular tools like Ollama, llama.cpp and Microsoft AI Foundry Local. Professional Visualization • Second-quarter revenue was $601 million, up 18% from the previous quarter and up 32% from a year ago. • Announced NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs. • Expanded partnership with Siemens to digitalize and enable the manufacturing factory of the future. • Announced new NVIDIA Omniverse™ libraries and software development kits to accelerate physical AI development. Automotive and Robotics • Second-quarter Automotive revenue was $586 million, up 3% from the previous quarter and up 69% from a year ago. • Announced that the full-stack NVIDIA DRIVE™ AV software platform is now in full production to accelerate the large-scale deployment of safe, intelligent transportation. • Achieved second consecutive win in the End-to-End Driving at Scale category of the Autonomous Grand Challenge at the Computer Vision and Pattern Recognition conference. • Commenced initial shipments of the NVIDIA DRIVE AGX Thor™ system-on-a-chip. • Announced the general availability of NVIDIA Jetson AGX Thor™ developer kit and production modules, powerful new AI supercomputers designed to power millions of robots across industries. • Released the NVIDIA Halos full-stack safety platform for robotic development. • Announced new NVIDIA Cosmos™ world foundation models that accelerate the development and deployment of robotics solutions. CFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com."
+    ],
+    "chunk_count": 4,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.679534912109375,
+      "probabilities": {
+        "negative": 0.018339157104492188,
+        "neutral": 0.3021240234375,
+        "positive": 0.679534912109375
+      },
+      "method": "average_probability",
+      "chunk_count": 4
+    },
+    "sentiment_score": 0.6611957550048828,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.91796875,
+        "probabilities": {
+          "positive": 0.91796875,
+          "negative": 0.01123809814453125,
+          "neutral": 0.07098388671875
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.91650390625,
+        "probabilities": {
+          "positive": 0.0389404296875,
+          "negative": 0.044586181640625,
+          "neutral": 0.91650390625
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.89453125,
+        "probabilities": {
+          "positive": 0.89453125,
+          "negative": 0.0073699951171875,
+          "neutral": 0.09808349609375
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.86669921875,
+        "probabilities": {
+          "positive": 0.86669921875,
+          "negative": 0.010162353515625,
+          "neutral": 0.1229248046875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 6,
+      "evasive_pattern_count": 0,
+      "total_words": 1340,
+      "uncertainty_ratio": 0.004477611940298508,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.02686567164179104,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 3
+        },
+        {
+          "word": "would",
+          "count": 2
+        },
+        {
+          "word": "challenge",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.6611957550048828,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.6611957550048828,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.026765799256505574,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.026765799256505574,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9375002156442671,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.8305978775024414,
+        "uncertainty_factor": 0.973134328358209
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

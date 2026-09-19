@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "date": "2024-08-01",
+    "quarter": "Q3",
+    "year": 2024
+  },
+  "prepared_remarks": {
+    "text": "Apple reports third quarter results June quarter records for Revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2024 third quarter ended June 29, 2024.\n\nThe Company posted quarterly revenue of $85.8 billion, up 5 percent year over year, and quarterly earnings per diluted share of $1.40, up 11 percent year over year.\n\n“Today Apple is reporting a new June quarter revenue record of $85.8 billion, up 5 percent from a year ago,” said Tim Cook, Apple’s CEO.\n\n“During the quarter, we were excited to announce incredible updates to our software platforms at our Worldwide Developers Conference, including Apple Intelligence, a breakthrough personal intelligence system that puts powerful, private generative AI models at the core of iPhone, iPad, and Mac.\n\nWe very much look forward to sharing these tools with our users, and we continue to invest significantly in the innovations that will enrich our customers’ lives, while leading with the values that drive our work.” “During the quarter, our record business performance generated EPS growth of 11 percent and nearly $29 billion in operating cash flow, allowing us to return over $32 billion to shareholders,” said Luca Maestri, Apple’s CFO.\n\n“We are also very pleased that our installed base of active devices reached a new all-time high in all geographic segments, thanks to very high levels of customer satisfaction and loyalty.” Apple’s board of directors has declared a cash dividend of $0.25 per share of the Company’s common stock.\n\nThe dividend is payable on August 15, 2024 to shareholders of record as of the close of business on August 12, 2024.\n\nApple will provide live streaming of its Q3 2024 financial results conference call beginning at 2:00 p.m.\n\nPT on August 1, 2024 at apple.com/investor/earnings-call.\n\nThe webcast will be available for replay for approximately two weeks thereafter.\n\nApple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com.\n\nThis includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.",
+    "word_count": 357,
+    "speaker_segments": [],
+    "chunks": [
+      "Apple reports third quarter results June quarter records for Revenue and EPS Services revenue reaches new all-time high CUPERTINO, CALIFORNIA — Apple ® today announced financial results for its fiscal 2024 third quarter ended June 29, 2024. The Company posted quarterly revenue of $85.8 billion, up 5 percent year over year, and quarterly earnings per diluted share of $1.40, up 11 percent year over year. “Today Apple is reporting a new June quarter revenue record of $85.8 billion, up 5 percent from a year ago,” said Tim Cook, Apple’s CEO. “During the quarter, we were excited to announce incredible updates to our software platforms at our Worldwide Developers Conference, including Apple Intelligence, a breakthrough personal intelligence system that puts powerful, private generative AI models at the core of iPhone, iPad, and Mac. We very much look forward to sharing these tools with our users, and we continue to invest significantly in the innovations that will enrich our customers’ lives, while leading with the values that drive our work.” “During the quarter, our record business performance generated EPS growth of 11 percent and nearly $29 billion in operating cash flow, allowing us to return over $32 billion to shareholders,” said Luca Maestri, Apple’s CFO. “We are also very pleased that our installed base of active devices reached a new all-time high in all geographic segments, thanks to very high levels of customer satisfaction and loyalty.” Apple’s board of directors has declared a cash dividend of $0.25 per share of the Company’s common stock. The dividend is payable on August 15, 2024 to shareholders of record as of the close of business on August 12, 2024. Apple will provide live streaming of its Q3 2024 financial results conference call beginning at 2:00 p.m.\n\nPT on August 1, 2024 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter. Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.6982421875,
+      "probabilities": {
+        "negative": 0.01031494140625,
+        "neutral": 0.291259765625,
+        "positive": 0.6982421875
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": 0.68792724609375,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.6982421875,
+        "probabilities": {
+          "positive": 0.6982421875,
+          "negative": 0.01031494140625,
+          "neutral": 0.291259765625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 2,
+      "evasive_pattern_count": 0,
+      "total_words": 357,
+      "uncertainty_ratio": 0.0056022408963585435,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.03361344537815126,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 1
+        },
+        {
+          "word": "about",
+          "count": 1
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.68792724609375,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.68792724609375,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.03314917127071823,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.03314917127071823,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9357808217281053,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.843963623046875,
+        "uncertainty_factor": 0.9663865546218487
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "company": "MICROSOFT CORP",
+    "ticker": "MSFT",
+    "date": "2023-01-24",
+    "quarter": "Q4",
+    "year": 2022
+  },
+  "prepared_remarks": {
+    "text": "Microsoft Cloud Strength Drives Second Quarter Results REDMOND, Wash.\n\ntoday announced the following results for the quarter ended December 31, 2022, as compared to the corresponding period of last fiscal year: • Revenue was $52.7 billion and increased 2% • Operating income was $20.4 billion GAAP and $21.6 billion non-GAAP, and decreased 8% and 3%, respectively • Net income was $16.4 billion GAAP and $17.4 billion non-GAAP, and decreased 12% and 7%, respectively • Diluted earnings per share was $2.20 GAAP and $2.32 non-GAAP, and decreased 11% and 6%, respectively “The next major wave of computing is being born, as the Microsoft Cloud turns the world’s most advanced AI models into a new computing platform,” said Satya Nadella, chairman and chief executive officer of Microsoft.\n\n“We are committed to helping our customers use our platforms and tools to do more with less today and innovate for the future in the new era of AI.” “We are focused on operational excellence as we continue to invest to drive growth.\n\nMicrosoft Cloud revenue was $27.1 billion, up 22% (up 29% in constant currency) year-over-year as our commercial offerings continue to drive value for our customers,” said Amy Hood, executive vice president and chief financial officer of Microsoft.\n\nThe following table reconciles our financial results reported in accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results.",
+    "word_count": 225,
+    "speaker_segments": [],
+    "chunks": [
+      "Microsoft Cloud Strength Drives Second Quarter Results REDMOND, Wash.\n\ntoday announced the following results for the quarter ended December 31, 2022, as compared to the corresponding period of last fiscal year: • Revenue was $52.7 billion and increased 2% • Operating income was $20.4 billion GAAP and $21.6 billion non-GAAP, and decreased 8% and 3%, respectively • Net income was $16.4 billion GAAP and $17.4 billion non-GAAP, and decreased 12% and 7%, respectively • Diluted earnings per share was $2.20 GAAP and $2.32 non-GAAP, and decreased 11% and 6%, respectively “The next major wave of computing is being born, as the Microsoft Cloud turns the world’s most advanced AI models into a new computing platform,” said Satya Nadella, chairman and chief executive officer of Microsoft. “We are committed to helping our customers use our platforms and tools to do more with less today and innovate for the future in the new era of AI.” “We are focused on operational excellence as we continue to invest to drive growth. Microsoft Cloud revenue was $27.1 billion, up 22% (up 29% in constant currency) year-over-year as our commercial offerings continue to drive value for our customers,” said Amy Hood, executive vice president and chief financial officer of Microsoft. The following table reconciles our financial results reported in accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results."
+    ],
+    "chunk_count": 1,
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.67822265625,
+      "probabilities": {
+        "negative": 0.67822265625,
+        "neutral": 0.2095947265625,
+        "positive": 0.1123046875
+      },
+      "method": "average_probability",
+      "chunk_count": 1
+    },
+    "sentiment_score": -0.56591796875,
+    "sentiment_by_chunk": [
+      {
+        "label": "negative",
+        "confidence": 0.67822265625,
+        "probabilities": {
+          "positive": 0.1123046875,
+          "negative": 0.67822265625,
+          "neutral": 0.2095947265625
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 0,
+      "evasive_pattern_count": 0,
+      "total_words": 225,
+      "uncertainty_ratio": 0.0,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": -0.56591796875,
+    "qa_session_score": 0.0,
+    "sentiment_gap": -0.56591796875,
+    "gap_interpretation": "Q&A significativamente más optimista que Prepared remarks"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.0,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": 0.0,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.80426025390625,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.217041015625,
+        "uncertainty_factor": 1.0
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}

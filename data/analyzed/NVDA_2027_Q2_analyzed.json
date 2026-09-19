@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "date": "2026-08-26",
+    "quarter": "Q2",
+    "year": 2027
+  },
+  "prepared_remarks": {
+    "text": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 • Revenue of $96.2 billion, up 106% from a year ago • Data Center revenue of $89.0 billion, up 117% from a year ago SANTA CLARA, Calif.—Aug.\n\n26, 2026― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.\n\nFor the quarter, GAAP and non-GAAP gross margins were both 75.0%.\n\nGAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively.\n\n“AI has reached its inflection point.\n\nIts tokens are productive and profitable.\n\nNow, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA.\n\nThis time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S.\n\nThe AI infrastructure buildout is at full steam.\n\nVera Rubin, now in full production, was built to power exactly this moment.” During the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends.\n\nAs of the end of the second quarter, the company had approximately $99.0 billion remaining under its share repurchase authorization.\n\nNVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026.\n\nQ2 Fiscal 2027 Summary GAAP ($ in millions, except earnings per share) Q2 FY27 Q1 FY27 Q2 FY26 Q/Q Y/Y Revenue $96,221 $81,615 $46,743 18 % 106 % Gross margin 75.0 % 74.9 % 72.4 % 0.1 pts 2.6 pts Operating expenses $8,408 $7,621 $5,413 10 % 55 % Operating income $63,734 $53,536 $28,440 19 % 124 % Net income $59,688 $58,321 $26,422 2 % 126 % Diluted earnings per share $2.46 $2.39 $1.08 3 % 128 % Non-GAAP ($ in millions, except earnings per share) Q2 FY27 Q1 FY27 Q2 FY26 Q/Q Y/Y Revenue $96,221 $81,615 $46,743 18 % 106 % Gross margin 75.0 % 75.0 % 72.5 % — 2.5 pts Operating expenses $8,232 $7,449 $5,361 11 % 54 % Operating income $63,956 $53,783 $28,541 19 % 124 % Net income $53,954 $45,548 $24,763 18 % 118 % Diluted earnings per share $2.22 $1.87 $1.01 19 % 120 % Outlook NVIDIA’s outlook for the third quarter of fiscal 2027 is as follows: • Revenue is expected to be $108.0 billion, plus or minus 2%.\n\nNVIDIA is not assuming any Data Center compute revenue from China in its outlook.\n\n• GAAP and non-GAAP gross margins are expected to be 74.0%, plus or minus 50 basis points.\n\n• GAAP and non-GAAP operating expenses are expected to be approximately $9.2 billion and $9.0 billion, respectively.\n\nFor the full year fiscal 2027, NVIDIA expects GAAP and non-GAAP tax rates to be between 16.0% and 18.0%, excluding any discrete items and material changes to NVIDIA’s tax environment.\n\nHighlights Data Center • Second-quarter revenue was $89.0 billion, up 18% from the previous quarter and up 117% from a year ago.\n\n• Announced the NVIDIA Vera Rubin platform is ramping into full production with racks running at partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius.\n\n• Revealed that NVIDIA Spectrum™-6 switch systems — supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform — are arriving across the world’s gigascale AI factories.\n\n• Unveiled NVIDIA Vera, the first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers.\n\n• Announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production.\n\n• Introduced new security innovations for NVIDIA Vera BlueField™-4 STX, delivering agentic AI storage processing with in-silicon security for AI factories.\n\n• Launched the NVIDIA DSX™ platform, providing infrastructure builders a complete playbook to design, build and operate AI factories at scale.\n\n• Announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 billion of third-party capital for the buildout of AI infrastructure over time, subject to definitive agreements.\n\n• Announced that SpaceXAI will deploy NVIDIA Vera CPUs to accelerate its next generation of agentic AI applications.\n\n• Secured land, power and shell capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Ohio to host NVIDIA compute.\n\n• Revealed that NVIDIA Blackwell led across every category in the MLPerf Training 6.0 benchmarks and in AgentPerf, the industry’s first agentic AI infrastructure benchmark.\n\n• Announced new software, open source models and partnerships with the world’s leading software platform providers to build autonomous AI agents for industries and enterprises; expanded NVIDIA Agent Toolkit with NVIDIA PhysicsNeMo and new and updated NVIDIA CUDA-X™ libraries.\n\n• Launched NVIDIA BioNeMo™ Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.\n\n• Formed the Open Secure AI Alliance with industry leaders to advance AI safety and security.\n\n• Revealed that NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute.\n\n• Expanded Korea’s AI factory ecosystem through strategic partnerships with SK Telecom, NAVER and Brookfield to build sovereign AI infrastructure at gigawatt scale on the NVIDIA DSX platform, as part of a broader NVIDIA-powered national AI push across Korea’s industries and research institutions.\n\n• Announced a multiyear technology partnership with SK hynix to advance next-generation memory for the global AI factory buildout.\n\n• Partnered with the Japan government and industrial leaders to launch the world’s first national AI infrastructure; revealed that Japan’s leading enterprises, startups and research institutions are building industry-specialized AI models with NVIDIA Nemotron™ open models.\n\n• Announced that the NVIDIA Vera Rubin platform delivers world-class supercomputers for science; announced a record 35 new NVIDIA AI HPC supercomputers in development across Europe.\n\nEdge Computing • Second-quarter Edge Computing revenue was $7.2 billion, up 13% from the previous quarter and up 27% from a year ago.\n\n• Partnered with Microsoft to reinvent the Windows PC with NVIDIA RTX Spark™ — a 1-petaflop superchip with the full CUDA™ and NVIDIA RTX™ ecosystem.\n\n• Announced NVIDIA DGX Station™ for Windows, the world’s most powerful deskside AI supercomputer for developing and running agents on Windows.\n\n• Launched a local AI initiative with optimizations for top open models — DeepSeek v4 Flash, Diffusion Gemma, Nemotron 3.5 Lightning and Qwen 3.8 — and agent harnesses Hermes Agent and OpenClaw across RTX and DGX platforms.\n\n• Expanded the NVIDIA DRIVE Hyperion™ robotaxi-ready platform ecosystem, including strategic collaborations with Foxconn, VinFast, Uber and HUMAIN.\n\n• Introduced NVIDIA Alpamayo 2 Super, the frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use.\n\n• Launched NVIDIA Cosmos™ 3, the world’s first fully open frontier omnimodel for physical AI.\n\n• Announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.\n\n• Announced NVIDIA Halos for Robotics, the industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform.\n\n• Released a major collection of open source agent tools and skills for physical AI, enabling developers to turn complex robotics, autonomous vehicle and vision AI workflows into agent-executable tasks.\n\nCFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com.",
+    "word_count": 1251,
+    "speaker_segments": [],
+    "chunks": [
+      "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 • Revenue of $96.2 billion, up 106% from a year ago • Data Center revenue of $89.0 billion, up 117% from a year ago SANTA CLARA, Calif.—Aug. 26, 2026― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.” During the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the second quarter, the company had approximately $99.0 billion remaining under its share repurchase authorization. NVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026.",
+      "NVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026. Q2 Fiscal 2027 Summary GAAP ($ in millions, except earnings per share) Q2 FY27 Q1 FY27 Q2 FY26 Q/Q Y/Y Revenue $96,221 $81,615 $46,743 18 % 106 % Gross margin 75.0 % 74.9 % 72.4 % 0.1 pts 2.6 pts Operating expenses $8,408 $7,621 $5,413 10 % 55 % Operating income $63,734 $53,536 $28,440 19 % 124 % Net income $59,688 $58,321 $26,422 2 % 126 % Diluted earnings per share $2.46 $2.39 $1.08 3 % 128 % Non-GAAP ($ in millions, except earnings per share) Q2 FY27 Q1 FY27 Q2 FY26 Q/Q Y/Y Revenue $96,221 $81,615 $46,743 18 % 106 % Gross margin 75.0 % 75.0 % 72.5 % — 2.5 pts Operating expenses $8,232 $7,449 $5,361 11 % 54 % Operating income $63,956 $53,783 $28,541 19 % 124 % Net income $53,954 $45,548 $24,763 18 % 118 % Diluted earnings per share $2.22 $1.87 $1.01 19 % 120 % Outlook NVIDIA’s outlook for the third quarter of fiscal 2027 is as follows: • Revenue is expected to be $108.0 billion, plus or minus 2%. NVIDIA is not assuming any Data Center compute revenue from China in its outlook. • GAAP and non-GAAP gross margins are expected to be 74.0%, plus or minus 50 basis points. • GAAP and non-GAAP operating expenses are expected to be approximately $9.2 billion and $9.0 billion, respectively. For the full year fiscal 2027, NVIDIA expects GAAP and non-GAAP tax rates to be between 16.0% and 18.0%, excluding any discrete items and material changes to NVIDIA’s tax environment. Highlights Data Center • Second-quarter revenue was $89.0 billion, up 18% from the previous quarter and up 117% from a year ago. • Announced the NVIDIA Vera Rubin platform is ramping into full production with racks running at partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. • Revealed that NVIDIA Spectrum™-6 switch systems — supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform — are arriving across the world’s gigascale AI factories. • Unveiled NVIDIA Vera, the first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers.",
+      "• Unveiled NVIDIA Vera, the first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers. • Announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. • Introduced new security innovations for NVIDIA Vera BlueField™-4 STX, delivering agentic AI storage processing with in-silicon security for AI factories. • Launched the NVIDIA DSX™ platform, providing infrastructure builders a complete playbook to design, build and operate AI factories at scale. • Announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 billion of third-party capital for the buildout of AI infrastructure over time, subject to definitive agreements. • Announced that SpaceXAI will deploy NVIDIA Vera CPUs to accelerate its next generation of agentic AI applications. • Secured land, power and shell capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Ohio to host NVIDIA compute. • Revealed that NVIDIA Blackwell led across every category in the MLPerf Training 6.0 benchmarks and in AgentPerf, the industry’s first agentic AI infrastructure benchmark. • Announced new software, open source models and partnerships with the world’s leading software platform providers to build autonomous AI agents for industries and enterprises; expanded NVIDIA Agent Toolkit with NVIDIA PhysicsNeMo and new and updated NVIDIA CUDA-X™ libraries. • Launched NVIDIA BioNeMo™ Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era. • Formed the Open Secure AI Alliance with industry leaders to advance AI safety and security. • Revealed that NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute. • Expanded Korea’s AI factory ecosystem through strategic partnerships with SK Telecom, NAVER and Brookfield to build sovereign AI infrastructure at gigawatt scale on the NVIDIA DSX platform, as part of a broader NVIDIA-powered national AI push across Korea’s industries and research institutions. • Announced a multiyear technology partnership with SK hynix to advance next-generation memory for the global AI factory buildout. • Partnered with the Japan government and industrial leaders to launch the world’s first national AI infrastructure; revealed that Japan’s leading enterprises, startups and research institutions are building industry-specialized AI models with NVIDIA Nemotron™ open models.",
+      "• Partnered with the Japan government and industrial leaders to launch the world’s first national AI infrastructure; revealed that Japan’s leading enterprises, startups and research institutions are building industry-specialized AI models with NVIDIA Nemotron™ open models. • Announced that the NVIDIA Vera Rubin platform delivers world-class supercomputers for science; announced a record 35 new NVIDIA AI HPC supercomputers in development across Europe. Edge Computing • Second-quarter Edge Computing revenue was $7.2 billion, up 13% from the previous quarter and up 27% from a year ago. • Partnered with Microsoft to reinvent the Windows PC with NVIDIA RTX Spark™ — a 1-petaflop superchip with the full CUDA™ and NVIDIA RTX™ ecosystem. • Announced NVIDIA DGX Station™ for Windows, the world’s most powerful deskside AI supercomputer for developing and running agents on Windows. • Launched a local AI initiative with optimizations for top open models — DeepSeek v4 Flash, Diffusion Gemma, Nemotron 3.5 Lightning and Qwen 3.8 — and agent harnesses Hermes Agent and OpenClaw across RTX and DGX platforms. • Expanded the NVIDIA DRIVE Hyperion™ robotaxi-ready platform ecosystem, including strategic collaborations with Foxconn, VinFast, Uber and HUMAIN. • Introduced NVIDIA Alpamayo 2 Super, the frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use. • Launched NVIDIA Cosmos™ 3, the world’s first fully open frontier omnimodel for physical AI. • Announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform. • Announced NVIDIA Halos for Robotics, the industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform. • Released a major collection of open source agent tools and skills for physical AI, enabling developers to turn complex robotics, autonomous vehicle and vision AI workflows into agent-executable tasks. CFO Commentary Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com."
+    ],
+    "chunk_count": 4,
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.5585479736328125,
+      "probabilities": {
+        "negative": 0.021211624145507812,
+        "neutral": 0.42034149169921875,
+        "positive": 0.5585479736328125
+      },
+      "method": "average_probability",
+      "chunk_count": 4
+    },
+    "sentiment_score": 0.5373363494873047,
+    "sentiment_by_chunk": [
+      {
+        "label": "positive",
+        "confidence": 0.93798828125,
+        "probabilities": {
+          "positive": 0.93798828125,
+          "negative": 0.013885498046875,
+          "neutral": 0.048309326171875
+        }
+      },
+      {
+        "label": "neutral",
+        "confidence": 0.92333984375,
+        "probabilities": {
+          "positive": 0.02716064453125,
+          "negative": 0.049530029296875,
+          "neutral": 0.92333984375
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.53271484375,
+        "probabilities": {
+          "positive": 0.53271484375,
+          "negative": 0.01018524169921875,
+          "neutral": 0.45703125
+        }
+      },
+      {
+        "label": "positive",
+        "confidence": 0.736328125,
+        "probabilities": {
+          "positive": 0.736328125,
+          "negative": 0.0112457275390625,
+          "neutral": 0.252685546875
+        }
+      }
+    ],
+    "uncertainty": {
+      "uncertainty_word_count": 3,
+      "evasive_pattern_count": 0,
+      "total_words": 1251,
+      "uncertainty_ratio": 0.002398081534772182,
+      "evasive_ratio": 0.0,
+      "uncertainty_score": 0.01438848920863309,
+      "uncertainty_level": "Baja",
+      "frequent_uncertainty_words": [
+        {
+          "word": "approximately",
+          "count": 3
+        }
+      ],
+      "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+      "extracted_cautions": []
+    }
+  },
+  "qa_session": {
+    "text": "",
+    "word_count": 0,
+    "speaker_segments": [],
+    "question_count": 0,
+    "chunks": [],
+    "chunk_count": 0,
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0,
+      "probabilities": {
+        "negative": 0.0,
+        "neutral": 1.0,
+        "positive": 0.0
+      },
+      "method": "no_data"
+    },
+    "sentiment_score": 0.0,
+    "sentiment_by_chunk": [],
+    "uncertainty": {
+      "overall_uncertainty": {
+        "uncertainty_word_count": 0,
+        "evasive_pattern_count": 0,
+        "total_words": 0,
+        "uncertainty_ratio": 0,
+        "evasive_ratio": 0,
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "Baja",
+        "frequent_uncertainty_words": [],
+        "interpretation": "Lenguaje muy confiado y directo. Poca evidencia de duda o evasión.",
+        "extracted_cautions": []
+      },
+      "speaker_uncertainty": {},
+      "executive_uncertainty": {},
+      "analyst_question_count": 0,
+      "executive_uncertainty_avg": {
+        "uncertainty_score": 0.0,
+        "uncertainty_level": "N/A",
+        "executives_analyzed": 0
+      },
+      "interpretation": "Nivel general de incertidumbre: Baja. No se pudo analizar por ejecutivos."
+    }
+  },
+  "speakers": [
+    "NASDAQ"
+  ],
+  "segmentation_confidence": 0.0,
+  "sentiment_analysis": {
+    "prepared_remarks_score": 0.5373363494873047,
+    "qa_session_score": 0.0,
+    "sentiment_gap": 0.5373363494873047,
+    "gap_interpretation": "Prepared remarks significativamente más optimistas que Q&A"
+  },
+  "uncertainty_analysis": {
+    "prepared_uncertainty_score": 0.014331210191082801,
+    "qa_uncertainty_score": 0.0,
+    "uncertainty_gap": -0.014331210191082801,
+    "gap_interpretation": "Nivel de incertidumbre similar entre secciones",
+    "executive_uncertainty": {
+      "uncertainty_score": 0.0,
+      "uncertainty_level": "N/A",
+      "executives_analyzed": 0
+    }
+  },
+  "executive_confidence": {
+    "executive_confidence_indicator": {
+      "confidence_score": 0.9313756767794382,
+      "confidence_level": "HIGH",
+      "factors": {
+        "sentiment_factor": 0.7686681747436523,
+        "uncertainty_factor": 0.9856115107913669
+      }
+    }
+  },
+  "sentiment_model": {
+    "name": "ProsusAI/finbert",
+    "labels": [
+      "positive",
+      "negative",
+      "neutral"
+    ]
+  }
+}
