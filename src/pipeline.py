@@ -9,15 +9,6 @@ import re
 from typing import Dict, List, Optional, Tuple, Union
 from datetime import datetime
 
-from src.data_fetcher import create_transcript_fetcher
-from src.real_data_fetcher import RealDataFetcher
-from src.real_financial_data import RealDataFetcher as RealFinancialDataFetcher
-from src.fmp_fetcher import FMPAutoFetcher
-from src.segmenter import TranscriptSegmenter
-from src.chunker import TextChunker
-from src.uncertainty_analyzer import UncertaintyAnalyzer
-from src.temporal_analyzer import TemporalAnalyzer
-
 
 class EarningsCallPipeline:
     """Pipeline completo para análisis de earnings calls."""
@@ -34,19 +25,26 @@ class EarningsCallPipeline:
         
         # Inicializar componentes según el tipo de fuente
         if source_type == "real_financial":
-            # Usar FMP para transcripciones REALES descargadas automáticamente
-            self.fetcher: Union[FMPAutoFetcher, RealDataFetcher, object] = FMPAutoFetcher()
+            from src.fmp_fetcher import FMPAutoFetcher
+            self.fetcher: Union[FMPAutoFetcher, object] = FMPAutoFetcher()
             self.source_type: str = source_type
         elif source_type in ["realistic", "generic"]:
+            from src.real_data_fetcher import RealDataFetcher
             self.fetcher = RealDataFetcher()
             self.source_type = source_type
         else:
+            from src.data_fetcher import create_transcript_fetcher
             self.fetcher = create_transcript_fetcher(source_type)
             self.source_type = source_type
-            
+
+        from src.segmenter import TranscriptSegmenter
+        from src.chunker import TextChunker
+        from src.sentiment_analyzer import FinBERTAnalyzer
+        from src.uncertainty_analyzer import UncertaintyAnalyzer
+        from src.temporal_analyzer import TemporalAnalyzer
+
         self.segmenter = TranscriptSegmenter()
         self.chunker = TextChunker()
-        from src.sentiment_analyzer import FinBERTAnalyzer
         self.sentiment_analyzer = FinBERTAnalyzer(device=device)
         self.uncertainty_analyzer = UncertaintyAnalyzer()
         self.temporal_analyzer = TemporalAnalyzer()

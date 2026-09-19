@@ -119,7 +119,6 @@ def _load_analyzed_for_ticker(ticker: str, limit: Optional[int] = None):
         except Exception:
             temporal = None
     if transcripts:
-        from src.pipeline import EarningsCallPipeline
         from src.temporal_analyzer import TemporalAnalyzer
         ta = TemporalAnalyzer()
         if not temporal:
